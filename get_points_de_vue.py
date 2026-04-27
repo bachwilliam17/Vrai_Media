@@ -1,0 +1,45 @@
+from IA_prompts import prompt_IA
+
+
+"""
+    Recuperer le point de vue d'un bord politique grace a une requete LLM
+"""
+def get_pdv(id_articles, desc_articles, prompt_synthese):
+    # Construire un input avec les descriptions d'articles
+        desc_articles = "## DONNÉES D'ENTRÉE"
+        n = 1
+        for article in id_articles:
+            # Rajouter la description de l'article actuel
+            desc = desc_articles.get(article['id_article'])
+            if desc is not None:
+                desc_articles += f"\nArticle {n}: "
+                desc_articles += f"{desc}."
+
+        # Recuperer le point de vue general avec une requete LLM
+        if "Article" in desc_articles:
+            return prompt_IA(prompt_synthese, desc_articles)
+        else:
+            return None
+
+
+"""
+    Generer une synthese des points de vue de chaque bord politique 
+    pour tous les sujets d'actualite
+"""
+def get_points_de_vue(sujets, desc_articles, prompt_synthese):
+    print("\nRecuperation de la synthese des points de vue pour chaque camp ..")
+    points_de_vue = {}
+
+    # Parcourir les sujets d'actualite
+    for sujet in sujets['sujets']:
+
+        # Recuperer le point de vue de la droite
+        pdv_droite = get_pdv(sujet['droite'], desc_articles, prompt_synthese)
+        points_de_vue['droite'] = pdv_droite
+        
+        # Recuperer le point de vue de la gauche
+        pdv_gauche = get_pdv(sujet['gauche'], desc_articles, prompt_synthese)
+        points_de_vue['gauche'] = pdv_gauche
+    
+    print("\nPoints de vue pour chaque camp recuperes.")
+    return points_de_vue
