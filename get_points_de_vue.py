@@ -32,14 +32,15 @@ def get_points_de_vue(sujets, desc_articles, prompt_synthese):
 
     # Parcourir les sujets d'actualite
     for sujet in sujets['sujets']:
+        points_de_vue[sujet] = {}
 
         # Recuperer le point de vue de la droite
         pdv_droite = get_pdv(sujet['droite'], desc_articles, prompt_synthese)
-        points_de_vue['droite'] = pdv_droite
+        points_de_vue[sujet]['droite'] = pdv_droite
         
         # Recuperer le point de vue de la gauche
         pdv_gauche = get_pdv(sujet['gauche'], desc_articles, prompt_synthese)
-        points_de_vue['gauche'] = pdv_gauche
+        points_de_vue[sujet]['gauche'] = pdv_gauche
     
     print("\nPoints de vue pour chaque camp recuperes.")
     return points_de_vue

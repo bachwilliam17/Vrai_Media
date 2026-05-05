@@ -14,14 +14,18 @@ with open('descriptions_articles.txt', 'w') as f:
 # Recuperer la liste des sujets majeurs avec l'IA
 with open('prompts/prompt_sujets.txt', 'r') as f:
     prompt_sujets = f.read()
-#sujets = prompt_IA(prompt_sujets, articles_string)
+sujets = prompt_IA(prompt_sujets, articles_string)
+print("\nSujets majeurs recuperes.")
 
 # Recuperer la synthese des points de vue pour chaque camp avec l'IA
 articles_descriptions = get_description_articles(articles)
 with open('prompts/prompt_synthese', 'r') as f:
     prompt_synthese = f.read()
-#pdv = get_points_de_vue(sujets, articles_descriptions, prompt_synthese)
-#print(pdv['droite'])
-#print(pdv['gauche'])
+pdv = get_points_de_vue(sujets, articles_descriptions, prompt_synthese)
+
+for sujet in sujets['sujets']:
+    print(f"\nSujet {sujet}:")
+    print(f"Droite: {pdv[sujet]['droite']}")
+    print(f"Gauche: {pdv[sujet]['gauche']}")
 
 print("\nExecution terminee.")
