@@ -1,6 +1,8 @@
 from openai import OpenAI
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Entrer un prompt et recuperer son output
@@ -8,7 +10,7 @@ def prompt_IA(system_prompt, user_prompt):
     print("\nEnvoi de la requete au LLM ..")
     
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-5.2",
         messages=[
             { "role": "system", "content": f"{system_prompt}" },
             { "role": "user",   "content": f"{user_prompt}"   }
