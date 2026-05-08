@@ -33,9 +33,11 @@ with open('prompts/prompt_synthese.txt', 'r') as f:
     prompt_synthese = f.read()
 pdv = get_points_de_vue(sujets_dict, articles_descriptions, prompt_synthese)
 
-for sujet in sujets['sujets']:
-    print(f"\nSujet {sujet}:")
-    print(f"Droite: {pdv[sujet]['droite']}")
-    print(f"Gauche: {pdv[sujet]['gauche']}")
+for sujet in sujets_dict['sujets']:
+    nom_sujet = sujet['nom_sujet']
+
+    print(f"\nSujet {nom_sujet}:")
+    print(f"Droite: {pdv[nom_sujet]['droite']}")
+    print(f"Gauche: {pdv[nom_sujet]['gauche']}")
 
 print("\nExecution terminee.")
