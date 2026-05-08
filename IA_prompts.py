@@ -10,7 +10,7 @@ def prompt_IA(system_prompt, user_prompt):
     print("\nEnvoi de la requete au LLM ..")
     
     response = client.chat.completions.create(
-        model="gpt-5.2",
+        model="gpt-5.4-mini",
         messages=[
             { "role": "system", "content": f"{system_prompt}" },
             { "role": "user",   "content": f"{user_prompt}"   }

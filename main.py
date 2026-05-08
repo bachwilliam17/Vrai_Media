@@ -9,24 +9,29 @@ medias_data_json = "flux_rss_medias.json"
 articles = get_articles(medias_data_json)
 
 # Recuperer la version textuelle des articles pour le prompt IA
-articles_string = get_articles_string(articles)
-with open('descriptions_articles.txt', 'w') as f:
-    f.write(articles_string)
+#articles_string = get_articles_string(articles)
+#with open('titres_articles.txt', 'w') as f:
+#    f.write(articles_string)
 
 # Recuperer la liste des sujets majeurs avec l'IA
-with open('prompts/prompt_sujets.txt', 'r') as f:
-    prompt_sujets = f.read()
-sujets = prompt_IA(prompt_sujets, articles_string)
+#with open('prompts/prompt_sujets.txt', 'r') as f:
+#    prompt_sujets = f.read()
+#sujets = prompt_IA(prompt_sujets, articles_string)
 print("\nSujets majeurs recuperes.")
-with open("liste_sujets.txt", 'w') as f:
-    f.write(sujets)
-raise ValueError
+
+# Enregistrer la liste des sujets
+#with open("liste_sujets.txt", 'w') as f:
+#    f.write(sujets)
+
+with open('liste_sujets.txt', 'r') as f:
+    sujets = f.read()
+sujets_dict = json.loads(sujets)
 
 # Recuperer la synthese des points de vue pour chaque camp avec l'IA
 articles_descriptions = get_description_articles(articles)
 with open('prompts/prompt_synthese.txt', 'r') as f:
     prompt_synthese = f.read()
-pdv = get_points_de_vue(sujets, articles_descriptions, prompt_synthese)
+pdv = get_points_de_vue(sujets_dict, articles_descriptions, prompt_synthese)
 
 for sujet in sujets['sujets']:
     print(f"\nSujet {sujet}:")

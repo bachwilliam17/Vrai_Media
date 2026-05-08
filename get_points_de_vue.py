@@ -6,18 +6,19 @@ from IA_prompts import prompt_IA
 """
 def get_pdv(id_articles, desc_articles, prompt_synthese):
     # Construire un input avec les descriptions d'articles
-        desc_articles = "## DONNÉES D'ENTRÉE"
+        desc_articles_string = "## DONNÉES D'ENTRÉE"
         n = 1
+
         for article in id_articles:
             # Rajouter la description de l'article actuel
             desc = desc_articles.get(article['id_article'])
             if desc is not None:
-                desc_articles += f"\nArticle {n}: "
-                desc_articles += f"{desc}."
+                desc_articles_string += f"\nArticle {n}: "
+                desc_articles_string += f"{desc}."
 
         # Recuperer le point de vue general avec une requete LLM
         if "Article" in desc_articles:
-            return prompt_IA(prompt_synthese, desc_articles)
+            return prompt_IA(prompt_synthese, desc_articles_string)
         else:
             return None
 
@@ -31,7 +32,7 @@ def get_points_de_vue(sujets, desc_articles, prompt_synthese):
     points_de_vue = {}
 
     # Parcourir les sujets d'actualite
-    for sujet in sujets:
+    for sujet in sujets['sujets']:
         points_de_vue[sujet['nom_sujet']] = {}
 
         # Recuperer le point de vue de la droite
