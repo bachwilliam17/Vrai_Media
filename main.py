@@ -10,7 +10,6 @@ import json
 # Recuperer tous les articles
 medias_data_json = "flux_rss_medias.json"
 articles = get_articles(medias_data_json)
-print(f"{articles}\n\n\n")
 
 # Recuperer la version textuelle des articles pour le prompt IA
 #articles_string = get_articles_string(articles)
@@ -41,8 +40,9 @@ with open("outputs/synthese_sujets.txt", 'w') as f:
     for sujet in sujets_dict['sujets']:
         nom_sujet = sujet['nom_sujet']
 
-        f.write(f"\nSujet {nom_sujet}:")
-        f.write(f"Droite: {pdv[nom_sujet]['droite']}")
-        f.write(f"Gauche: {pdv[nom_sujet]['gauche']}")
+        if nom_sujet in pdv:
+            f.write(f"\n\nSujet {nom_sujet}:")
+            f.write(f"\nDroite: {pdv[nom_sujet]['droite']}")
+            f.write(f"\nGauche: {pdv[nom_sujet]['gauche']}")
 
 print("\nExecution terminee.")

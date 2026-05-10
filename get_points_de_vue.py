@@ -40,12 +40,14 @@ def get_points_de_vue(sujets, desc_articles, prompt_synthese):
 
     # Parcourir les sujets d'actualite
     for sujet in sujets['sujets']:
-        nom_sujet = sujet['nom_sujet']
-        points_de_vue[nom_sujet] = {}
 
         # Verifier qu'il y a au moins 6 descriptions d'articles
         articles_count = len(sujet['droite']) + len(sujet['gauche'])
         if articles_count > 5:
+            # Recuperer le sujet actuel
+            nom_sujet = sujet['nom_sujet']
+            points_de_vue[nom_sujet] = {}
+
             # Recuperer le point de vue de la droite
             pdv_droite = get_pdv(sujet['droite'], desc_articles, prompt_synthese)
             points_de_vue[nom_sujet]['droite'] = pdv_droite
