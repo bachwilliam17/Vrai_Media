@@ -1,5 +1,8 @@
-from get_articles import get_articles, get_description_articles, get_articles_string
+import sys
+sys.path.append("/Users/williambach/Documents/Python Library")
+
 from IA_prompts import prompt_IA
+from get_articles import get_articles, get_description_articles, get_articles_string
 from get_points_de_vue import get_points_de_vue
 
 import json
@@ -16,7 +19,7 @@ articles = get_articles(medias_data_json)
 # Recuperer la liste des sujets majeurs avec l'IA
 #with open('prompts/prompt_sujets.txt', 'r') as f:
 #    prompt_sujets = f.read()
-#sujets = prompt_IA(prompt_sujets, articles_string)
+#sujets = prompt_IA("gpt-5.4-mini", prompt_sujets, articles_string)
 print("\nSujets majeurs recuperes.")
 
 # Enregistrer la liste des sujets

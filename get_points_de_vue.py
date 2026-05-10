@@ -1,3 +1,5 @@
+import sys
+sys.path.append("/Users/williambach/Documents/Python Library")
 from IA_prompts import prompt_IA
 
 
@@ -20,7 +22,11 @@ def get_pdv(id_articles, desc_articles, prompt_synthese):
         print(f"Description articles: {desc_articles_string}")
         # Recuperer le point de vue general avec une requete LLM
         if "Article" in desc_articles_string:
-            return prompt_IA(prompt_synthese, desc_articles_string)
+            return prompt_IA(
+                "gpt-5.4-mini", 
+                prompt_synthese, 
+                desc_articles_string
+            )
         else:
             return None
 

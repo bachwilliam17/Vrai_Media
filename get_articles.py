@@ -66,6 +66,7 @@ def get_articles(medias_data_json):
 # Retourne un dict avec les descriptions des articles associees a leur id
 def get_description_articles(articles_dict):
     description_articles = {}
+    
     # Parcourir les medias
     for media in articles_dict['medias']:
         # Parcourir les articles de chaque media
