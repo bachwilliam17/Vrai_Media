@@ -10,10 +10,11 @@ import json
 # Recuperer tous les articles
 medias_data_json = "flux_rss_medias.json"
 articles = get_articles(medias_data_json)
+print(f"{articles}\n\n\n")
 
 # Recuperer la version textuelle des articles pour le prompt IA
 #articles_string = get_articles_string(articles)
-#with open('titres_articles.txt', 'w') as f:
+#with open("outputs/titres_articles.txt", 'w') as f:
 #    f.write(articles_string)
 
 # Recuperer la liste des sujets majeurs avec l'IA
@@ -23,7 +24,7 @@ articles = get_articles(medias_data_json)
 print("\nSujets majeurs recuperes.")
 
 # Enregistrer la liste des sujets
-#with open("liste_sujets.txt", 'w') as f:
+#with open("outputs/liste_sujets.txt", 'w') as f:
 #    f.write(sujets)
 
 with open('liste_sujets.txt', 'r') as f:
@@ -36,11 +37,12 @@ with open('prompts/prompt_synthese.txt', 'r') as f:
     prompt_synthese = f.read()
 pdv = get_points_de_vue(sujets_dict, articles_descriptions, prompt_synthese)
 
-for sujet in sujets_dict['sujets']:
-    nom_sujet = sujet['nom_sujet']
+with open("outputs/synthese_sujets.txt", 'w') as f:
+    for sujet in sujets_dict['sujets']:
+        nom_sujet = sujet['nom_sujet']
 
-    print(f"\nSujet {nom_sujet}:")
-    print(f"Droite: {pdv[nom_sujet]['droite']}")
-    print(f"Gauche: {pdv[nom_sujet]['gauche']}")
+        f.write(f"\nSujet {nom_sujet}:")
+        f.write(f"Droite: {pdv[nom_sujet]['droite']}")
+        f.write(f"Gauche: {pdv[nom_sujet]['gauche']}")
 
 print("\nExecution terminee.")

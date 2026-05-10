@@ -20,7 +20,20 @@ def get_medias_data(medias_data_json):
 
 #-----------------------    TRAITEMENT DES ARTICLES    -----------------------
 
-# Recuperer tous les titres d'articles pour chaque media
+""""
+    Recuperer tous les titres d'articles pour chaque media
+    { 
+        'medias': [
+            'journal': <nom journal>,
+            'orientation': <droite ou gauche>,
+            'articles': [
+                'id': <id article>,
+                'titre': <titre article>,
+                'description': <description article>
+            ]
+        ]
+    }
+"""
 def get_articles(medias_data_json):
     articles_dict = {}
     articles_dict['medias'] = []
@@ -66,7 +79,7 @@ def get_articles(medias_data_json):
 # Retourne un dict avec les descriptions des articles associees a leur id
 def get_description_articles(articles_dict):
     description_articles = {}
-    
+
     # Parcourir les medias
     for media in articles_dict['medias']:
         # Parcourir les articles de chaque media

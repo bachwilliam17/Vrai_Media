@@ -19,7 +19,6 @@ def get_pdv(id_articles, desc_articles, prompt_synthese):
                 desc_articles_string += f"{desc}."
                 n += 1
 
-        print(f"Description articles: {desc_articles_string}")
         # Recuperer le point de vue general avec une requete LLM
         if "Article" in desc_articles_string:
             return prompt_IA(
