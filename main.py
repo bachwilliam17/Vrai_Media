@@ -12,7 +12,7 @@ medias_data_json = "flux_rss_medias.json"
 articles = get_articles(medias_data_json)
 
 # Enregistrer les articles dans un fichier
-with open("outputs/liste_articles.txt", 'w') as f:
+with open("outputs/description_articles.txt", 'w') as f:
     for articles_dict in articles['medias']:
         f.write(f"\n\n\n{articles_dict['journal']}")
         f.write(f"\n{articles_dict['orientation']}")
