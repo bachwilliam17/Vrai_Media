@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/Users/williambach/Documents/Python Library")
+sys.path.append("/Users/williambach/Documents/Python Library/LLM Requests")
 from IA_prompts import prompt_IA
 
 

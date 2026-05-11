@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/Users/williambach/Documents/Python Library")
+sys.path.append("/Users/williambach/Documents/Python Library/LLM Requests")
 
 from IA_prompts import prompt_IA
 from get_articles import get_articles, get_description_articles, get_articles_string
@@ -10,6 +10,16 @@ import json
 # Recuperer tous les articles
 medias_data_json = "flux_rss_medias.json"
 articles = get_articles(medias_data_json)
+with open("outputs/liste_articles.txt", 'w') as f:
+    for articles_dict in articles['medias']:
+        f.write(f"\n\n\n{articles_dict['journal']}")
+        f.write(f"\n{articles_dict['orientation']}")
+        for article in articles_dict['articles']:
+            f.write(f"\n\nArticle numero {article['id']}")
+            f.write(f"\n{article['titre']}")
+            f.write(f"\nDescription: {article['description']}")
+
+raise Exception("Interruption")
 
 # Recuperer la version textuelle des articles pour le prompt IA
 #articles_string = get_articles_string(articles)
