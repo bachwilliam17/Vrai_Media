@@ -58,18 +58,16 @@ def get_points_de_vue(sujets, desc_articles, prompt_synthese):
 
             desc_articles_string += "\n\nGAUCHE"
             desc_articles_string += get_desc_sujet_string(sujet['gauche'], desc_articles)
+            print(desc_articles_string)
 
             # Recuperer le sujet actuel
             nom_sujet = sujet['nom_sujet']
             points_de_vue[nom_sujet] = {}
 
-            # Recuperer le point de vue de la droite
+            # Recuperer les points de vue
             pdv = get_pdv(desc_articles_string, prompt_synthese)
             points_de_vue[nom_sujet] = pdv
             
-            # Recuperer le point de vue de la gauche
-            pdv_gauche = get_pdv(sujet['gauche'], desc_articles, prompt_synthese)
-            points_de_vue[nom_sujet]['gauche'] = pdv_gauche
     
     print("\nPoints de vue pour chaque camp recuperes.")
     return points_de_vue
