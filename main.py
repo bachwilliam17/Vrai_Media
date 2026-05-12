@@ -45,7 +45,6 @@ with open("outputs/synthese_sujets.txt", 'w') as f:
 
         if nom_sujet in pdv:
             f.write(f"\n\nSujet {nom_sujet}:")
-            f.write(f"\nDroite: {pdv[nom_sujet]['droite']}")
-            f.write(f"\nGauche: {pdv[nom_sujet]['gauche']}")
+            f.write(f"\n{pdv[nom_sujet]}")
 
 print("\nExecution terminee.")
