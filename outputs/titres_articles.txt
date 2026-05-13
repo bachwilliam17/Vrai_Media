@@ -6,643 +6,643 @@
 <journal>
 Le Monde
 gauche
-1. Climat : alors que 2026 s’annonce extrême, des scientifiques s’alarment de voir le réchauffement « relégué au second plan »
-2. Hantavirus : quel est le risque de propagation alors que chaque pays choisit ses règles de confinement ?
-3. EN DIRECT, guerre au Moyen-Orient : l’Iran se dit prêt à « donner une leçon » aux Etats-Unis en cas de reprise des hostilités
-4. CMA CGM, ce géant du maritime qui a profité de sa fortune pour étendre son empire sur la terre ferme
-5. Fin de vie : le Sénat rejette un article-clé de la loi sur l’aide à mourir, mais adopte un texte renforçant l’accès aux soins palliatifs
-6. Remplacement des enseignants : les élèves des collèges et des lycées perdent toujours 10 % de leurs heures de cours annuelles
-7. EN DIRECT, guerre en Ukraine : attaque russe de Kiev au cours de la nuit ; 174 combats lundi, au troisième jour du cessez-le-feu, selon l’armée ukrainienne
-8. Un jeune homme mis en examen pour un projet d’attaque djihadiste visant le Louvre
-9. Au procès OpenAI, le récit du pari réussi de Microsoft, « très fier » d’avoir investi alors que « personne d’autre n’était prêt »
-10. Union européenne : après des mois de blocage, les Vingt-Sept sanctionnent des mouvements de colons israéliens en Cisjordanie
-11. Près de Lyon, trois morts dans un incendie criminel, sur fond d’une incontrôlable guerre des stups
-12. Les guerres et les violences ont entraîné une hausse de 60 % des déplacés internes en 2025, selon un observatoire international
-13. Keir Starmer exclut de démissionner malgré les résultats des élections locales et la fronde dans les rangs travaillistes
-14. Pour quelles raisons la liberté de la presse se dégrade-t-elle autant dans le monde ?
-15. Ecole inclusive : l’Assemblée rejette à nouveau les pôles d’appui à la scolarité
-16. Ousmane Dembélé sacré meilleur joueur de la saison de Ligue 1
+1. Donald Trump commence sa visite en Chine, reçu par un Xi Jinping en position de force
+2. Le chômage franchit la barre des 8 % en France, une première depuis 2021
+3. EN DIRECT, guerre au Moyen-Orient : la Chine demande au Pakistan d’« intensifier ses efforts de médiation » entre les Etats-Unis et l’Iran
+4. Comment Rodolphe Saadé, sa famille et CMA CGM dominent la ville de Marseille
+5. EN DIRECT, hantavirus : la Française, contaminée sur le MV « Hondius », est en réanimation à Paris dans un « état grave »
+6. En ouverture du Festival de Cannes, l’actrice Eye Haïdara salue celles et ceux qui tentent « de résister ici et ailleurs »
+7. EN DIRECT, guerre en Ukraine : les importations de gaz naturel liquéfié russe au plus haut dans l’UE depuis le début de la guerre en Ukraine, selon une étude
+8. Au procès OpenAI, Sam Altman secoué par la salve de questions de l’avocat d’Elon Musk
+9. Playoffs de la NBA : Victor Wembanyama propulse les Spurs de San Antonio à une victoire de la finale de la Conférence Ouest
+10. Jean-Noël Barrot, ministre des affaires étrangères, au « Monde » : « En Afrique, comme ailleurs dans le monde, la Russie a été très largement mise en échec »
+11. Assassinat de Mehdi Kessaci : Amine Oualane, l’un des chefs de la DZ Mafia, au centre des tensions entre le Parquet national et celui de Marseille
+12. Présidentielle 2027 : Gabriel Attal franchit une nouvelle étape vers sa désignation comme le candidat de Renaissance
+13. Violences sexuelles : l’Assemblée nationale adopte une proposition de loi obligeant la justice à informer les victimes de la libération de leur agresseur
+14. Le système D des supporteurs espagnols irréductibles pour assister à un Mondial de football hors de prix
+15. Cambriolage au Louvre : la commission d’enquête de l’Assemblée nationale sur la sûreté dans les musées pointe les failles profondes du modèle français
+16. En Argentine, des dizaines de milliers de personnes manifestent contre les coupes budgétaires visant l’université publique
 </journal>
 
 
 <journal>
 Le Figaro
 droite
-17. EN DIRECT - Hantavirus : le MV Hondius fait route vers les Pays-Bas après la fin des évacuations
-18. Il y a un an, l’hantavirus causait déjà la mort de l’épouse de Gene Hackman
-19. Hantavirus : la lenteur de la réaction des autorités sanitaires américaines fait débat
-20. Hantavirus : une femme testée positive, deux vétérinaires et journalistes animaliers... Ce que l’on sait des cinq Français rapatriés
-21. Une fête d’anniversaire, 34 personnes contaminées, 11 morts : les leçons de l’épidémie d’hantavirus en 2018 en Argentine
-22. Hantavirus : la contamination risque-t-elle de s’étendre ? Existe-t-il un vaccin ?... Les réponses du Figaro aux questions qui se posent après le test positif d’une Française
-23. Hantavirus : pourquoi la situation actuelle n’est pas comparable à celle du Covid
-24. Hantavirus : les mesures de quarantaine prises en France vous semblent-elles suffisantes ?
-25. Du cabinet de l’Élysée au Château de Versailles : pour Emmanuel Macron, dernières nominations avant liquidation
-26. L’éditorial de Vincent Trémolet de Villers : «Emmanuel Macron ou l’héritage impossible»
-27. Pots de retrouvailles, association, projet de pèlerinage… Comment les fidèles d’Emmanuel Macron s’organisent pour l’après-2027
-28. « En restant sur l’international, il peut éviter le goudron et les plumes » : à un an de la fin de son mandat, Emmanuel Macron hanté par son héritage politique
-29. EN DIRECT - Guerre au Moyen-Orient : le cessez-le-feu ne tient qu’à un fil pour Trump, l’Iran se dit prêt à riposter
-30. Détroit d’Ormuz : Donald Trump envisage de relancer une opération de protection des navires
-31. Guerre au Moyen-Orient : un berger a découvert une base secrète israélienne en Irak
-32. Guerre au Moyen-Orient : les Émirats arabes unis ont directement frappé l'Iran en avril, affirme le Wall Street Journal
-33. Taïwan veut «renforcer la coopération» avec les États-Unis pour une «dissuasion efficace»
-34. La députée LFI Sophia Chikirou devant la justice ce mardi pour une escroquerie de plus de 67.000 euros
-35. Début d’un réquisitoire impitoyable au procès du « financement libyen »
+17. Le taux de chômage dépasse les 8%, au plus haut depuis 2021
+18. EN DIRECT - Hantavirus : la Française contaminée en réanimation à Paris, à l’hôpital Bichat, dans un «état grave»
+19. Hantavirus : la Française contaminée a la forme cardiopulmonaire «la plus sévère»
+20. «On se met en mode “gestion de crise”» : face à l’hantavirus, la précaution maximale de Lecornu
+21. Hantavirus : une Française toujours dans un état grave, pas de circulation diffuse avérée… Ce qu’il faut retenir du point presse du ministère de la Santé
+22. «Beaucoup ont donné le marché mort pendant la pandémie Covid» : l’hantavirus inquiète les compagnies de croisière
+23. Hantavirus : ces séries qui surfent sur le thème - et notre peur - de la pandémie
+24. Une fête d’anniversaire, 34 personnes contaminées, 11 morts : les leçons de l’épidémie d’hantavirus en 2018 en Argentine
+25. Donald Trump annonce qu'il va demander à Xi Jinping «d'ouvrir» la Chine aux entreprises américaines
+26. Avec un nouveau nom chinois, Marco Rubio peut accompagner Donald Trump en Chine
+27. Bertille Bayart : «Donald Trump et Xi Jinping laissent l’Europe à la porte»
+28. Renaud Girard : «La Chine devrait aider Donald Trump au Moyen-Orient»
+29. CSP +, diplômés, urbains... La fuite d’une note confidentielle sur ses publics cibles embarrasse Raphaël Glucksmann
+30. EN DIRECT - Guerre au Moyen-Orient : la Chine encourage le Pakistan à «intensifier ses efforts de médiation» entre les États-Unis et l’Iran
+31. La guerre au Moyen-Orient fait passer les paquets de chips japonais en noir et blanc
+32. Cisjordanie : un enfant palestinien tué en moyenne chaque semaine depuis janvier 2025
+33. À Bordeaux, la mairie lance des séances de sports gratuites le dimanche
+34. À son procès, Sophia Chikirou accusée d’avoir cherché à «usurper» sa qualité de présidente du Média auprès du Crédit du Nord
 </journal>
 
 
 <journal>
 Libération
 gauche
-36. Ouverture du Festival de Cannes, hantavirus, cessez-le-feu fragilisé au Moyen-Orient… l’actu de ce mardi 12 mai au matin
-37. EN DIRECT - Hantavirus : les règles d’isolement durcies en France
-38. Comité du 9-Mai interdit : vers une jurisprudence contre la manifestation néofasciste ?
-39. Présidentielle : alors que la primaire de la gauche se meurt, Marine Tondelier se bat contre la solitude
-40. Sommet Trump-Jinping : l’avenir de la planète ne se joue pas à Ormuz, mais à Pékin
-41. Fichiers Air France et document confidentiel : les nouveaux déboires judiciaires de Rachida Dati
-42. Théâtre, stand up et danse : les 10 spectacles du moment à ne pas manquer selon «Libé»
-43. Mon enfant LGBT : «En tant que mère, j’ai parfois peur pour lui, qu’il se fasse agresser ou que ses droits soient remis en question»
-44. Anne-Marie Moulin, spécialiste des virus : «Le rat est le “grand méchant loup” des épidémies»
-45. A l’Eurovision 2026, Boy George fait un come-back inattendu avec Saint-Marin
-46. Violences faites aux femmes : la pire des insécurités n’intéresse pas les sécuritaires
-47. Véhicules électriques : l’alliance Stellantis-Leapmotor, cheval de Troie de l’automobile chinoise en Europe ?
-48. «Il n’y a pas de Bernard Arnault ici» : en Seine-Saint-Denis, le débat sur l’avenir d’un parcours de golf fait son trou
-49. Une proposition de loi «opportuniste» et «peu réaliste» : le RN veut interdire le port de signes religieux aux élèves en dehors du temps de classe
-50. Cannes 2026 : «La Vénus électrique» de Pierre Salvadori, une comédie romantique de haut volt
-51. Hantavirus : un passager espagnol du «MV Hondius» testé positif alors qu’il ne présente pas de symptômes
-52. L’ex-ministre Caroline Cayeux condamnée pour fraude fiscale après avoir minoré sa richesse personnelle de 11,7 millions d’euros
-53. Guerre au Moyen-Orient : Trump estime que le cessez-le-feu «ne tient qu’à un fil», l’Iran «prêt à donner une leçon» aux Etats-Unis en cas d’agression
-54. Le premier musée officiel des Beatles va ouvrir à Londres en 2027
-55. Un Tunisien interpellé en France, soupçonné de fomenter un projet d’attaque «d’inspiration jihadiste»
-56. Festival de Cannes 2026 : malgré ses ennuis, le cinéma refuse d’aller au tapis
-57. La Corée du Nord modifie sa Constitution pour déclencher une frappe nucléaire automatique en cas d’assassinat de Kim Jong-un
-58. A Nice, deux morts et trois blessés graves dans une fusillade aux Moulins : «C’est un message de terreur qu’ils veulent faire passer»
-59. Hantavirus : faut-il s’inquiéter ? Suivez notre stream mardi à 9h30
-60. «Il va falloir vite trouver un terrain d’entente» : à un an de la présidentielle, le PS face au risque de dispersion
-61. Des véhicules bon marché au haut de gamme, les constructeurs chinois gagnent du terrain
-62. Hantavirus : non à la parano, oui à la piqûre de rappel
-63. LGBTIphobies : «Nous craignons que le climat qui se détériore déjà continue sur cette lancée», alerte la présidente de SOS Homophobie
-64. Cessez-le-feu en Iran, santé des passagers Français du «MV Hondius», fusillade à Nice… L’actu de ce lundi 11 mai
-65. Finlande, Grèce, Danemark, France… Qui sont les favoris pour l’Eurovision 2026 ?
-66. Le Haut-représentant international en Bosnie-Herzégovine, Christian Schmidt, annonce sa démission
-67. La cinéaste pionnière Anja Breien fugue une dernière fois
-68. Le pouvoir de nomination du Président, carburant au refrain de la «République des copains»
-69. Le militant panafricaniste Kemi Seba dit craindre pour sa vie en cas d’extradition au Bénin
-70. Depardon, Binoche, Haenel… 600 professionnels du cinéma dénoncent l’emprise de Bolloré sur le septième art
-71. La facture de gaz va baisser légèrement pour une majorité d’abonnés français en juin
-72. «Ça fait deux semaines que ça tire, et pas que la nuit» : dans la banlieue de Lyon, un incendie mortel laisse des séquelles aux habitants
-73. Fast-foods Master Poulet : les Français ne sont pas contre… tant que ce n’est pas dans leur quartier
-74. «Il y a un malaise dans le cinéma français» : à la veille du Festival de Cannes, le mouvement «Zapper Bolloré» lance la riposte
-75. Hantavirus : à ce stade, on ne doit pas exclure la contamination sans «contact rapproché»
-76. La France insoumise : des dizaines de milliers d’adhérents victimes d’une fuite de données
-77. Royaume-Uni : après sa défaite électorale, Keir Starmer promet de prouver à ses détracteurs «qu’ils ont tort»
-78. «Je me suis sentie démunie» : en 2025, une salariée aurait été interdite de travailler au Festival de Cannes à cause de son engagement écologiste
-79. Nice : une fusillade fait 2 morts et 3 blessés dans le quartier des Moulins
-80. Mort de Maurice Freund, héros du tourisme solidaire
-81. Commémoration du 8 mai 1945 en Algérie : la ministre aurait aussi pu aller au Vietnam, à Madagascar, au Sénégal...
-82. Steve Mandanda, blues de Bleu
-83. Pour le numéro 2 de France Télévisions, les médias Bolloré cherchent une «privatisation rampante» de l’entreprise
-84. Eurovision : l’Irlande, l’Espagne et la Slovénie ne diffuseront pas le concours, pour dénoncer la participation d’Israël
-85. L’insoumise Sophia Chikirou comparaît mardi pour «escroquerie»
+35. Premier jour du Festival de Cannes, la Française infectée par l’hantavirus dans un état grave, sommet Trump-Xi… l’actu de ce mercredi 13 mai au matin
+36. EN DIRECT - Hantavirus : la patiente française est «dans un état grave»
+37. Malgré l’âge d’or du train et 104 milliards d’euros de carnets de commandes, les retards plombent les résultats annuels d’Alstom
+38. Les trois-quarts de la population mondiale vivent sous un régime autocratique
+39. EN DIRECT - Festival de Cannes, jour 2 : le Japonais Koji Fukada et la Française Charline Bourgeois-Tacquet ouvrent le bal de la compétition
+40. «Obsession» de Curry Barker : là où il y a de la gêne, il y a du plaisir
+41. Frais d’inscription différenciés pour les étudiants étrangers : non à l’université française à deux vitesses
+42. Festival de Cannes 2026 : «In Waves», récif personnel
+43. Contestation de l’Eurovision : en 1974, quand la Suède criait «à bas Abba !»
+44. Un mois après le licenciement d’Olivier Nora, les départs massifs d’auteurs chez Grasset font effet «boule de neige»
+45. A Pékin, un sommet de rivalités entre Xi Jinping et Donald Trump
+46. Mutineries de 2024 en Nouvelle-Calédonie : deux ans après, les incohérences du traitement judiciaire
+47. Finlande, Grèce, Israël… A l’Eurovision 2026, qui sont les dix premiers qualifiés après la première demi-finale ?
+48. Guerre au Moyen-Orient : la France va prendre «une initiative» à l’ONU sur sa proposition de mission «neutre» dans le détroit d’Ormuz, dit Macron
+49. Uniforme à l’école : l’expérimentation en France a des effets inégaux et limités, selon une première étude
+50. Hantavirus : la situation en France est «sous contrôle», assure Emmanuel Macron
+51. «Cibles à éviter» : Raphaël Glucksmann tente de se distancier d’une embarrassante note stratégique
+52. «On est traités comme du bétail» : à Créteil, une manifestation contre les retards dans les démarches des étrangers
+53. Hantavirus des Andes : malgré les mauvais souvenirs du Covid, gardons confiance en la science
+54. Au procès de Sophia Chikirou pour tentative d’escroquerie, des réquisitions très clémentes
+55. Hantavirus : face à la crise, le gouvernement français opte pour des «précautions maximalistes»
+56. Pour Israéliens et Palestiniens, la guerre sans fin entrave la quête de justice
+57. Festival de Cannes jour 1 : Peter Jackson frodonne les Beatles avec Theodora, Park Chan-wook préside... la cérémonie d’ouverture vue par la team «Libé»
+58. Extrême droite : dans les nouvelles mairies RN, un mois à tout casser
+59. Frais de scolarité alourdis pour les étudiants hors UE : à Paris, une manifestation contre «un gage aux idées de l’extrême droite»
+60. Royaume-Uni : Andy Burnham, «roi du Nord» et seul espoir des travaillistes après l’humiliation des élections locales
+61. Ukraine : Andriy Yermak, l’ex-bras droit de Zelensky, se rapproche de la case prison
+62. Hantavirus : état de santé des croisiéristes français, cas contacts, virulence… L’essentiel de la conférence de presse de la ministre de la Santé
+63. Kylian Mbappé s’inquiète d’une possible victoire du Rassemblement national, Jordan Bardella prend la mouche
+64. Décharge, cordillère des Andes, foyers d’hantavirus : itinéraire de Leo Schilperoord, premier mort à bord du «Hondius», avant le départ de la croisière
+65. «Il ne s’agit pas de faits isolés, mais d’incidents massifs» : le député Arthur Delaporte demande l’interdiction des banquets du Canon français
+66. Emeutes de 2024 en Nouvelle-Calédonie : des détenus kanak piégés dans l’Hexagone
+67. Sébastien Lecornu ne lésine pas sur le front de l’hantavirus des Andes : «Avec son expérience de gestion des crises, il les voit venir»
+68. Travail le 1er mai : les principaux syndicats de la boulangerie artisanale refusent de négocier
+69. Gérald Darmanin exclut finalement tous les crimes sexuels de l’extension du «plaider-coupable»
+70. Hantavirus en France, ouverture du Festival de Cannes, Keir Starmer sur la sellette… L’actu de ce mardi 12 mai
+71. Chez Thomas Ligotti, «rien ne vaut la peur»
+72. Affaire Luc Besson : la réouverture de la procédure pour viol demandée par le parquet général de la cour d’appel de Paris
+73. Hantavirus : la peur, le tam-tam médiatique et la fabrication des pestiférés
+74. Royaume-Uni : après sa débâcle électorale, Keir Starmer refuse de partir, quatre ministres démissionnent
+75. Hantavirus : aux Etats-Unis, la prise en charge des croisiéristes sous le feu des critiques
+76. Cannes 2026 : «L’Abandon», difficile fiction sur l’assassinat de Samuel Paty
+77. Fraude à la billetterie au Louvre et au château de Versailles : six agents du musée placés en garde à vue
+78. Christophe Gleizes, journaliste détenu en Algérie, a reçu sa première visite d’un diplomate français
+79. 7 Octobre : en Israël, les députés instaurent un tribunal militaire qui pourra appliquer la peine de mort aux Palestiniens accusés d’avoir participé à l’attaque
+80. La présidente des Républicains des Bouches-du-Rhône, Laure-Agnès Caradec, rejoint l’extrême droite d’Eric Ciotti
+81. Une enquête du «New York Times» décrit des «violences sexuelles généralisées» de la part d’Israël contre les prisonniers palestiniens
+82. Le journaliste Nathanaël de Rincquesen licencié de France Télévisions après trente ans de carrière
+83. Flambée des prix des carburants : la consommation en France chute de 30 % en mai, les recettes de l’Etat en baisse
+84. Violences sexuelles dans le périscolaire à Paris : les parents d’élèves de l’école Saint-Dominique saluent les «excuses» d’Emmanuel Grégoire
 </journal>
 
 
 <journal>
 Mediapart
 gauche
-86. Argent, cadeaux et contrats: la part d’ombre de Villepin en plein jour
-87. Hantavirus: les croisiéristes rapatriés sous étroite surveillance, les autorités restent confiantes
-88. Éducation: les syndicats dénoncent une circulaire de rentrée en mode «fin de règne»
-89. Les hommes tuent, dans l’indifférence générale
-90. Éborgné lors d’une manifestation contre la réforme des retraites, un syndicaliste prend son mal en patience
-91. Le patron de la Banque de France met ses équipes au service du candidat à sa succession désigné par Macron
-92. Manifestation néofasciste à Paris: qu’est-ce que le C9M?
-93. Loi sur l’aide à mourir: «la relation entre patients et médecins» au cœur des derniers débats
-94. À Metz, Amazon condamné pour avoir licencié une gréviste
-95. L’ancienne ministre Caroline Cayeux condamnée pour fraude fiscale
+85. Jugée pour tentative d’escroquerie, Sophia Chikirou conteste les accusations, le parquet les minimise
+86. «On est les invisibles du cinéma»: une grève de plusieurs semaines sur un tournage Netflix
+87. «Il n’y a pas de reconnaissance»: la grande fatigue des professionnels du cinéma
+88. Pierre Schoeller, réalisateur: «Il ne faut pas être dans une forme d’acceptation face à l’extrême droite»
+89. Le Sénat rejette l’aide à mourir et vote pour le développement des soins palliatifs
+90. Emmanuel Moulin à la Banque de France: la pression monte sur le candidat de Macron
+91. Cadmium: la proposition de loi visant à réduire les risques sanitaires sera étudiée en juin
+92. Violences sexuelles sur trois enfants: un animateur d’une école maternelle parisienne écroué
+93. «La corruption, c’est ça»: l’accusation poursuit sa démonstration au procès Sarkozy-Kadhafi
+94. Starmer menacé: «Le paysage politique britannique n’a jamais été aussi mouvant»
 </journal>
 
 
 <journal>
 Valeurs Actuelles
 droite
-96. Près de Lyon : trois morts dans un incendie, la piste criminelle privilégiée ?
-97. [TRIBUNE] Mayotte : commémorer l’abolition de l’esclavage pendant que des Français vivent sans eau
-98. « On ne laisse rien au hasard » : le point sur l’enquête pour retrouver Manon Relandeau à Saint-Étienne-de-Montluc
-99. Pilule pour hommes : « Une forme d’égalité concrète entre les sexes », estime Marlène Schiappa
-100. Histoire : Les déboires de l’Oncle Sam
-101. « Plus d’un tiers de leurs militants nous ont d’ores et déjà rejoints » : Éric Ciotti se félicite de l’arrivée massive de transfuges de LR dans son parti l’UDR
-102. Agression de Matthéo en marge d’un match de football : ce que montrent les images
-103. Forcé par la Justice, la mairie (DVD) de Chessy a prononcé le mariage d’un Algérien sous OQTF
-104. Matthéo lynché : « Le football amateur est devenu une jungle », dénonce Julien Odoul
-105. Archéologie : des grains de pollens deux fois millénaires révèlent l’origine d’une épave romaine
+95. Loi fin de vie : quel avenir après le rejet au Sénat du texte sur l’aide à mourir ?
+96. «L’épicentre de la langue française est sur le bassin du fleuve Congo» : la francophonie selon Emmanuel Macron
+97. [TRIBUNE] Pour une reconnaissance de tous les crimes contre l’humanité : dévoilons le génocide oublié !
+98. Guerre en Ukraine : Kiev exporte ses armes et son expertise pour nouer des liens diplomatiques avec des pays du Golfe et du Caucase
+99. L’indécrottable entre-soi idéologique du service public
+100. Tourisme : les professionnels tirent la sonnette d’alarme face à l’absence des touristes étrangers
+101. « Coup d’Etat » à La Boisserie, Macron le panafricain, Marine Le Pen future ministre ? Les coulisses politiques de la semaine
+102. «Personnes peu recommandables », «alcoolisation massive» : le député socialiste Arthur Delaporte demande au ministre de l’Intérieur d’interdire le Canon français
+103. Guerre au Moyen-Orient : le chef du Hezbollah refuse le désarmement et veut l’« enfer » pour Israël
+104. Théâtre : « Enquête de famille » au théâtre La Reine-Blanche, de très belles choses
 </journal>
 
 
 <journal>
 France Info
 gauche
-106. TABLEAU DE BORD. Prix de l'essence et du gazole, ruptures de stock, cours du Brent… Suivez en temps réel la situation dans les stations-service en France
-107. Hantavirus : les deux derniers vols d'évacuation du "MV Hondius" ont atterri aux Pays-Bas
-108. De Godard à Jaoui, en passant par Nakache et Toledano, Eye Haïdara, maîtresse des cérémonies du Festival de Cannes, en 6 films et séries
-109. Bison Futé prévoit une circulation "extrêmement difficile" pour le pont de l’Ascension dans certaines zones
-110. Pourquoi le lancement d'une opération militaire pour sécuriser le détroit d'Ormuz paraît encore "lointain"
-111. Réchauffement climatique : 150 millions d'hectares brûlés entre janvier et avril, un record
-112. Son invention a permis de soigner les brûlés de Crans-Montana en utilisant des vers marins : un biologiste français finaliste du Prix de l'inventeur européen 2026
-113. On vous explique pourquoi la députée LFI Sophia Chikirou comparaît mardi devant le tribunal correctionnel de Paris pour escroquerie
-114. "Nicolas Sarkozy s'est rendu coupable d'association de malfaiteurs" : à son procès en appel, le parquet général requiert la condamnation de l'ancien président
-115. L'enseigne de décoration Bouchara rachetée, moins de la moitié des emplois sauvegardés
-116. "Dans un monde normal, le premier secrétaire démissionnerait" : lâché par Boris Vallaud, Olivier Faure exclut de quitter la tête du Parti socialiste
-117. "Tout me laisse croire que je suis l'objet d'une machination" : les sentiments paranoïaques du chanteur Renaud révélés dans un documentaire
-118. Fin de vie : le Parlement adopte définitivement la proposition de loi renforçant l'accès aux soins palliatifs
-119. Un homme soupçonné de préparer une attaque terroriste contre le musée du Louvre a été mis en examen et placé en détention provisoire
-120. L'agence anticorruption ukrainienne dit avoir découvert un montage impliquant un ancien bras droit du président Volodymyr Zelensky
-121. Suicide de Sara à Sarreguemines : la mère de la petite fille se dit "soulagée et attristée" par l'enquête du rectorat
-122. "Avoir peur tout le temps, ce n'est pas possible" : les homosexuels victimes d'une véritable traque au Sénégal
-123. L'UE prend des sanctions contre des responsables russes accusés de transferts forcés de milliers d'enfants ukrainiens
-124. L'homme soupçonné d'avoir voulu tirer sur Donald Trump au gala de la presse plaide non coupable de tentative d'assassinat
-125. Emmanuel Macron annonce 23 milliards d'euros d'investissements en Afrique
-126. Guerre au Moyen-Orient : le cessez-le-feu entre l'Iran et les Etats-Unis "est sous assistance respiratoire massive", affirme Donald Trump
-127. Quarantaine des rapatriés, isolement des cas contacts... Face à l'hantavirus, ce que prévoit le nouveau décret détaillant le protocole sanitaire en France
-128. Hantavirus : le personnel d'un hôpital néerlandais traitant un patient infecté par l'hantavirus mis en quarantaine après des erreurs de procédure
-129. Ligue des champions : il n'y aura pas de fan zone à Paris pour PSG-Arsenal le 30 mai
-130. Le "prêt flash carburant" sera élargi au secteur du BTP, annonce le gouvernement
-131. Hausse des prix des carburants : quels sont les secteurs concernés par les nouvelles aides de l'État ?
-132. "Avec les prix du carburant, c'est appréciable !" : dans cette commune de l'Aisne, recharger sa voiture électrique, c'est gratuit
-133. Contagiosité, stocks de masques, cas répertoriés... Posez-nous vos questions sur l'hantavirus, la situation sanitaire et la gestion par les autorités
-134. Hantavirus : un cas contact, identifié à Concarneau dans le Finistère, transféré vers le CHU de Rennes
-135. Une Palme d'or d'honneur à Peter Jackson : qui est ce cinéaste, réalisateur entre autres des trilogies du "Seigneur des anneaux" et du "Hobbit" ?
+105. Hantavirus : "la situation est sous contrôle" en France selon Emmanuel Macron, une Française toujours hospitalisée en réanimation dans un état grave
+106. Peter Jackson et Elijah Wood, Park Chan-wook et son jury, Demi Moore et le tapis rouge... des retrouvailles sur les marches du 79e Festival de Cannes
+107. INFO FRANCETV. Après le casse du Louvre, les pistes du rapport de la commission d'enquête pour améliorer la sécurité des musées
+108. Le taux de chômage en France a atteint 8,1% au premier trimestre 2026, son plus haut niveau en cinq ans, selon l'Insee
+109. Guerre au Moyen-Orient : Donald Trump affirme qu'il va parler de l'Iran avec Xi Jinping lors de sa visite en Chine, avant de se contredire
+110. "Une immense responsabilité" : comment l'équipe du film "L'Abandon" a porté à l'écran le récit de l'assassinat de Samuel Paty
+111. Procès en appel du financement libyen : suivez les peines requises contre Nicolas Sarkozy et les neuf autres prévenus
+112. "C'est notre leader incontesté mais il n'y a pas d'enthousiasme" : Gabriel Attal, futur candidat à la présidentielle, fait-il vraiment l'unanimité au sein de Renaissance ?
+113. Luc Besson accusé de viol : le parquet général requiert une réouverture des investigations, plus de quatre ans après un non-lieu
+114. "C'est juste du sensationnel et du mensonge" : les appels silencieux ont-ils vraiment pour objectif de cloner votre voix ?
+115. Ligue 1 : "L'objectif, c'est le 30 mai"... Pour le PSG, le match du titre à Lens est avant tout une préparation à sa finale de Ligue des champions
+116. Cisjordanie : les violences entre colons israéliens et Palestiniens s'intensifient
+117. "Il a bien existé un accord entre Mouammar Kadhafi et Nicolas Sarkozy" : le parquet général réclame la condamnation de l'ex-président pour corruption
+118. Guerre au Moyen-Orient : l'Iran écarte tout compromis après le rejet de sa proposition par Donal Trump
+119. Emmanuel Macron regrette qu'au Mali, l'intervention de la France en 2013 a été "reconnue par de l'ingratitude"
+120. Jordan Bardella réagit aux propos de Kylian Mbappé, qui s'inquiète d'une victoire du RN en 2027
+121. Libéré après 20 ans de prison, un violeur revient vivre près de sa victime
+122. Fin de vie : le Sénat rejette une nouvelle fois le texte sur l'aide à mourir
+123. Attaques du 7-Octobre : un rapport israélien accuse le Hamas de violences sexuelles "systématiques" et "à grande échelle"
+124. "Il concentre beaucoup d'hostilité" : pourquoi le Premier ministre Keir Starmer est sur la sellette au Royaume-Uni
+125. "Ce serait se tirer une balle dans le pied" : en France, les compagnies aériennes ne prévoient pas d'annulations de vols cet été
+126. "Plaider-coupable" : Gérald Darmanin propose d'exclure de la procédure "tous les crimes sexuels et l'ensemble des crimes passibles de la cour d'assises"
+127. "Les gros studios ne voient plus l'intérêt" : pourquoi le Festival de Cannes 2026 ne déroulera pas le tapis rouge aux géants d'Hollywood ?
+128. Les baisers brûlants de "La Vénus électrique" de Pierre Salvadori ouvrent le festival de Cannes
+129. "Il a tout de suite compris qu'il fallait réagir" : pourquoi Sébastien Lecornu est en première ligne dans la gestion des cas d'hantavirus en France
+130. Masques, tests... : la France est-elle prête à faire face à l'hantavirus ?
+131. Cas contacts identifiés, patiente française en réanimation... Ce qu'il faut retenir de la conférence de presse de la ministre de la Santé sur l'hantavirus
+132. Cannes 2026 : Peter Jackson honoré, Theodora et Oklou chantent les Beatles, hommage à Nathalie Baye... Revivez les moments forts de la cérémonie d'ouverture
+133. "L'Abandon", les onze derniers jours de Samuel Paty dans un thriller au plus proche du réel
+134. Le nouveau président du Louvre Christophe Leribault confirme le projet de grands travaux du musée
 </journal>
 
 
 <journal>
 L'Obs
 gauche
-136. Lucie Pinson, Nobel de l’environnement  : « La dérive conservatrice et fascisante n’a rien d’une fatalité »
-137. Au procès libyen, la charge du parquet général contre Nicolas Sarkozy : « Il a été l’instigateur de ses rencontres avec des dignitaires du régime libyen »
-138. La rancune tenace et contagieuse de Donald Trump vis-à-vis de l’Otan
-139. Dans le frigo d’Elise, 46 ans : « Quand les fins de mois sont compliquées, on rogne sur le poisson, la viande, les desserts et l’alcool »
-140. Aux Etats-Unis, les décisions anti-science de Trump ralentissent la gestion de l’hantavirus
-141. Pierre Salvadori en ouverture du Festival de Cannes : « Que #MeToo puisse se réduire à un sujet de film m’emmerde un peu »
-142. Musk, Thiel, Karp et les autres… Les « neuneus » de la Big Tech ne sont pas des visionnaires
-143. Adèle Yon : « Faire continuer à exister “Mon vrai nom est Elisabeth” »
-144. « Nous avons le vent, le soleil, l’eau et la géothermie » : le Kenya, ce laboratoire africain d’un futur sans carbone
-145. Le bloc-notes de Jérôme Garcin : des dos à regarder en face et la compromission d’André Derain
-146. Laurence Ruffin, nouvelle maire de Grenoble : « Mon point d’entrée est social, je suis devenue écolo avec le temps »
-147. « Cannes 1968, révolution au palais » : comment Godard et Truffaut ont fait basculer le Festival
-148. « Coupez ! » : une série anglaise drôle et mordante sur le fantasme James Bond
-149. « No Country for Old Men » : le cauchemar texan des frères Coen
-150. Najat Vallaud-Belkacem réagit à la fausse une de « Closer » : « L’humour est la meilleure arme contre les fake news »
-151. Gerhard Schröder médiateur sur l’Ukraine ? L’Union européenne sceptique sur la proposition de Poutine, débat en Allemagne
-152. De la peste arrivant Marseille au hantavirus sur le « Hondius », la longue histoire des crises sanitaires en mer
-153. SOS Homophobie salue une « libération de la parole » des victimes de violences LGBTIphobes, tout en s’alarmant d’une « régression du vivre-ensemble »
-154. Une quarantaine de résidents évacués, la piste criminelle privilégiée… Ce que l’on sait de l’incendie qui a fait trois morts près de Lyon
-155. Il est minuit, la gauche : une troisième défaite consécutive au premier tour de la présidentielle se profile
-156. De la Comédie-Française au roman, Séphora Pondi dynamite la culture
-157. Samantha Bailly et Julien Delmaire, auteurs : « Nous refusons de continuer à être des travailleurs au rabais »
-158. Hantavirus : une Française testée positive, 22 cas contacts, nouvelle réunion à Matignon… Le point sur la situation
-159. Le projet archivio d’Armani, Charlotte Cardin chez Levi’s, les lunettes de Jonathan Anderson chez Dior…
-160. Investir dans l’épargne solidaire : ce qu’il faut savoir
-161. Féris Barkat, l’écologie à hauteur de quartier : « Le discours écolo dominant est aveugle aux problématiques sociales »
-162. Le 11 mai des socialistes : du Panthéon à l’impasse, un PS en pleine crise existentielle
-163. Sommet Afrique-France au Kenya : le dernier pari africain de Macron
-164. Rapatriement des passagers du bateau MV « Hondius », défaite électorale des travaillistes au Royaume-Uni… Les 5 infos à retenir du week-end
-165. « Libération(s), dans la joie et la douleur » : une plongée dans la France de 1944
-166. « Minari » : le rêve américain vu par une famille coréenne en Arkansas
-167. « La Nuit du 12 » : Bastien Bouillon et Bouli Lanners plongent dans le noir profond
-168. Détroit d’Ormuz : navire visé au large du Qatar, réponse iranienne envoyée aux Etats-Unis… Le point sur la situation
-169. Mais pourquoi le Festival de Cannes boude-t-il les comédies françaises ?
-170. Regarder des vidéos en accéléré permet-il d’optimiser sa vie ?
-171. Stanislas Niox-Chateau, le cofondateur de Doctolib qui veut mettre l’IA au service de la santé en ligne
-172. Martin Scorsese, Ken Loach, Jacques Audiard… Ce que la palme d’or du Festival de Cannes a changé pour eux
-173. Freud a-t-il enfermé les hommes dans leur masculinité ou les a-t-il libérés ?
-174. Lena Mahfouf, l’influenceuse devenue la femme de la situation
-175. « Trouver Sergueï » : le podcast d’une quête intime entre la France et l’Ukraine
-176. Horlogerie : Audemars Piguet x Swatch, la collab’ de la décennie ?
-177. Protéger, embellir, réparer et stimuler : la méthode Pers pour prendre soin de sa peau
-178. « On se sent vraiment chez nous » : Barak, la bonne formule pour profiter d’une maison, sans les inconvénients
-179. Hantavirus sur un navire de croisière : Arrivée aux Canaries, rapatriement des Français par « vol sanitaire »… Ce que l’on sait
-180. « Israël est le pays le moins juif du monde » : dialogue entre le philosophe Michel Feher et l’historienne Sophie Bessis
-181. Sylvie Vartan, sous influence : « L’art, le talent en général, est quelque chose qui me remplit de bonheur »
-182. « La maison de mes grands-parents est figée à jamais comme le lieu des tartines et des chats perchés »
-183. Hugo Travers, premier journaliste de France : « Tout le monde pense que je ne suis pas drôle »
-184. Comment les avocats de Pierre Goldman obtinrent son acquittement, il y a 50 ans dans « le Nouvel Obs »
-185. « Julian Assange : l’homme à faire taire » retrace le combat du fondateur de WikiLeaks
-186. « La Tête haute » : le film qui a révélé Rod Paradot
-187. « Fantôme utile » : un OVNI thaïlandais entre fantômes, politique et électroménager
-188. Frappes au Liban, destroyer britannique, nappe de pétrole... Le point sur la guerre au Moyen-Orient
-189. Suzanne Degennaro, militante intersexe et danseuse en tout genre : « Plus jeune, on s’est moqué de moi, de mon physique »
-190. Rébecca Chaillon joue nue pour mieux parler de genre, de classe, de race et de sexualité : « J’ai fait venir au théâtre une population plus jeune, racisée et queer »
-191. Etats-Unis : la justice annule un redécoupage électoral favorable aux démocrates
-192. « Vous étiez juste lumineux, net, remarquable » : lettre à l’élégant du métro, par Sophie Fontanel
-193. Avec « Un printemps avec Arsène Lupin », François Morel revisite un mythe populaire
-194. « On ne sait jamais qui on est » : David Bowie, la réinvention permanente de la masculinité
-195. Certina, Tag Heuer… Quand les montres passent à l’heure d’été
-196. Extrême droite : malgré l’interdiction de sa manifestation à Paris, le Comité du 9-Mai appelle à sa réunion
-197. Maya Noël, la voix des start-up : « Je n’ai jamais aspiré au modèle de vie salarié »
-198. Ce 9 mai où le Big Bang a schtroumpfé en Lorraine
-199. Élections locales en Grande-Bretagne : défaite historique pour les travaillistes, montée de l’extrême droite
-200. « Elle se réinvente en permanence » : quatre photos de Lee Miller décryptées et commentées
-201. On a testé l’Alpine A390, le crossover électrique made in France qui rivalise avec les plus grands
-202. En Russie, la cérémonie sous cloche du 9 mai est-elle le signe d’un Poutine isolé et fragilisé ?
-203. Gravel, le vélo sans limite qui n’en finit plus de faire des adeptes : « J’ai redécouvert ma région en quittant les routes principales »
-204. On n’en peut plus des livres contre l’IA !
-205. Diane Strauss, vigie tenace de la mobilité : « J’essaie de transformer le système de l’intérieur »
-206. Meredith Whittaker, patronne de Signal : « L’IA n’a rien d’un dieu… En revanche, se présenter en prophète permet de concentrer le pouvoir »
-207. Pourquoi les serial killers nous fascinent-ils autant ?
-208. En Ukraine, Poutine n’avance toujours pas… voire recule, incapable de profiter de la guerre au Moyen-Orient
-209. « Un Américain à Paris » : comment Gene Kelly et Minnelli ont créé une comédie musicale mythique
-210. « T’as pas changé » : Jérôme Commandeur dynamite les retrouvailles entre anciens amis
-211. Viriliser la nation : comment Mussolini, Hitler et Pétain ont instrumentalisé le corps des hommes
-212. Faut-il prendre le risque d’enquêter sur ses grands-parents ?
-213. Cyberharcelée après avoir suspendu un banquet du Canon français, la maire de Quimper porte plainte
-214. Et si notre monde était une simulation ? La folle théorie qui agite la Silicon Valley
-215. Lou Trotignon, l’humoriste poète qui invite à une introspection collective sur le genre
-216. A cause d’un retour d’El Niño, l’année 2027 sera-t-elle la plus chaude jamais enregistrée ?
-217. La manifestation d’extrême droite du Comité du 9-mai à Paris reste interdite
-218. Retour de l’ambassadeur, visite ministérielle à Sétif : la France veut restaurer les liens avec l’Algérie
-219. Serge Zaka, le scientifique en croisade contre la désinformation climatique : « Je ne le fais pas pour le plaisir, mais pour mes enfants »
-220. Huit expositions à voir absolument pour en prendre plein les yeux en mai
-221. Le parquet européen ouvre une enquête sur des soupçons de fraude autour du média training de Bardella
-222. Camille Etienne, Moussa Camara et Nastasia Hadjadji en entretien vidéo exclusif pour « le Nouvel Obs »
-223. Très marketés et poussés par des lobbies : comment les produits ultratransformés ont envahi nos assiettes
-224. Bernard Minier, sous influence : « Si l’Apocalypse doit advenir, autant en rire »
-225. Julie Chapon, cofondatrice et PDG de Yuka, visage du manger sain : « Mon objectif, c’est qu’un jour Yuka n’ait plus besoin d’exister »
-226. A l’Alpha School, l’intelligence artificielle a remplacé les enseignants
-227. Douze livres parfaits pour s’évader pendant les ponts de mai
-228. « Des oncles et des tantes se disputaient pour récupérer des vieux CD » : quand la vente d’une maison de famille tourne à la zizanie
-229. La course à pied est-elle vraiment dangereuse pour les genoux ?
-230. Profil du conjoint, rôle du taxi et de la femme de ménage : les nombreuses zones d’ombre autour de la disparition de Manon Relandeau près de Nantes
-231. Comment la guerre en Iran a accéléré la chute de Daniel Kinahan, l’un des narcos les plus recherchés d’Europe
-232. Miki, l’anti-Lolita qui bouscule la pop française
-233. Guerre au Moyen-Orient : à quoi va servir le déploiement du porte-avions français « Charles-de-Gaulle » dans la région du golfe d’Aden ?
-234. Une collégienne de 14 ans tuée dans l’Aisne : ce que l’on sait de la mort de Chloé
-235. La série « Polar Park » offre à Jean-Paul Rouve un rôle sur mesure
-236. « Rue des Dames » : plongée dans un Paris de galères et de débrouille
-237. « Le temps d’aimer et le temps de mourir » : quand Douglas Sirk filme son drame secret
-238. Christine van Geen, philosophe : « Dans la romance, l’héroïne a le droit de désirer et d’être désirante »
-239. Soixante-sept jours de conflit au Moyen-Orient : ni paix, ni guerre, ni diplomatie
-240. La mise à jour de mes 40 ans : « Votre genou gauche devient votre mauvais genou »
-241. Matthieu Pigasse, le banquier anti-Bolloré qui gauchise la campagne présidentielle
-242. Paul Duan, le « good guy » de l’IA qui veut « donner des superpouvoirs à ceux qui font le boulot sur le terrain »
-243. Elon Musk versus Sam Altman : qui sera le maître du monde ?
-244. Julia Faure, la cheffe d’entreprise anti-fast-fashion : « Si nous ne menons pas cette bataille, personne ne la mènera pour nous ! »
-245. 10 choses à savoir sur Zack Polanski, « l’écopopuliste » qui fait décoller les écolos britanniques
-246. Sommes-nous à la veille d’une nouvelle crise économique ?
-247. Les 50 qui vont faire demain : donnons toute leur place à celles et ceux qui inventent d’autres possibles !
-248. Camille Etienne, l’écologiste anti-désespoir pour qui « une radicalité est nécessaire »
-249. Denis Podalydès, immense fan du PSG : « Je suis fasciné par la course d’Ousmane Dembélé »
-250. Kate Beecroft, réalisatrice : « J’étais convaincue que la mise en scène était un club réservé aux garçons »
-251. La manifestation d’extrême droite du Comité du 9-mai interdite à Paris, le groupuscule dépose un recours
-252. « Le Nouvel Obs » est allé à la rencontre des 50 personnalités qui vont faire demain
-253. « Christiane Taubira : une loi pour mémoire » : comment la France a reconnu l’esclavage
-254. Harcèlement sexuel, insultes et doigt dans les fesses : Merouan Bounekraf, ex-candidat de « Top Chef », mis en cause par dix anciens employés
-255. « Cosmos » : un drame mexicain sur un ultime combat traversé par un intense instinct de (sur)vie
-256. « Shame » : l’addiction sexuelle au cœur du film de Steve McQueen
-257. « Johnny Guitare » : le western féminin et féministe de Nicholas Ray
-258. Les 50 qui vont faire demain
-259. Hantavirus sur un bateau de croisière : passagers évacués, accostage… Le point sur la situation
-260. Arthur Mensch, l’intelligence made in France : « Je ne voulais pas développer une technologie opaque au sein d’un géant de la tech »
-261. Incubation, cluster, cas contact… Faut-il avoir peur du hantavirus présent à bord du paquebot MV « Hondius » ?
-262. Russie, Israël… Le chaos géopolitique vient percuter la Biennale de Venise
-263. « Je construis des ponts entre des mondes qui ne se parlent pas » : Moussa Camara, entrepreneur solidaire
-264. Guerre en Ukraine : Kiev accuse Moscou d’avoir violé son cessez-le-feu unilatéral avec « 108 drones et 3 missiles »
-265. Pendant que le rapport Alloncle fait diversion, l’idée de la privatisation de l’audiovisuel public fait son chemin
-266. CMA CGM confirme qu’un de ses porte-conteneurs a été touché dans le détroit d’Ormuz : ce que l’on sait
-267. Nastasia Hadjadji : « Je pense que la tech est une industrie mortifère »
-268. Pascal Canfin : « L’alliance gagnante pour la présidentielle, c’est le centre et la gauche de gouvernement »
-269. Glucksmann s’impatiente, Jeanbrun répond à Retailleau… Retrouvez les indiscrétions du « Nouvel Obs »
-270. Alice de Rochechouart, la philosophe qui politise les privilèges : « Plus je me confronte au monde, plus je me gauchise »
-271. « Il traitait les enfants de “sales nègres” » : à Espaly-Saint-Marcel, un quartier sous le choc depuis les tirs de Michel V.
-272. Procès en appel du double assassinat de Bastia-Poretta, en Corse : « Ce n’était pas le foot ma passion, c’était mon père »
-273. Laura a dû quitter une maison de famille adorée : « Quand on a trouvé la bicoque vide, on s’est tous mis à pleurer »
-274. Des « Eblouis » à « C’est quoi l’amour ? » : Céleste Brunnquell, étoile singulière du cinéma français
-275. « J’ai retrouvé mon père biologique, c’est incroyable » : les tests ADN, outils déterminants dans la quête des origines, bientôt légalisés ?
-276. « C’est quoi l’amour ? », « Collapse (Face à Gaza) », « The New West »… Les films à voir (ou pas) cette semaine
-277. « C’est quoi l’amour ? » : une comédie familiale attachante et bon esprit avec Laure Calamy et Vincent Macaigne
-278. « Collapse (Face à Gaza) » : un témoignage essentiel qui questionne la société israélienne et le sens de la guerre
-279. « The New West » : à travers l’histoire d’une famille atypique, une vision sororale et contemporaine de l’Ouest américain
-280. Flottille pour Gaza : la détention de deux militants prolongée par Israël
-281. « The Criminals » : un film de braquage bien ficelé pour un samedi soir sans prétention
-282. « Sauvons les meubles » : un drame autour de la fin de vie et des secrets de famille porté par Vimala Pons
-283. « Pour le plaisir » : Alexandra Lamy et François Cluzet cherchent l’orgasme dans cet épisode géant de « Plus belle la vie »
-284. « Cinque secondi » : un drame dans la campagne toscane qui tourne à la rencontre sociologisante entre anciens et modernes
-285. « Mon grand frère et moi » : une singulière chronique du deuil, par l’auteur de « la Famille Asada »
-286. « The World of Love » : le portrait sensible d’une lycéenne coréenne victime d’abus sexuels dans l’enfance
-287. « Psychose » : comment Hitchcock a révolutionné Hollywood en 1960
-288. « Vingt Dieux » : un film tendre et rugueux sur la jeunesse rurale
-289. « Nouvelle Vague » : Richard Linklater revisite la naissance d’« A bout de souffle »
-290. « Mi amor » : un polar effarant de premier degré malgré la présence magnétique de Benoît Magimel
-291. « Soit on détruit notre maison nous-mêmes, soit on paye pour que l’armée israélienne la démolisse » : à Jérusalem-Est, la politique d’effacement des Palestiniens
-292. Agnès Michaux a passé un an avec Huysmans. Elle en a tiré un petit chef-d’œuvre de biographie
-293. Au Met Gala 2026, le couple Bezos fait fuir les invités
-294. La gauche s’offusque, l’extrême droite se réjouit… les réactions au rapport sur l’audivisuel public préfigurent déjà la campagne présidentielle
-295. « J’ai décidé de retrouver les mamans de mes haters » : Cette instagrameuse française veut faire honte à ceux qui lui envoient des messages sexuels
-296. Après avoir présidé celle sur l’audiovisuel, le député Jérémie Patrier-Leitus veut une réforme des commissions d’enquête
-297. Comment Pascal Praud s’est pris les pieds dans le « slop » avec cette fausse une de « Closer »
-298. Plus de 250 associations et personnalités redoutent la possible « extinction » de l’Ademe, à cause d’une loi
-299. « La Cage aux folles », « Hécube, pas Hécube »… Où (re)voir nos coups de cœur des Molières 2026 ?
-300. Non, le temps de travail des Français n’est pas le problème
-301. Hantavirus sur un navire de croisière : deux cas confirmés, trois morts… Ce que l’on sait
-302. « Sans lui, je suis un peu moins bon » : le difficile deuil d’une amitié de boulot
-303. Marie Peltier, historienne : « Ce qui nous permettra de lutter contre les complotismes ? L’humilité »
-304. Statuettes de Bonaparte, rôle de Bourgi… Ce que l’on sait des cadeaux reçus par Villepin lorsqu’il était au Quai-d’Orsay
-305. Comment les IA génératives prennent le contrôle de nos émotions
-306. « L’avenir de l’agenda pour la paix ne s’écrira pas seulement dans les enceintes internationales, mais là où les jeunes vivent réellement »
-307. Procès en appel du double assassinat de Bastia-Poretta : « Je suis responsable des faits, mais pas en bande organisée »
-308. Batteries : à Dunkerque, le pari d’une filière française face à la Chine
-309. Enora Malagré : « Le deuil de la maternité n’est pas une capitulation, c’est une réorganisation profonde de soi »
-310. Peut-on s’alarmer du retour de l’ultra-maigreur sur les tapis rouges, sans verser dans le bodyshaming ?
-311. Festival de Cannes : on connaît désormais la composition du jury de l’édition 2026
-312. Cette jeunesse chinoise qui refuse les rythmes de travail acharnés : les adeptes du « tangping » inquiètent Pékin
-313. Le bloc-notes de Jérôme Garcin : le père humilié de Pierre Vavasseur et le père humiliant d’Olivier Bourdeaut
-314. Kamel Daoud, condamné à trois ans de prison en Algérie : « Pour l’Etat, le crime, ce n’est pas de tuer, c’est de raconter ! »
-315. Alex Vizorek, présentateur des Molières : « Plus la soirée avance, plus il y a de perdants et moins le public a envie de rigoler »
-316. Un quotidien avec « mille voisins » : une tour de Babel parisienne sur le canal de l’Ourcq
-317. Fabien Nury : « “Paris Police 1910” est un thriller médiatique »
-318. Sophie la girafe fabriquée en Chine : l’entreprise française reconnaît les faits et évoque une situation temporaire
-319. Des centaines de nourrissons atteints d’hépatite B : une étude prédit les conséquences d’une décision antivaccins aux Etats-Unis
-320. Qui est Paul Seixas, l’espoir français du cyclisme qui vient d’annoncer sa présence au Tour de France ?
-321. Guillaume Duval : « La candidature de Mélenchon ne peut pas servir de contre-feu efficace face au RN »
-322. Affaire de la tête de cochon à Nice : les étranges conversations des proches de Christian Estrosi
-323. Jean-Luc Mélenchon, un candidat de l’ancienne France
-324. Impôts : penser à signaler ses dons aux associations
-325. Tucker Carlson, l’influenceur MAGA devenu plus trumpiste que Trump
-326. Quand Lynda a dû reprendre la maison de ses parents : « Je me suis retrouvée à trier quarante ans de vie commune »
-327. Jean-Luc Mélenchon annonce, sans surprise et « sans vouloir affoler », sa candidature à l’élection présidentielle de 2027
-328. Mélenchon se lance, Nuñez contre les Teknivals, alerte au virus sur un bateau de croisière… Les 5 infos à retenir du week-end
-329. « Violence dans les champs » de Nicolas Legendre : “Le système agricole entretient la peur”
-330. « On est la CGT ! 130 ans après » : le syndicat filmé de l’intérieur
-331. Réconcilié avec Zelensky, invité par Poutine, orphelin d’Orbán... le jeu d’équilibriste du Slovaque Robert Fico
-332. « Bernadette » : Catherine Deneuve, mutine à l’Élysée
-333. Coralie Fargeat, cinéaste en mutation : « Quand je fais un film, je suis comme dans un film. Ça me transfigure »
-334. Est-ce bizarre de sonner chez ses voisins pour se présenter, quand on vient d’emménager ?
-335. Teknival sur un terrain militaire près de Bourges : Nuñez veut « mieux réprimer » les free parties
+135. Lucile Quillet, la féministe pour qui le monde du travail doit « évoluer »
+136. « Donald Trump accélère l’érosion de la puissance américaine alors que la Chine gagne en popularité »
+137. Antoine Reinartz incarne Samuel Paty : « Ce n’était pas le biopic qui nous intéressait mais l’engrenage »
+138. Poutine, Tump, Xi Jinping… La déraison du plus fort
+139. Pendant ce temps, à Cannes… Une cérémonie morose, le spectre de Bolloré et une Vénus qui met en joie
+140. Eurovision : la malédiction d’un « concours apolitique sans cesse rattrapé par la géopolitique »
+141. Karim Bouamrane, maire de Saint-Ouen : « L’ADN des classes populaires, ce n’est pas de manger du Master Poulet »
+142. Lyas a révolutionné la mode avec ses « watch parties » : « Les nouvelles générations savent lire entre les lignes »
+143. «  La Vénus électrique », « l’Abandon », « ChaO »… Les films à voir (ou pas) cette semaine
+144. « La Vénus électrique » : Pierre Salvadori réalise une comédie qui virevolte jusqu’à procurer un plaisir physique
+145. « L’Abandon » : un beau film rigoureux avec Antoine Reinartz, au plus près des derniers jours de Samuel Paty
+146. Plateformes : la Commission européenne doit cesser de se défiler face aux géants du numérique
+147. « ChaO » : un cartoon nippon burlesque et écolo, récompensé au Festival d’Annecy
+148. « Ella McCay » : ce portrait d’une jeune femme catapultée gouverneure d’un Etat est un petit bijou !
+149. « Junk World » : un film surtrépidant qui frétille de fantasmes érotiques et de dénonciations idéologiques
+150. « Elise sous emprise » : une fantaisie déchirante, pétrie de bouffées poétiques avec José Garcia
+151. « Obsession » : une satire horrifique de l’amour fusionnel plus bourrine que maline
+152. Retrouver une vie digne : le projet de la troisième gauche
+153. Pourquoi il faut revoir la « Trilogie de la traque » de Junya Sato, maître du cinéma d’action japonais des années 1970
+154. « Renaud, à cœur perdu » : derrière les chansons, les failles d’une icône française
+155. Pourquoi « Un simple accident » marque un tournant dans le cinéma de Jafar Panahi
+156. « The Yards » : James Gray filme un New York gangrené par le pouvoir et l’argent
+157. Eye Haïdara, la comédienne du « Sens de la fête » aux commandes de la cérémonie d’ouverture du Festival de Cannes
+158. Hantavirus : les cas contacts français « en cours » d’hospitalisation, la personne contaminée toujours « dans un état grave »… Le point sur la situation
+159. Procès Sarkozy : « Nous avons acquis la conviction que les prévenus ont récupéré des fonds publics libyens »
+160. Hantavirus : origine, mortalité, transmission... Dix questions sur le virus qui inquiète la planète
+161. Pourquoi y a-t-il tant de candidats à l’élection présidentielle ? L’ère des petits entrepreneurs politiques
+162. La vertigineuse question de l’héritage mérite un débat pour la présidentielle
+163. 7-Octobre : un rapport israélien accuse le Hamas de violences sexuelles « systématiques » et « à grande échelle »
+164. Jean-Charles Samuelian-Werve, l’assureur mondialisé : « La création de start-up, c’est essentiel pour l’avenir du pays ! »
+165. Hôpitaux, mairies, écoles : les services publics sous la menace cyber
+166. Présidentielle 2027 : et si nous cessions d’attendre un sauveur suprême providentiel ?
+167. Lucie Pinson, Nobel de l’environnement  : « La dérive conservatrice et fascisante n’a rien d’une fatalité »
+168. Au procès libyen, la charge du parquet général contre Nicolas Sarkozy : « Il a été l’instigateur de ces rencontres avec des dignitaires du régime libyen »
+169. La rancune tenace et contagieuse de Donald Trump vis-à-vis de l’Otan
+170. Dans le frigo d’Elise, 46 ans : « Quand les fins de mois sont compliquées, on rogne sur le poisson, la viande, les desserts et l’alcool »
+171. Aux Etats-Unis, les décisions anti-science de Trump ralentissent la gestion de l’hantavirus
+172. Pierre Salvadori en ouverture du Festival de Cannes : « Que #MeToo puisse se réduire à un sujet de film m’emmerde un peu »
+173. Musk, Thiel, Karp et les autres… Les « neuneus » de la Big Tech ne sont pas des visionnaires
+174. Adèle Yon : « Faire continuer à exister “Mon vrai nom est Elisabeth” »
+175. « Nous avons le vent, le soleil, l’eau et la géothermie » : le Kenya, ce laboratoire africain d’un futur sans carbone
+176. Le bloc-notes de Jérôme Garcin : des dos à regarder en face et la compromission d’André Derain
+177. Laurence Ruffin, nouvelle maire de Grenoble : « Mon point d’entrée est social, je suis devenue écolo avec le temps »
+178. « Cannes 1968, révolution au palais » : comment Godard et Truffaut ont fait basculer le Festival
+179. « Coupez ! » : une série anglaise drôle et mordante sur le fantasme James Bond
+180. « No Country for Old Men » : le cauchemar texan des frères Coen
+181. Najat Vallaud-Belkacem réagit à la fausse une de « Closer » : « L’humour est la meilleure arme contre les fake news »
+182. Gerhard Schröder médiateur sur l’Ukraine ? L’Union européenne sceptique sur la proposition de Poutine, débat en Allemagne
+183. De la peste arrivant Marseille au hantavirus sur le « Hondius », la longue histoire des crises sanitaires en mer
+184. SOS Homophobie salue une « libération de la parole » des victimes de violences LGBTIphobes, tout en s’alarmant d’une « régression du vivre-ensemble »
+185. Une quarantaine de résidents évacués, la piste criminelle privilégiée… Ce que l’on sait de l’incendie qui a fait trois morts près de Lyon
+186. Il est minuit, la gauche : une troisième défaite consécutive au premier tour de la présidentielle se profile
+187. De la Comédie-Française au roman, Séphora Pondi dynamite la culture
+188. Samantha Bailly et Julien Delmaire, auteurs : « Nous refusons de continuer à être des travailleurs au rabais »
+189. Hantavirus : une Française testée positive, 22 cas contacts, nouvelle réunion à Matignon… Le point sur la situation
+190. Le projet archivio d’Armani, Charlotte Cardin chez Levi’s, les lunettes de Jonathan Anderson chez Dior…
+191. Investir dans l’épargne solidaire : ce qu’il faut savoir
+192. Féris Barkat, l’écologie à hauteur de quartier : « Le discours écolo dominant est aveugle aux problématiques sociales »
+193. Le 11 mai des socialistes : du Panthéon à l’impasse, un PS en pleine crise existentielle
+194. Sommet Afrique-France au Kenya : le dernier pari africain de Macron
+195. Rapatriement des passagers du bateau MV « Hondius », défaite électorale des travaillistes au Royaume-Uni… Les 5 infos à retenir du week-end
+196. « Libération(s), dans la joie et la douleur » : une plongée dans la France de 1944
+197. « Minari » : le rêve américain vu par une famille coréenne en Arkansas
+198. « La Nuit du 12 » : Bastien Bouillon et Bouli Lanners plongent dans le noir profond
+199. Détroit d’Ormuz : navire visé au large du Qatar, réponse iranienne envoyée aux Etats-Unis… Le point sur la situation
+200. Mais pourquoi le Festival de Cannes boude-t-il les comédies françaises ?
+201. Regarder des vidéos en accéléré permet-il d’optimiser sa vie ?
+202. Stanislas Niox-Chateau, le cofondateur de Doctolib qui veut mettre l’IA au service de la santé en ligne
+203. Martin Scorsese, Ken Loach, Jacques Audiard… Ce que la palme d’or du Festival de Cannes a changé pour eux
+204. Freud a-t-il enfermé les hommes dans leur masculinité ou les a-t-il libérés ?
+205. Lena Mahfouf, l’influenceuse devenue la femme de la situation
+206. « Trouver Sergueï » : le podcast d’une quête intime entre la France et l’Ukraine
+207. Horlogerie : Audemars Piguet x Swatch, la collab’ de la décennie ?
+208. Protéger, embellir, réparer et stimuler : la méthode Pers pour prendre soin de sa peau
+209. « On se sent vraiment chez nous » : Barak, la bonne formule pour profiter d’une maison, sans les inconvénients
+210. Hantavirus sur un navire de croisière : Arrivée aux Canaries, rapatriement des Français par « vol sanitaire »… Ce que l’on sait
+211. « Israël est le pays le moins juif du monde » : dialogue entre le philosophe Michel Feher et l’historienne Sophie Bessis
+212. Sylvie Vartan, sous influence : « L’art, le talent en général, est quelque chose qui me remplit de bonheur »
+213. « La maison de mes grands-parents est figée à jamais comme le lieu des tartines et des chats perchés »
+214. Hugo Travers, premier journaliste de France : « Tout le monde pense que je ne suis pas drôle »
+215. Comment les avocats de Pierre Goldman obtinrent son acquittement, il y a 50 ans dans « le Nouvel Obs »
+216. « Julian Assange : l’homme à faire taire » retrace le combat du fondateur de WikiLeaks
+217. « La Tête haute » : le film qui a révélé Rod Paradot
+218. « Fantôme utile » : un OVNI thaïlandais entre fantômes, politique et électroménager
+219. Frappes au Liban, destroyer britannique, nappe de pétrole... Le point sur la guerre au Moyen-Orient
+220. Suzanne Degennaro, militante intersexe et danseuse en tout genre : « Plus jeune, on s’est moqué de moi, de mon physique »
+221. Rébecca Chaillon joue nue pour mieux parler de genre, de classe, de race et de sexualité : « J’ai fait venir au théâtre une population plus jeune, racisée et queer »
+222. Etats-Unis : la justice annule un redécoupage électoral favorable aux démocrates
+223. « Vous étiez juste lumineux, net, remarquable » : lettre à l’élégant du métro, par Sophie Fontanel
+224. Avec « Un printemps avec Arsène Lupin », François Morel revisite un mythe populaire
+225. « On ne sait jamais qui on est » : David Bowie, la réinvention permanente de la masculinité
+226. Certina, Tag Heuer… Quand les montres passent à l’heure d’été
+227. Extrême droite : malgré l’interdiction de sa manifestation à Paris, le Comité du 9-Mai appelle à sa réunion
+228. Maya Noël, la voix des start-up : « Je n’ai jamais aspiré au modèle de vie salarié »
+229. Ce 9 mai où le Big Bang a schtroumpfé en Lorraine
+230. Élections locales en Grande-Bretagne : défaite historique pour les travaillistes, montée de l’extrême droite
+231. « Elle se réinvente en permanence » : quatre photos de Lee Miller décryptées et commentées
+232. On a testé l’Alpine A390, le crossover électrique made in France qui rivalise avec les plus grands
+233. En Russie, la cérémonie sous cloche du 9 mai est-elle le signe d’un Poutine isolé et fragilisé ?
+234. Gravel, le vélo sans limite qui n’en finit plus de faire des adeptes : « J’ai redécouvert ma région en quittant les routes principales »
+235. On n’en peut plus des livres contre l’IA !
+236. Diane Strauss, vigie tenace de la mobilité : « J’essaie de transformer le système de l’intérieur »
+237. Meredith Whittaker, patronne de Signal : « L’IA n’a rien d’un dieu… En revanche, se présenter en prophète permet de concentrer le pouvoir »
+238. Pourquoi les serial killers nous fascinent-ils autant ?
+239. En Ukraine, Poutine n’avance toujours pas… voire recule, incapable de profiter de la guerre au Moyen-Orient
+240. « Un Américain à Paris » : comment Gene Kelly et Minnelli ont créé une comédie musicale mythique
+241. « T’as pas changé » : Jérôme Commandeur dynamite les retrouvailles entre anciens amis
+242. Viriliser la nation : comment Mussolini, Hitler et Pétain ont instrumentalisé le corps des hommes
+243. Faut-il prendre le risque d’enquêter sur ses grands-parents ?
+244. Cyberharcelée après avoir suspendu un banquet du Canon français, la maire de Quimper porte plainte
+245. Et si notre monde était une simulation ? La folle théorie qui agite la Silicon Valley
+246. Lou Trotignon, l’humoriste poète qui invite à une introspection collective sur le genre
+247. A cause d’un retour d’El Niño, l’année 2027 sera-t-elle la plus chaude jamais enregistrée ?
+248. La manifestation d’extrême droite du Comité du 9-mai à Paris reste interdite
+249. Retour de l’ambassadeur, visite ministérielle à Sétif : la France veut restaurer les liens avec l’Algérie
+250. Serge Zaka, le scientifique en croisade contre la désinformation climatique : « Je ne le fais pas pour le plaisir, mais pour mes enfants »
+251. Huit expositions à voir absolument pour en prendre plein les yeux en mai
+252. Le parquet européen ouvre une enquête sur des soupçons de fraude autour du média training de Bardella
+253. Camille Etienne, Moussa Camara et Nastasia Hadjadji en entretien vidéo exclusif pour « le Nouvel Obs »
+254. Très marketés et poussés par des lobbies : comment les produits ultratransformés ont envahi nos assiettes
+255. Bernard Minier, sous influence : « Si l’Apocalypse doit advenir, autant en rire »
+256. Julie Chapon, cofondatrice et PDG de Yuka, visage du manger sain : « Mon objectif, c’est qu’un jour Yuka n’ait plus besoin d’exister »
+257. A l’Alpha School, l’intelligence artificielle a remplacé les enseignants
+258. Douze livres parfaits pour s’évader pendant les ponts de mai
+259. « Des oncles et des tantes se disputaient pour récupérer des vieux CD » : quand la vente d’une maison de famille tourne à la zizanie
+260. La course à pied est-elle vraiment dangereuse pour les genoux ?
+261. Profil du conjoint, rôle du taxi et de la femme de ménage : les nombreuses zones d’ombre autour de la disparition de Manon Relandeau près de Nantes
+262. Comment la guerre en Iran a accéléré la chute de Daniel Kinahan, l’un des narcos les plus recherchés d’Europe
+263. Miki, l’anti-Lolita qui bouscule la pop française
+264. Guerre au Moyen-Orient : à quoi va servir le déploiement du porte-avions français « Charles-de-Gaulle » dans la région du golfe d’Aden ?
+265. Une collégienne de 14 ans tuée dans l’Aisne : ce que l’on sait de la mort de Chloé
+266. La série « Polar Park » offre à Jean-Paul Rouve un rôle sur mesure
+267. « Rue des Dames » : plongée dans un Paris de galères et de débrouille
+268. « Le temps d’aimer et le temps de mourir » : quand Douglas Sirk filme son drame secret
+269. Christine van Geen, philosophe : « Dans la romance, l’héroïne a le droit de désirer et d’être désirante »
+270. Soixante-sept jours de conflit au Moyen-Orient : ni paix, ni guerre, ni diplomatie
+271. La mise à jour de mes 40 ans : « Votre genou gauche devient votre mauvais genou »
+272. Matthieu Pigasse, le banquier anti-Bolloré qui gauchise la campagne présidentielle
+273. Paul Duan, le « good guy » de l’IA qui veut « donner des superpouvoirs à ceux qui font le boulot sur le terrain »
+274. Elon Musk versus Sam Altman : qui sera le maître du monde ?
+275. Julia Faure, la cheffe d’entreprise anti-fast-fashion : « Si nous ne menons pas cette bataille, personne ne la mènera pour nous ! »
+276. 10 choses à savoir sur Zack Polanski, « l’écopopuliste » qui fait décoller les écolos britanniques
+277. Sommes-nous à la veille d’une nouvelle crise économique ?
+278. Les 50 qui vont faire demain : donnons toute leur place à celles et ceux qui inventent d’autres possibles !
+279. Camille Etienne, l’écologiste anti-désespoir pour qui « une radicalité est nécessaire »
+280. Denis Podalydès, immense fan du PSG : « Je suis fasciné par la course d’Ousmane Dembélé »
+281. Kate Beecroft, réalisatrice : « J’étais convaincue que la mise en scène était un club réservé aux garçons »
+282. La manifestation d’extrême droite du Comité du 9-mai interdite à Paris, le groupuscule dépose un recours
+283. « Le Nouvel Obs » est allé à la rencontre des 50 personnalités qui vont faire demain
+284. « Christiane Taubira : une loi pour mémoire » : comment la France a reconnu l’esclavage
+285. Harcèlement sexuel, insultes et doigt dans les fesses : Merouan Bounekraf, ex-candidat de « Top Chef », mis en cause par dix anciens employés
+286. « Cosmos » : un drame mexicain sur un ultime combat traversé par un intense instinct de (sur)vie
+287. « Shame » : l’addiction sexuelle au cœur du film de Steve McQueen
+288. « Johnny Guitare » : le western féminin et féministe de Nicholas Ray
+289. Les 50 qui vont faire demain
+290. Hantavirus sur un bateau de croisière : passagers évacués, accostage… Le point sur la situation
+291. Arthur Mensch, l’intelligence made in France : « Je ne voulais pas développer une technologie opaque au sein d’un géant de la tech »
+292. Incubation, cluster, cas contact… Faut-il avoir peur du hantavirus présent à bord du paquebot MV « Hondius » ?
+293. Russie, Israël… Le chaos géopolitique vient percuter la Biennale de Venise
+294. « Je construis des ponts entre des mondes qui ne se parlent pas » : Moussa Camara, entrepreneur solidaire
+295. Guerre en Ukraine : Kiev accuse Moscou d’avoir violé son cessez-le-feu unilatéral avec « 108 drones et 3 missiles »
+296. Pendant que le rapport Alloncle fait diversion, l’idée de la privatisation de l’audiovisuel public fait son chemin
+297. CMA CGM confirme qu’un de ses porte-conteneurs a été touché dans le détroit d’Ormuz : ce que l’on sait
+298. Nastasia Hadjadji : « Je pense que la tech est une industrie mortifère »
+299. Pascal Canfin : « L’alliance gagnante pour la présidentielle, c’est le centre et la gauche de gouvernement »
+300. Glucksmann s’impatiente, Jeanbrun répond à Retailleau… Retrouvez les indiscrétions du « Nouvel Obs »
+301. Alice de Rochechouart, la philosophe qui politise les privilèges : « Plus je me confronte au monde, plus je me gauchise »
+302. « Il traitait les enfants de “sales nègres” » : à Espaly-Saint-Marcel, un quartier sous le choc depuis les tirs de Michel V.
+303. Procès en appel du double assassinat de Bastia-Poretta, en Corse : « Ce n’était pas le foot ma passion, c’était mon père »
+304. Laura a dû quitter une maison de famille adorée : « Quand on a trouvé la bicoque vide, on s’est tous mis à pleurer »
+305. Des « Eblouis » à « C’est quoi l’amour ? » : Céleste Brunnquell, étoile singulière du cinéma français
+306. « J’ai retrouvé mon père biologique, c’est incroyable » : les tests ADN, outils déterminants dans la quête des origines, bientôt légalisés ?
+307. « C’est quoi l’amour ? », « Collapse (Face à Gaza) », « The New West »… Les films à voir (ou pas) cette semaine
+308. « C’est quoi l’amour ? » : une comédie familiale attachante et bon esprit avec Laure Calamy et Vincent Macaigne
+309. « Collapse (Face à Gaza) » : un témoignage essentiel qui questionne la société israélienne et le sens de la guerre
+310. « The New West » : à travers l’histoire d’une famille atypique, une vision sororale et contemporaine de l’Ouest américain
+311. Flottille pour Gaza : la détention de deux militants prolongée par Israël
+312. « The Criminals » : un film de braquage bien ficelé pour un samedi soir sans prétention
+313. « Sauvons les meubles » : un drame autour de la fin de vie et des secrets de famille porté par Vimala Pons
+314. « Pour le plaisir » : Alexandra Lamy et François Cluzet cherchent l’orgasme dans cet épisode géant de « Plus belle la vie »
+315. « Cinque secondi » : un drame dans la campagne toscane qui tourne à la rencontre sociologisante entre anciens et modernes
+316. « Mon grand frère et moi » : une singulière chronique du deuil, par l’auteur de « la Famille Asada »
+317. « The World of Love » : le portrait sensible d’une lycéenne coréenne victime d’abus sexuels dans l’enfance
+318. « Psychose » : comment Hitchcock a révolutionné Hollywood en 1960
+319. « Vingt Dieux » : un film tendre et rugueux sur la jeunesse rurale
+320. « Nouvelle Vague » : Richard Linklater revisite la naissance d’« A bout de souffle »
+321. « Mi amor » : un polar effarant de premier degré malgré la présence magnétique de Benoît Magimel
+322. « Soit on détruit notre maison nous-mêmes, soit on paye pour que l’armée israélienne la démolisse » : à Jérusalem-Est, la politique d’effacement des Palestiniens
+323. Agnès Michaux a passé un an avec Huysmans. Elle en a tiré un petit chef-d’œuvre de biographie
+324. Au Met Gala 2026, le couple Bezos fait fuir les invités
+325. La gauche s’offusque, l’extrême droite se réjouit… les réactions au rapport sur l’audivisuel public préfigurent déjà la campagne présidentielle
+326. « J’ai décidé de retrouver les mamans de mes haters » : Cette instagrameuse française veut faire honte à ceux qui lui envoient des messages sexuels
+327. Après avoir présidé celle sur l’audiovisuel, le député Jérémie Patrier-Leitus veut une réforme des commissions d’enquête
+328. Comment Pascal Praud s’est pris les pieds dans le « slop » avec cette fausse une de « Closer »
+329. Plus de 250 associations et personnalités redoutent la possible « extinction » de l’Ademe, à cause d’une loi
+330. « La Cage aux folles », « Hécube, pas Hécube »… Où (re)voir nos coups de cœur des Molières 2026 ?
+331. Non, le temps de travail des Français n’est pas le problème
+332. Hantavirus sur un navire de croisière : deux cas confirmés, trois morts… Ce que l’on sait
+333. « Sans lui, je suis un peu moins bon » : le difficile deuil d’une amitié de boulot
+334. Marie Peltier, historienne : « Ce qui nous permettra de lutter contre les complotismes ? L’humilité »
 </journal>
 
 
 <journal>
 L'Express
 droite
-336. Signature du Pacte de Varsovie en 1955 : la riposte de l'Est à l'Otan
-337. Bruno Biais (HEC) : "Les cryptos ont de la valeur si et seulement si on croit qu'elles en ont"
-338. Donald Trump et Xi Jinping : bientôt la passation de pouvoir ?
-339. Langue française : toutes les règles de grammaire se valent-elles ?
-340. Présidentielle 2027 : le vide sidéral de la politique étrangère du RN, par Catherine Fieschi
-341. Hantavirus : la France a-t-elle pris les mesures les plus strictes d'Europe ?
-342. Enfants ukrainiens enlevés par la Russie : l'UE décrète de nouvelles sanctions
-343. "Si la Chine devançait les Etats-Unis dans l’exploration lunaire..." : la mise en garde du chercheur Todd Harrison
-344. "Au troisième appel d’Emmanuel Macron, j’ai cédé" : Agnès Buzyn raconte la pire décision de sa vie
-345. Tentative d'assassinat contre Donald Trump : ces Américains qui croient à la thèse du coup monté
-346. Edouard Philippe en route pour 2027 : son bilan à Matignon peut-il lui nuire ?
-347. Ventes de livres : Olivia Ruiz va-t-elle renouer avec le succès ?
-348. Ukraine : Gerhard Schröder médiateur ? Pourquoi l’Europe rejette la proposition de Vladimir Poutine
-349. Polémique autour d'Eugénie Bastié à "L'Heure de vérité" : en 2026, le pluralisme est juste une illusion
-350. Derrière le succès du padel, le triomphe de la facilité, par Julia de Funès
-351. Hantavirus : une passagère française du "MV Hondius" testée positive
-352. Guerre en Iran : entre Donald Trump et Téhéran, les négociations patinent
-353. Les atouts maîtres de la France dans la guerre des drones, par Emmanuel Chiva
-354. Ultra-trail, skyrunning… La montagne à l’épreuve de la course
-355. "Après lui, ce sera peut-être le déluge..." : Emmanuel Macron vu par de grands observateurs internationaux
-356. Royaume-Uni : Keir Starmer sous pression après la claque électorale du Labour
-357. Comment la Chine approvisionne des usines en Iran en dépit des sanctions américaines
-358. Général Lecointre : "Il faut que l'Europe se réveille : l'Amérique ne nous défendrait pas"
-359. Fusion nucléaire : Etats-Unis - Chine, la bataille capitale pour dominer l’énergie du futur
-360. Tortures à Donetsk : un Ukrainien soupçonné de crimes contre l’humanité arrêté en France
-361. Iran : cette nappe de pétrole aux origines inconnues qui s'étend au large de l'île de Kharg
-362. Dans l'écrin de l'hôtel Villa Pétrusse au Luxembourg
-363. Val d’Isère, Méribel… Le grand virage estival des grandes stations de ski
-364. Avec "Spécimen", Pauline Clavière nous plonge dans les zones troubles de la paraphilie
-365. Microbiote et autisme : une hypothèse prometteuse... qui fait pschitt
-366. Donald Trump et les dossiers sur les ovnis : un écran de fumée politique ?
-367. Hantavirus sur le "MV Hondius" : comment isoler les cas contact ? Le casse-tête des scientifiques
-368. Guerre en Iran : dans le détroit d'Ormuz, les fantasmes autour de la présence de "dauphins kamikazes"
-369. Guerre en Iran : Mojtaba Khamenei, un Guide suprême "fantôme" encore au cœur du pouvoir
-370. Célébrations du 9 mai à Moscou : Vladimir Poutine charge l’Otan, "une force agressive"
-371. Café, transports, cinéma… Notre comparateur des prix en Europe
-372. En Russie, cette exposition sur la Pologne qui témoigne de la dérive du régime de Poutine
-373. Un week-end au Luxembourg : Robert Combas dans tous ses états
-374. Montagne : cinq beaux parcours pour goûter à l’alpinisme
-375. George Sand a-t-elle sa place au Panthéon ?
-376. Présidentielle 2027 : le piège qui guette Edouard Philippe
-377. Elections locales au Royaume-Uni : le scrutin qui met la politique britannique sens dessus dessous
-378. "Si Boris Vallaud et le PS étaient sérieux..." : les économistes Thesmar et Landier étrillent le projet socialiste
-379. Défense, économie, éducation... Les leçons de nos voisins européens
-380. "Au lieu d'attendre que la guerre nous rassemble, unissons-nous pour la prévenir" : l’appel de 25 eurodéputés
-381. Drones imbrouillables, formation... La Russie a-t-elle offert son aide militaire à l'Iran ?
-382. Comment Genève, symbole d'une ville de paix, voit la présence des Nations unies s'estomper
-383. "Sur l'immigration, la stratégie de François Ruffin est relativement marginale en France" : l'analyse de Pierre-Nicolas Baudot
-384. Keir Starmer exclut de démissionner malgré le revers infligé au Labour aux élections locales
-385. Ryad serre la vis : la vraie raison derrière l'abandon du "Projet Liberté" par Donald Trump
-386. Un réchauffement climatique à + 4 °C désormais jugé peu crédible : une bonne nouvelle, vraiment ?
-387. France-Algérie : Paris annonce le retour de son ambassadeur à Alger
-388. Dormir en montagne : du refuge classique à la falaise suspendue
-389. L’essai littéraire du mois : Nathan Devers dans les pas du jeune Modiano
-390. Iran : Donald Trump assure que le cessez-le-feu est maintenu, malgré des tirs dans le détroit d'Ormuz
-391. Entre l’Allemagne et les Etats-Unis, la fin d’une relation privilégiée
-392. "La crise qui vient pourrait faire passer le Covid pour peu de choses" : Robert Friedland, le regard décapant de l'oracle du cuivre
-393. La sécurité des cyclistes, nouveau défi européen
-394. Rendez-nous "Top Chef" ! Par Denys de Béchillon
-395. "Ils ne font que vendre un produit..." : la charge de Carissa Veliz (Oxford) contre les "prophètes" de l'IA
-396. Russie : un ancien avocat pro-Kremlin désormais en croisade contre Poutine
-397. Rachel Vogelstein : "Mobiliser les femmes dans l'économie est devenu un impératif stratégique"
-398. L'argent du contribuable continue à financer des terroristes palestiniens, par Simone Rodan-Benzaquen
-399. Des images satellites révèlent l'ampleur des frappes iraniennes sur les bases américaines
-400. Bally Bagayoko dans la boucle WhatsApp de Valérie Pécresse, Nicolas Sarkozy en veut à Bruno Retailleau
-401. Royaume-Uni : les élections locales, premier test à haut risque pour Keir Starmer
-402. Hantavirus : vers une épidémie ? Les différents scénarios décryptés par le Pr Antoine Flahault
-403. Elvira Nabioullina, l’argentière de Vladimir Poutine clouée au pilori après avoir sauvé l’économie russe
-404. Pourquoi la montagne est devenue la nouvelle star des vacances d’été
-405. Entre Marco Rubio et Léon XIV, une rencontre sensible sur fond de tensions avec Donald Trump
-406. Moyen-Orient : pourquoi le porte-avions Charles-de-Gaulle a mis le cap sur le détroit d’Ormuz
-407. "Tout va mal", "Avec nous, ça ne peut pas être pire" : les deux mensonges du populisme
-408. Economie, immigration... Le PS à contre-courant de la gauche européenne
-409. De Merkel à Merz : les années Macron ont-elles fragilisé le couple franco-allemand ?
-410. "Les discours catastrophistes sont faux" : le déclin des espèces nuancé par deux scientifiques
-411. Scandale de corruption en Ukraine : les révélations qui fragilisent Volodymyr Zelensky
-412. "Il n’y a que lui qui n’est pas au courant" : Eric Zemmour face à l’ascension de Sarah Knafo
-413. Droits de douane : l'Union européenne divisée sur l’accord commercial avec Donald Trump
-414. Pour une convention nationale des psychologues avec l’Assurance maladie : sortir de l’impasse de Mon soutien psy
-415. Pédopsychiatrie : le rapport accablant de l’ARS sur les dérives de la Fondation Vallée
-416. Assurance‑vie : l’euro-croissance tient-il sa promesse ?
-417. Détroit d’Ormuz : le "Projet Liberté" déjà suspendu, un nouveau rétropédalage de Donald Trump
-418. Edward Russo, le joker vert de Donald Trump : "écologiste passionné" ou simple alibi ?
-419. Taxation des superprofits : un casse-tête économique et technique aux retombées incertaines
-420. Le journaliste de L’Express qui espionnait pour le KGB : Paul-Marie de La Gorce, l’histoire d’un double jeu
-421. "La politique étrangère de Trump ? Un enfant n’aurait pas une autre approche…" : l’alerte de Gregory A. Daddis
-422. Dans une volte-face, l'administration Trump examine la possibilité d'encadrer les IA
-423. Que reste-t-il du programme nucléaire iranien ? L’état des lieux qui inquiète toujours les experts
-424. Général Lecointre : "Contrairement à ce qu'ont voulu croire les Européens, la guerre n'a jamais cessé"
-425. Charles Rodwell : "Le respect de l'Etat de droit ne doit jamais nous condamner à l'impuissance"
-426. "L’Algérie et le Maroc se préparent au pire" : entre Alger et Rabat, la course aux armements s'intensifie
-427. Aux Etats-Unis, la frustration des mouvements anti-avortement grandit à l'égard de Donald Trump
-428. Entre l’Europe et les Etats-Unis, ce fossé économique qui ne cesse de se creuser
-429. Algérie : le journaliste français Christophe Gleizes s'en "remet à la clémence" d'Abdelmadjid Tebboune
-430. Frappes en Iran : un tournant pour le Moyen-Orient
-431. Loi de programmation militaire : état d’alerte, anciens espions… Ces mesures qui font débat
-432. Jean-Luc Mélenchon et la dette : entre manipulation et calculs trompeurs
-433. Assurance-vie : les critères essentiels pour choisir un bon contrat
-434. Des cours en anglais dans l'enseignement supérieur ? Oui, mais pas trop
-435. Hantavirus sur un navire de croisière : "Il est très létal, mais peu contagieux"
+335. "Il est prêt à tout" : Gabriel Attal, son plan pour défier Edouard Philippe
+336. Au Maroc, la guerre secrète des espions de Mohammed VI : "Il y a une atmosphère de fin de règne"
+337. Nvidia : comment le géant américain des puces est devenu l’entreprise la plus importante du monde
+338. Agnès Buzyn : "On m’a fait comprendre qu’on ne disait pas non deux fois au président…"
+339. Hantavirus : pourquoi les autorités sanitaires ont durci l’isolement des cas contacts
+340. Mystérieux naufrage d’un cargo russe en Méditerranée : et si la cargaison était nucléaire ?
+341. Vodka, faux papiers et explosifs, les secrets de l'attaque de Nord Stream : "L'Ukraine voulait frapper la machine de guerre de Poutine"
+342. IA : Chine – Etats-Unis, la bataille qui va façonner le XXIe siècle
+343. Hantavirus : faut-il craindre une épidémie mondiale ?
+344. Drones IA et "deep strike" : l’Allemagne et l’Ukraine signent le partenariat "Brave Germany"
+345. Hantavirus : les autorités américaines critiquées pour leur manque de réactivité
+346. "Désormais, c’est voyage en seconde classe" : comment réduire les coûts sans casser la culture d’entreprise ?
+347. Olivier Faure et la stratégie de la tortue : ses convergences avec François Hollande, son "double discours" sur la primaire
+348. Etats-Unis : Donald Trump sous pression face à la flambée des prix de l'essence
+349. Vacances d'été à la montagne : le modèle suisse fait école
+350. Cisjordanie : l'UE sanctionne des colons israéliens et provoque la colère de l'Etat hébreu
+351. Signature du Pacte de Varsovie en 1955 : la riposte de l'Est à l'Otan
+352. Bruno Biais (HEC) : "Les cryptos ont de la valeur si et seulement si on croit qu'elles en ont"
+353. Donald Trump et Xi Jinping : bientôt la passation de pouvoir ?
+354. Langue française : toutes les règles de grammaire se valent-elles ?
+355. Présidentielle 2027 : le vide sidéral de la politique étrangère du RN, par Catherine Fieschi
+356. Hantavirus : la France a-t-elle pris les mesures les plus strictes d'Europe ?
+357. Enfants ukrainiens enlevés par la Russie : l'UE décrète de nouvelles sanctions
+358. "Si la Chine devançait les Etats-Unis dans l’exploration lunaire..." : la mise en garde du chercheur Todd Harrison
+359. Tentative d'assassinat contre Donald Trump : ces Américains qui croient à la thèse du coup monté
+360. Edouard Philippe en route pour 2027 : son bilan à Matignon peut-il lui nuire ?
+361. Ventes de livres : Olivia Ruiz va-t-elle renouer avec le succès ?
+362. Ukraine : Gerhard Schröder médiateur ? Pourquoi l’Europe rejette la proposition de Vladimir Poutine
+363. Polémique autour d'Eugénie Bastié à "L'Heure de vérité" : en 2026, le pluralisme est juste une illusion
+364. Derrière le succès du padel, le triomphe de la facilité, par Julia de Funès
+365. Hantavirus : une passagère française du "MV Hondius" testée positive
+366. Guerre en Iran : entre Donald Trump et Téhéran, les négociations patinent
+367. Les atouts maîtres de la France dans la guerre des drones, par Emmanuel Chiva
+368. Ultra-trail, skyrunning… La montagne à l’épreuve de la course
+369. "Après lui, ce sera peut-être le déluge..." : Emmanuel Macron vu par de grands observateurs internationaux
+370. Royaume-Uni : Keir Starmer sous pression après la claque électorale du Labour
+371. Comment la Chine approvisionne des usines en Iran en dépit des sanctions américaines
+372. Général Lecointre : "Il faut que l'Europe se réveille : l'Amérique ne nous défendrait pas"
+373. Fusion nucléaire : Etats-Unis - Chine, la bataille capitale pour dominer l’énergie du futur
+374. Tortures à Donetsk : un Ukrainien soupçonné de crimes contre l’humanité arrêté en France
+375. Iran : cette nappe de pétrole aux origines inconnues qui s'étend au large de l'île de Kharg
+376. Dans l'écrin de l'hôtel Villa Pétrusse au Luxembourg
+377. Val d’Isère, Méribel… Le grand virage estival des grandes stations de ski
+378. Avec "Spécimen", Pauline Clavière nous plonge dans les zones troubles de la paraphilie
+379. Microbiote et autisme : une hypothèse prometteuse... qui fait pschitt
+380. Donald Trump et les dossiers sur les ovnis : un écran de fumée politique ?
+381. Hantavirus sur le "MV Hondius" : comment isoler les cas contact ? Le casse-tête des scientifiques
+382. Guerre en Iran : dans le détroit d'Ormuz, les fantasmes autour de la présence de "dauphins kamikazes"
+383. Guerre en Iran : Mojtaba Khamenei, un Guide suprême "fantôme" encore au cœur du pouvoir
+384. Célébrations du 9 mai à Moscou : Vladimir Poutine charge l’Otan, "une force agressive"
+385. Café, transports, cinéma… Notre comparateur des prix en Europe
+386. En Russie, cette exposition sur la Pologne qui témoigne de la dérive du régime de Poutine
+387. Un week-end au Luxembourg : Robert Combas dans tous ses états
+388. Montagne : cinq beaux parcours pour goûter à l’alpinisme
+389. George Sand a-t-elle sa place au Panthéon ?
+390. Présidentielle 2027 : le piège qui guette Edouard Philippe
+391. Elections locales au Royaume-Uni : le scrutin qui met la politique britannique sens dessus dessous
+392. "Si Boris Vallaud et le PS étaient sérieux..." : les économistes Thesmar et Landier étrillent le projet socialiste
+393. Défense, économie, éducation... Les leçons de nos voisins européens
+394. "Au lieu d'attendre que la guerre nous rassemble, unissons-nous pour la prévenir" : l’appel de 25 eurodéputés
+395. Drones imbrouillables, formation... La Russie a-t-elle offert son aide militaire à l'Iran ?
+396. Comment Genève, symbole d'une ville de paix, voit la présence des Nations unies s'estomper
+397. "Sur l'immigration, la stratégie de François Ruffin est relativement marginale en France" : l'analyse de Pierre-Nicolas Baudot
+398. Keir Starmer exclut de démissionner malgré le revers infligé au Labour aux élections locales
+399. Ryad serre la vis : la vraie raison derrière l'abandon du "Projet Liberté" par Donald Trump
+400. Un réchauffement climatique à + 4 °C désormais jugé peu crédible : une bonne nouvelle, vraiment ?
+401. France-Algérie : Paris annonce le retour de son ambassadeur à Alger
+402. Dormir en montagne : du refuge classique à la falaise suspendue
+403. L’essai littéraire du mois : Nathan Devers dans les pas du jeune Modiano
+404. Iran : Donald Trump assure que le cessez-le-feu est maintenu, malgré des tirs dans le détroit d'Ormuz
+405. Entre l’Allemagne et les Etats-Unis, la fin d’une relation privilégiée
+406. "La crise qui vient pourrait faire passer le Covid pour peu de choses" : Robert Friedland, le regard décapant de l'oracle du cuivre
+407. La sécurité des cyclistes, nouveau défi européen
+408. Rendez-nous "Top Chef" ! Par Denys de Béchillon
+409. "Ils ne font que vendre un produit..." : la charge de Carissa Veliz (Oxford) contre les "prophètes" de l'IA
+410. Russie : un ancien avocat pro-Kremlin désormais en croisade contre Poutine
+411. Rachel Vogelstein : "Mobiliser les femmes dans l'économie est devenu un impératif stratégique"
+412. L'argent du contribuable continue à financer des terroristes palestiniens, par Simone Rodan-Benzaquen
+413. Des images satellites révèlent l'ampleur des frappes iraniennes sur les bases américaines
+414. Bally Bagayoko dans la boucle WhatsApp de Valérie Pécresse, Nicolas Sarkozy en veut à Bruno Retailleau
+415. Royaume-Uni : les élections locales, premier test à haut risque pour Keir Starmer
+416. Hantavirus : vers une épidémie ? Les différents scénarios décryptés par le Pr Antoine Flahault
+417. Elvira Nabioullina, l’argentière de Vladimir Poutine clouée au pilori après avoir sauvé l’économie russe
+418. Pourquoi la montagne est devenue la nouvelle star des vacances d’été
+419. Entre Marco Rubio et Léon XIV, une rencontre sensible sur fond de tensions avec Donald Trump
+420. Moyen-Orient : pourquoi le porte-avions Charles-de-Gaulle a mis le cap sur le détroit d’Ormuz
+421. "Tout va mal", "Avec nous, ça ne peut pas être pire" : les deux mensonges du populisme
+422. Economie, immigration... Le PS à contre-courant de la gauche européenne
+423. De Merkel à Merz : les années Macron ont-elles fragilisé le couple franco-allemand ?
+424. "Les discours catastrophistes sont faux" : le déclin des espèces nuancé par deux scientifiques
+425. Scandale de corruption en Ukraine : les révélations qui fragilisent Volodymyr Zelensky
+426. "Il n’y a que lui qui n’est pas au courant" : Eric Zemmour face à l’ascension de Sarah Knafo
+427. Droits de douane : l'Union européenne divisée sur l’accord commercial avec Donald Trump
+428. Pour une convention nationale des psychologues avec l’Assurance maladie : sortir de l’impasse de Mon soutien psy
+429. Pédopsychiatrie : le rapport accablant de l’ARS sur les dérives de la Fondation Vallée
+430. Assurance‑vie : l’euro-croissance tient-il sa promesse ?
+431. Détroit d’Ormuz : le "Projet Liberté" déjà suspendu, un nouveau rétropédalage de Donald Trump
+432. Edward Russo, le joker vert de Donald Trump : "écologiste passionné" ou simple alibi ?
+433. Taxation des superprofits : un casse-tête économique et technique aux retombées incertaines
+434. Le journaliste de L’Express qui espionnait pour le KGB : Paul-Marie de La Gorce, l’histoire d’un double jeu
 </journal>
 
 
 <journal>
 Marianne
 gauche
-436. Hantavirus : 5 questions pour comprendre s'il faut craindre une nouvelle crise sanitaire
-437. Olivier Faure vs. Boris Vallaud : lequel de ces "titans" aura le dessus ?
-438. "Aucune course à la présidentielle ne justifie les compromissions" : la lourde charge du parquet contre Sarkozy
-439. "C’est uniquement pour faire traîner la loi" : le texte sur l'aide à mourir peut-il être adopté avant l'été ?
-440. "Je n’ai jamais rêvé d’être un héros" : "l'Abandon", le film qui retrace le basculement de l'affaire Samuel Paty
-441. Virginie Martin : "Le cool est une esthétique du pouvoir"
-442. Ariana Harwicz ("Die, My Love") : "Il y en a combien, des écrivaines argentines qui habitent dans la Nièvre ?"
-443. Sur la Chine et Taïwan, "il y a une cécité volontaire de Jean-Luc Mélenchon"
-444. Hantavirus : les médias brodent, les faits restent à quai
-445. Portrait de Macron décroché : le préfet de Seine-Saint-Denis étudie un recours contre Bally Bagayoko
-446. Audrey Jougla : "Notre société nous pousse à déléguer les enfants"
-447. Antoine Bristielle : "La peur est un moteur de désengagement civique"
-448. "Vivre ensemble", l'exposition de Yann Arthus-Bertrand gnangnan (et ultralibérale)
-449. Pour le bâtiment, "ce choc énergétique, c’est la crise de trop pour nos artisans et TPE"
-450. "Ils feront moins de tâches administratives rébarbatives" : sous l'IA, le chômage des jeunes ? Pas si vite !
-451. "Fragilité" de Ferrand, hostilité du RN… Mais que se passe-t-il au Conseil constitutionnel ?
-452. Disparition de Manon Relandeau : un suspect en Algérie et combien de complices ?
-453. Jonathan Lambert : "Les chanteuses à voix comme Céline Dion ne me touchent pas"
-454. "Direction collégiale", réunions d'appartements et grand meeting à Paris le 5 juillet : Édouard Philippe lance sa campagne pour 2027
-455. Drones navals : à Lorient, la France dans la guerre des mers
+435. Le cinéaste néerlandais Ludi Boeken sur la série "Etty" : "Un monument pour nous tous"
+436. Fabien Roussel : "Nationaliser TotalEnergies est un outil de souveraineté"
+437. Le virologue Jacques Izopet : "L'hantavirus appartient au même groupe que les coronavirus"
+438. "On reçoit beaucoup de conneries" : la note interne qui conseille à Raphaël Glucksmann d'ignorer les pauvres
+439. Mathieu Geagea : "Je trouve bien triste que les petits-fils du général de Gaulle envisagent de vendre La Boisserie"
+440. Un plan "Emploi Futur" pour les jeunes, financé… dans le futur
+441. Ève Szeftel : "Toute la France est en train de redevenir, comme à la Belle Époque, une société d’héritiers"
+442. Guerre au Soudan : "La population ne comprend pas le silence des Européens"
+443. Comment les "fils et filles de" font main basse sur le cinéma français
+444. "Sarkozy pensait devenir intouchable" : la violence des réquisitions du parquet général
+445. Éducation nationale : le grand retour des mauvaises notes au bac et au brevet ?
+446. Nomination de Marc Guillaume : un Conseil d’État tenu par un ami de Macron ne nuit jamais
+447. Chantage des patrons : le pouvoir actuel subit l’inévitable conséquence de son déclin financier
+448. Pierre Salvadori : "J’avais le sentiment que mes films n’avaient pas leur place à Cannes"
+449. Hantavirus : 5 questions pour comprendre s'il faut craindre une nouvelle crise sanitaire
+450. Olivier Faure vs. Boris Vallaud : lequel de ces "titans" aura le dessus ?
+451. "Aucune course à la présidentielle ne justifie les compromissions" : la lourde charge du parquet contre Sarkozy
+452. "C’est uniquement pour faire traîner la loi" : le texte sur l'aide à mourir peut-il être adopté avant l'été ?
+453. "Je n’ai jamais rêvé d’être un héros" : "l'Abandon", le film qui retrace le basculement de l'affaire Samuel Paty
+454. Virginie Martin : "Le cool est une esthétique du pouvoir"
 </journal>
 
 
 <journal>
 La Croix
 gauche
-456. « La guerre au Soudan est devenue un système économique qui s’auto-entretient »
-457. Cannes 2026 : Premier film réalisé par John Travolta, Barbra Streisand à l’honneur… Les temps forts du Festival
-458. Guerre en Ukraine : reprise des combats après la trêve ; un mort dans des attaques russes
-459. À l’Opéra de Paris, « La Dame aux camélias » sublimée par John Neumeier
-460. DIRECT. Hantavirus : isolement renforcé en France ; des soignants Néerlandais en quarantaine
-461. Série « Deep » : la Seconde Guerre mondiale, version loufoque
-462. DIRECT. Guerre au Moyen-Orient : le cessez-le-feu « sous assistance respiratoire » ; six morts au Liban
-463. Présidentielle 2027 : meeting, personnel, tracts… qu’est-ce qui coûte cher dans une campagne électorale ?
-464. Aide à mourir : le Sénat rejette un article clé de la réforme de la fin de vie
-465. Tentatives de suicide : poursuite de la hausse des hospitalisations d’adolescentes en 2025
-466. Guerre au Moyen-Orient, jour 73 : Donald Trump promet une « victoire complète »… Le bilan du lundi 11 mai
-467. Hantavirus : une Française en réanimation ; fin des évacuations… Ce qu’il faut retenir ce lundi 11 mai
-468. Guerre en Ukraine, jour 1538 : ce qu’il faut retenir de la situation du lundi 11 mai
-469. La Cour des comptes défend la nécessité de la police de l’eau, victime de menaces et de violences
-470. Après la liquidation de TOWT, le transport à la voile retient son souffle
-471. Faut-il faire entrer les jeux vidéo à l’école ?
-472. Fin de vie : le Parlement adopte définitivement un texte renforçant l’accès aux soins palliatifs
-473. Ouessant : pourquoi Charles III est appelé à la rescousse d’une église menacée d’effondrement
-474. Après un premier cas de hantavirus en France, cinq questions sur ce virus encore peu connu du grand public
-475. Budget : les allègements de charges sociales de nouveau dans le viseur de Bercy
-476. Didier Tabuteau, vice-président du Conseil d’État : « On a besoin plus que jamais d’un État social fort »
-477. Cisjordanie occupée : l’UE trouve un accord pour sanctionner des colons extrémistes israéliens
-478. 170 ans de l’Œuvre d’Orient : 55 % des Français se disent inquiets pour l’avenir des chrétiens d’Orient
-479. Dix ans après le Brexit, Londres remet le cap sur l’Europe
-480. Royaume-Uni : Keir Starmer promet un tournant à gauche pour sauver sa place
-481. Édition : des auteurs étrangers refusent de continuer à publier chez Grasset
-482. TikTok accusé de promouvoir le suicide : 16 familles demandent d’élargir l’enquête parisienne
-483. Nice : une fusillade fait deux morts et trois blessés sur fond d’incidents liés au narcotrafic
-484. Lutte contre la fraude sociale : ce que contient le projet de loi définitivement adopté
-485. « Accompagner les catéchumènes en situation matrimoniale complexe requiert une grande délicatesse pastorale »
-486. Le référent handicap en entreprise, simple caution sociale ou réel progrès en matière d’inclusion ?
-487. « L’IA, elle au moins, elle me comprend » : quand les agents conversationnels deviennent des confidents
-488. Comment vivre la fête de l’Ascension ?
-489. Marib, au YÃ©men, carrefour dâ€™exils et dâ€™illusions vers lâ€™Arabie saoudite : Â«Â Beaucoup errent en attendant un miracleÂ Â»Â
-490. Philippines : les ambitions de la vice-présidente Sara Duterte contrariées par une procédure de destitution
-491. « L’Europe aurait tout à gagner d’une réconciliation mémorielle avec l’Afrique »
-492. Hantavirus : comment l’Argentine a vaincu l’épidémie d’Epuyén en 2018
-493. Incendie près de Lyon : trois morts dans un feu d’origine criminelle
-494. Hantavirus : que prévoit le protocole sanitaire mis en place en France ?
-495. Périscolaire : pourquoi les animateurs se mettent en grève dans les écoles parisiennes à partir de ce lundi
-496. Courir ou marcher, pourquoi s’épuiser à aller vers sa perte ?
-497. Lions empaillés, santiags brodées… Le temple kitsch des cadeaux de Mitterrand dans le Morvan
-498. Fin de vie : « La compassion ne peut pas être au service de la mort »
-499. Flambée du pétrole : le bénéfice trimestriel du saoudien Aramco bondit de 25,5 %
-500. Ces quatre jeunes dont on dit qu’ils ne se quittaient pas
-501. Comment se préparer à l’urgence face à des situations de crises majeures
-502. « La reconfiguration du dispositif militaire français en Afrique est un succès stratégique majeur »
-503. Iran : Narges Mohammadi libérée sous caution et soignée à Téhéran
-504. Pourquoi Alger est prêt à se réconcilier avec Paris après deux ans de tensions
-505. « Une approche gagnant-gagnant » : comment la France veut rebondir en Afrique après les revers au Sahel
+455. Hantavirus : quand les experts du Covid reviennent hanter nos JT
+456. Argentine : des manifestations pour défendre l’université contre l’austérité de Javier Milei
+457. DIRECT. Hantavirus : le virus ne circule pas en France ; les experts alertent face « aux idées reçues »
+458. DIRECT. Guerre au Moyen-Orient : frappes au Liban ; Pékin appelle le Pakistan à la médiation
+459. Guerre au Soudan : des victimes demandent à l’Union européenne de sanctionner les Émirats arabes unis
+460. Donald Trump et Xi Jinping veulent tourner la page de la guerre commerciale
+461. La douceur de la vérité. Commentaire de l’Évangile du mercredi 13 mai 2026
+462. Violences sexuelles : l’Assemblée vote l’information des victimes avant la libération d’un agresseur
+463. Festival de Cannes 2026 : la cérémonie d’ouverture célèbre le pouvoir unificateur du cinéma
+464. Guerre en Ukraine, jour 1539 : ce qu’il faut retenir de la situation ce mardi 12 mai
+465. Guerre au Moyen-Orient, jour 74 : l’Iran écarte tout compromis… Le bilan de ce mardi 12 mai
+466. Hantavirus : Pas de « circulation diffuse » en France... Ce qu’il faut retenir ce mardi 12 mai
+467. L’inflation au plus haut depuis près de trois ans aux États-Unis
+468. États-Unis : Kevin Warsh, à une marche de la présidence de la Fed
+469. Mort d’Albrecht Weinberg, rescapé de la Shoah, à l’âge de 101 ans en Allemagne
+470. Uniforme à l’école : Édouard Geffray pointe des premiers résultats « assez inégaux »
+471. En Ukraine, l’étau anticorruption se resserre sur Andriï Iermak, l’ancien « vice-roi » du pays
+472. Allemagne : un an après son élection, Friedrich Merz en grande difficulté
+473. Plaider-coupable : Darmanin propose d’exclure les viols et les crimes passibles des assises
+474. Consommation de vin : la décrue se poursuit au niveau mondial en 2025
+475. Procès en appel du financement libyen : un réquisitoire coup de poing contre Nicolas Sarkozy
+476. Festival de Cannes 2026 : L’état de forme du cinéma français
+477. Climat : El Nino de retour, l’année 2026 pourrait battre de nouveaux records de chaleur
+478. Master Poulet, aller au-delà de la polémique
+479. L’Union européenne doit-elle négocier avec les talibans ?
+480. Aide à mourir : quelle suite après le rejet du texte de loi par le Sénat ?
+481. Violences sexuelles : un animateur d’une école maternelle parisienne écroué
+482. Au sommet de Nairobi, le pari pro-business de la France en Afrique
+483. « Les droits de succession tuent la continuité de nos familles »
+484. Festival de Cannes 2026 : dans « La Vénus électrique », les tours de magie de Pierre Salvadori
+485. Toilettes dans la cuisine : pourquoi une annonce de location a fait réagir le maire de Paris
+486. « Homos et cathos » : pourquoi des familles appellent l’Église à repenser sa doctrine
+487. « L’Abandon » de Vincent Garenq : retour sur les derniers jours de Samuel Paty
+488. Transparence fiscale, contrôles anti-blanchiment… La banque du Vatican revendique la fin de l’ère des scandales
+489. La Cour de cassation rejette le recours de Frédéric Péchier sur sa demande de mise en liberté
+490. Avec Vanessa Wagner, la Folle Journée de Nantes entre dans une nouvelle ère
+491. Au Royaume-Uni, Keir Starmer plus que jamais en sursis après la fronde des députés travaillistes
+492. Cycliste tué à Paris : l’automobiliste qui a écrasé Paul Varry renvoyé aux assises pour meurtre
+493. Série « Etty » sur Arte : Etty Hillesum, l’esprit face à la barbarie
+494. Entrer dans la vérité. Commentaire de l’Évangile du mardi 12 mai 2026
+495. Royaume-Uni : qui sont les prétendants pour un éventuel remplacement de Keir Starmer
+496. Étudiants étrangers : le gouvernement assouplit le décret sur les frais d’inscription
+497. Cannes 2026 : qui est Peter Jackson, le réalisateur distingué par une Palme d’or d’honneur
+498. Antarctique : faut-il limiter le tourisme pour sauver les manchots ?
+499. En Turquie, des milliers de trous géants percent le sol sous l’effet du réchauffement climatique
+500. Dans la province du lac Tchad, Boko Haram « plus fort que jamais »
+501. « Demander à mourir est parfois un réflexe de vie, il est étrange d’y répondre en provoquant la mort »
+502. « Cannes 1968, révolution au palais » sur LCP : un vent de contestation souffle sur la croisette
+503. Festival de Cannes : avec trois films en sélection, le bouillonnement « historique » du cinéma espagnol
+504. Aide à mourir : en pleine nuit, le Sénat rejette d’emblée un article clé du projet de loi
 </journal>
 
 
 <journal>
 Ouest-France
 droite
-506. Qui est Gabi, ce robot humanoïde censé promouvoir un « bouddhisme branché » ?
-507. « Aliments pollués : on mange quoi maintenant ? » : le magazine Enquête de santé donne des pistes pour manger plus sain
-508. OM. « Un grand coach » : Habib Beye soutenu et salué par Pierre Sage lors des Trophées UNFP
-509. Un train percute un piéton : le TGV de Rennes vers Paris à l’arrêt ce mardi matin, des TER supprimés
-510. Roland-Garros. « Tous les résultats sont normaux » : Arthur Fils rassure après son forfait à Rome
-511. Hantavirus : pourquoi n’existe-t-il pas de traitement spécifique pour les personnes contaminées ?
-512. NBA. Les Thunder d’Oklahoma City se qualifient pour la finale de Conférence Ouest, les Lakers éliminés
-513. Festival de Cannes 2026 : Eye Haïdara animera la cérémonie d’ouverture « avec sincérité, passion et sens de la fête »
-514. Coupe du monde 2026. Le Mexique renonce finalement à avancer les vacances scolaires
-515. Un feu se déclare dans un bâtiment industriel en Sarthe, plus d’une trentaine de pompiers mobilisés
+505. Fraises mariguettes ou gariguettes : quelle différence y a-t-il vraiment entre ces variétés stars ?
+506. Avec « Des racines et des ailes », France 3 nous plonge dans la beauté des grands lacs de l’Italie du Nord
+507. Le taux de chômage de nouveau en hausse, à 8,1 % au premier trimestre 2026
+508. WNBA. Carla Leite, Marine Johannès et Pauline Astier brillent lors de la victoire de Portland contre New York
+509. ENTRETIEN - Voile. « Ça a matché tout de suite » : le Vendéen Xavier Macaire rejoint l’équipe de Benjamin Dutreux
+510. NBA. Jason Collins, premier joueur à avoir fait son coming-out, est mort à 47 ans
+511. MotoGP. Circuit, enjeux, favoris… Tout savoir sur le Grand Prix de Catalogne
+512. NBA. Victor Wembanyama porte encore San Antonio contre Minnesota, les Spurs à une victoire de la finale de conférence
+513. Rencontre entre Donald Trump et Xi Jiping en Chine : quatre questions sur ce face-à-face inédit
+514. « New York était juste en face » : Anne-Claire Legendre, de l’enfance bretonne à la tête de l’Institut du monde arabe
 </journal>
 
 
 <journal>
 Europe 1
 droite
-516. Aide à mourir : le Sénat rejette un article clé de la réforme de la fin de vie
-517. Contagiosité, dangerosité du virus et risque épidémique… Voici ce que l’on sait de l’Hantavirus
-518. Présidentielle 2027 : le Rassemblement national peine à trouver des financements en France pour sa campagne
-519. Footing, rappel à l'ordre, cours de cuisine... Emmanuel Macron se lâche lors de sa tournée en Afrique
-520. «On sent qu'il y a plus de contrôles qu'avant» : les Parisiens craignent-ils l'hantavirus ?
-521. Crise du carburant : le «prêt flash carburant» sera élargi au BTP, annonce Roland Lescure
-522. Crise du carburant : «Il faut électrifier massivement l'économie française», suggère Aymeric Renaud
-523. Le crash d'un petit avion fait deux morts en forêt de Fontainebleau
-524. Un Tunisien mis en examen et écroué, soupçonné de fomenter un attentat djihadiste
-525. Bouchara racheté, moins de la moitié des emplois sauvegardés
-526. Tennis : Ksenia Efremova et Moïse Kouame invités dans le tableau final de Roland-Garros
-527. «Je suis auto-entrepreneur» : au procès de trois proches de la DZ Mafia, l’arrogance glaciale d’Hacène L., recruteur de tueurs à gage marseillais
-528. Disparition de Khadidja Bengrine en 2004 : des fouilles menées dans le Finistère
-529. Une Française en réanimation, 22 cas contacts transférés en milieu hospitalier… Ce que l'on sait du cas d'hantavirus surveillé en France
-530. INFO EUROPE 1 - Mulhouse : un collégien violemment agressé et volontairement écrasé par un scooter
-531. Malbouffe : Alain Fontaine dénonce «l'indécence des fast-foods de se servir du pouvoir d'achat comme prétexte»
-532. Fin de vie : le Parlement adopte définitivement un texte renforçant l'accès aux soins palliatifs
-533. Hantavirus : ce que l'on sait du possible patient zéro, Leo Schilperoord
-534. «Je vais rétablir l'ordre» : au Kenya, Emmanuel Macron perd son calme et réclame le silence lors d'une conférence
-535. Une transmission «essentiellement par la salive» : un professeur évoque la circulation du hantavirus
-536. «On a vraiment essayé d’être au plus proche de ce qu’il s’est passé» : Vincent Garenq représente les derniers jours de Samuel Paty dans «L’Abandon»
-537. Hantavirus : cas contact, quarantaine... Le gouvernement a publié un décret pour tenter d’endiguer une possible propagation
-538. Homejacking : «Je suis pour une sévérité totale», lance Pascal Praud
-539. «On fait face à des dilemmes tous les jours» : Damien Berg témoigne de la réalité du métier de sapeur-pompier
-540. Moyen-Orient : Benjamin Netanyahu annonce que la guerre n'est «pas finie» et souhaite «retirer» l'uranium aux iraniens
-541. Déchetterie, oiseau rare et rats : comment le patient zéro aurait-il contracté l'hantavirus ?
-542. Michaël Youn et sa famille victimes d'un home-jacking à main armée près d'Aix-en-Provence
-543. CARTE - Sécurité routière : dans quels départements le nombre de PV distribués est-il le plus élevé ?
-544. Offres d’emploi d’imams : «La France est un pays laïc, l’État ne doit pas se mêler des religions», pointe Karim Maloum
-545. Nice : au moins deux morts et plusieurs blessés dans une fusillade
-546. Cinq mises en examen dans l'enquête sur un jeune abattu à Saint-Nazaire en 2024
-547. Incendie près de Lyon : trois morts, piste criminelle à l'étude, ombre du narcotrafic... Ce que l'on sait du drame
-548. Loi sur l'aide à mourir :  «Je préfère rester chez moi» : l'association Nepale propose des soins palliatifs à domicile
-549. Pédocriminalité : «Lui sort de prison, et moi j'entre en prison», déplore Karine Jambu, victime d'un pédophile libéré après 8 ans de prison
-550. Catherine Deneuve rend hommage à Marilyn Monroe dans un livre
-551. Hantavirus : quels sont les symptômes qui doivent alerter ?
-552. Hantavirus : marqué par la précédente pandémie de Covid, le gouvernement veut montrer sa mobilisation
-553. Saints de Glace 2026 : comment protéger son jardin durant cette période ?
-554. En direct - Moyen-Orient : Donald Trump promet une «victoire complète» contre l'Iran
-555. Détroit d'Ormuz : Paris et Londres coprésideront mardi une réunion de ministres de la Défense
-556. Basket : la Française Marine Johannès bat son record de points avec le Liberty en WNBA
-557. Tentez de gagner un séjour d'une semaine en famille avec VVF
-558. La Chine confirme la visite de Donald Trump du 13 au 15 mai
-559. Maxime Saada ouvre la porte à une distribution de Ligue 1+ par Canal+
-560. Play-offs NBA : Wembanyama exclu, les Wolves égalisent contre les Spurs
-561. Profil type, âge moyen, sexe... Qui a le plus de chances de gagner l'Eurovision, selon cette étude britannique ?
-562. Eurovision 2026 : les chaînes ajustent leur programmation pour éviter toute concurrence avec leurs émissions
-563. Hausse du prix du carburant : les Français rognent sur le budget course pour faire des économies
-564. Lyon : trois morts dans un incendie visant un immeuble
-565. Banquets du Canon français : musique, terroir et convivialité séduisent de plus en plus de Français malgré les attaques de la gauche
+515. Chômage : le taux grimpe à 8,1 % au premier trimestre 2026, un plus haut depuis cinq ans
+516. Festival de Cannes 2026 : une cérémonie d'ouverture qui célèbre le cinéma comme «acte de résistance»
+517. À un an de la présidentielle, la valse des plus hauts postes de la République a commencé
+518. Hantavirus : où en est le stock stratégique de masques en France ?
+519. Hantavirus : le gouvernement joue la carte de la transparence pour éviter un nouveau scénario Covid
+520. Festival de Cannes : le cinéma français, «un moyen de faire rayonner sa culture», rappelle Wassim Béji
+521. 7-Octobre : un rapport israélien documente l’usage «systématique» et «à grande échelle» des violences sexuelles par le Hamas
+522. Hantavirus : Emmanuel Macron affirme que «la situation est sous contrôle» en France
+523. Football : 50 ans après sa finale européenne, Saint-Etienne a célébré ses héros
+524. Lyon : le premier restaurant gastronomique pour chiens en France a ouvert ses portes
+525. Hantavirus : les rats de Paris peuvent-ils également transmettre des maladies graves ? La réponse d'un professeur de médecine
+526. «Je pourrais voter pour Glucksmann aux prochaines élections» : Sarah Saldmann revient sur son changement de positionnement politique
+527. Val-de-Marne : des écoliers victimes de malaises après avoir inhalé de la kétamine
+528. «Dans une relation comme ça, on ne se rend pas compte de la différence entre l’amour et l’emprise» : Hoshi revient sur sa rupture douloureuse avec son ancienne manageuse
+529. Crise du carburant : skimming, boulette en papier... Attention à ces arnaques si vous faites votre plein
+530. Hantavirus : «Ce virus n'a pas la capacité de se répandre dans la population comme le Covid», souligne un épidémiologiste
+531. Hantavirus : «Il n'y a pas de risque d'avoir une pandémie comme avec» le Covid-19, explique Brigitte Milhau
+532. Une jeune femme enlevée à Strasbourg par des hommes se réclamant de la DZ Mafia
+533. Violences sexuelles sur trois enfants : un animateur d'une école maternelle parisienne écroué
+534. Équipe de France : l'Italie, la Belgique et la Turquie au programme de la rentrée
+535. Incendie mortel à Décines : le parquet appelle à la prudence, malgré la piste du narcotrafic
+536. Pont de l'Ascension : découvrez les prévisions de trafic jour par jour de Bison Futé
+537. Assemblée : les députés se prononceront sur la loi de programmation militaire le 19 mai
+538. Charo, crush, onigiri... Quels sont les nouveaux mots qui apparaissent dans le dictionnaire ?
+539. Hausse des tentatives d'intrusion dans les entreprises de défense en 2025
+540. L'automobiliste qui a écrasé le cycliste Paul Varry à Paris renvoyé aux assises pour meurtre
+541. Mortalité routière : hausse de 15% du nombre de tués en avril en France
+542. NBA : les Lakers éliminés par le Thunder, l'avenir de LeBron James reste flou
+543. 5ème édition du Trophée Clarins de tennis : la Française Fiona Ferro affronte l'Américaine Maison Keyes
+544. Pontoise : garde à vue levée pour le colocataire d'un homme retrouvé mort chez lui
+545. La guerre au Moyen-Orient fait passer les paquets de chips japonais au noir et blanc
+546. Stand de soutien aux meurtriers présumés de Quentin : «Je suis frappée par l'impunité absolue de la gauche», dit Gabrielle Cluzel
+547. Loi martiale en Corée du Sud : la peine de prison d'un ex-ministre étendue à 9 ans en appel
+548. En direct - Moyen-Orient : la réponse iranienne aux Etats-Unis est à prendre ou à laisser, avertit Téhéran
+549. Hantavirus : un cas contact transféré de Concarneau au CHU de Rennes
+550. Après «L’Île de la tentation», TFX lance «Excape Island» à partir du 1er juin
+551. Mort de Thomas à Crépol en 2023 : les juges ont terminé leur enquête
+552. Après avoir été victime d'un home-jacking, Michaël Youn réagit avec une pointe d'humour
+553. Christophe Gleizes «a la santé et le moral» : le journaliste détenu en Algérie a reçu une visite d'un diplomate français
+554. En direct - Hantavirus :  Emmanuel Macron affirme que «la situation est sous contrôle» du gouvernement
+555. Fusillade à Nice : les habitants du quartier des Moulins expriment tristesse et colère après le drame
+556. Prix Littéraire Europe 1 - GMF : Découvrez les nommés de la 7e édition
+557. Hantavirus : «J'espère que la ministre de la Santé sera précise concernant les stocks de matériels médicaux», insiste Jean-Philippe Tanguy
+558. Insécurité : «l'État est intransigeant contre les honnêtes gens et laxiste contre les voyous», lance Jean-Phillipe Tanguy
+559. Aide à mourir : le Sénat rejette un article clé de la réforme de la fin de vie
+560. Contagiosité, dangerosité du virus et risque épidémique… Voici ce que l’on sait de l’Hantavirus
+561. Présidentielle 2027 : le Rassemblement national peine à trouver des financements en France pour sa campagne
+562. Footing, rappel à l'ordre, cours de cuisine... Emmanuel Macron se lâche lors de sa tournée en Afrique
+563. «Ça avait démarré un peu de la même manière» : la crise de l’hantavirus ravive le souvenir du Covid-19
+564. Crise du carburant : le «prêt flash carburant» sera élargi au BTP, annonce Roland Lescure
 </journal>
 
 
 <journal>
 France Inter
 gauche
+565. L'agent immobilier qui revient de loin
 566. Fier.e.s de son maire
 567. Au-delà des frontières
 568. Née dans un Lebensborn
@@ -743,263 +743,262 @@ gauche
 663. On ne choisit pas qui on aime
 664. Kaïs, le réseau et son éduc
 665. Le journal de ma vie : Ariane G.
-666. Millionnaire avant 30 ans : Margaux :"J'ai toujours peur de perdre de l'argent"
-667. Retrouvez tous les épisodes sur l’appli Radio France
+666. Retrouvez tous les épisodes sur l’appli Radio France
 </journal>
 
 
 <journal>
 JDD (Journal du Dimanche)
 droite
-668. Sofitel New York : le grand retour d’un hôtel emblématique entièrement repensé
-669. Santé, émotions, lien social : les secrets du chant selon Josh Groban
-670. Master Poulet : 67 % des Français désapprouvent l’installation d’une enseigne similaire près de chez eux
-671. «The Madison» : quand Taylor Sheridan réinvente le western moderne
-672. Euthanasie : derrière la loi, une transformation profonde de notre rapport à l'Homme
-673. Reims : une eurodéputée RN agressée près d'un point de deal lors d'un reportage sur l'insécurité
-674. Sophia Chikirou jugée pour escroquerie : comment la web TV de Mélenchon a viré à la crise
-675. Festival de Cannes : Vincent Garenq reconstitue les derniers jours de Samuel Paty
-676. Festival de Cannes, loi de programmation militaire, procès de Sophia Chikirou... Les 4 infos dont vous allez entendre parler demain
-677. 8 mai 1945 : lettre d'hommage à ceux qui se sont battus et se battent encore pour la France
-678. Christine Kelly : «L’aveuglement de la diversion»
-679. Ligue des Champions : Arsenal, un piège à ciel ouvert pour le PSG
-680. «C’est un manque total de respect» : à Nairobi, Emmanuel Macron recadre un public dissipé
-681. Algérie : vague de vols de moutons à l'approche de l'Aïd-el-Kebir
-682. Recomposition de la droite : «Le grand remplacement de LR par l’UDR est engagé», estime Éric Ciotti
-683. Pierre Salvadori signe La Vénus électrique : «La comédie est une apologie de la vitalité»
-684. Crise franco-algérienne : Emmanuel Macron veut la réconciliation... quoi qu'il en coûte
-685. Pompes à chaleur : le pari ambitieux du million d’installations d’ici 2030
-686. Prix de l'électricité : «Réparer vingt-cinq ans d'erreurs stratégiques»
-687. Pascal Praud : «On n'est pas copains»
-688. Transmission du patrimoine : ce que révèle l’étude CCF sur les préoccupations des Français
-689. «L’épicentre de l’Afrique est sur les quais de Seine» : Zemmour réplique au discours de Macron sur la francophonie
-690. Syrie : l’Europe doit exiger la protection de toutes les communautés religieuses
-691. «Je ne me sens pas étranger en France» : le réalisateur Asghar Farhadi se confie au JDD avant Cannes
-692. Chèque éducation : faut-il financer le libre choix des familles ?
-693. Économie : repenser la croissance pour une «robustesse durable»
-694. Hantavirus : la France «a les stocks nécessaires de masques» pour faire face à une pandémie, assure la ministre de la Santé
-695. Afrique : Emmanuel Macron annonce plus d’un milliard d’euros d’investissements au Kenya
-696. Hantavirus : une vingtaine de cas contact identifiés en France
-697. Dominique Reynié : «Associer le suicide à une mort digne est irresponsable»
-698. Carcassonne : les Femen perturbent un hommage à Jeanne d'Arc sur le parvis de la cathédrale
-699. Pour Emmanuel Macron, «l’épicentre» de la langue française se situe «sur le bassin du fleuve Congo»
-700. Écosse : un candidat écologiste élu... sans titre de séjour permanent
-701. Novoma, la pépite toulousaine qui démocratise les compléments alimentaires
-702. Fin de vie : vers un référendum sur l’«aide à mourir» ?
-703. Lagardère : la stratégie du groupe confortée par son assemblée générale annuelle
-704. «La Jeune Garde prône la violence» : le maire d’Avignon refuse de serrer la main de Raphaël Arnault lors des commémorations du 8-Mai
-705. «Séisme» Grasset, épisode III : l’audit qui révèle les folles dépenses de l'éditeur
-706. Hervé Novelli : «La classe politique reste prisonnière d’une culture technocratique»
-707. «Xi Jinping doit trembler !» : Tondelier raille la complaisance de Mélenchon envers Pékin
-708. Real Madrid : Kylian Mbappé attendu au tournant
-709. Natalité en berne : les propositions très orientées du Haut-Commissariat
-710. Football, cyclisme, tennis… Les brèves sport du JDD
-711. «On n'avait jamais vu ça chez des enfants si jeunes» : Matthéo, 9 ans, lynché par ses adversaires après un match de football
-712. Algérie : Macron propose à Tebboune une «nouvelle feuille de route», mais refuse de s’excuser
-713. Rodéo urbain mortel à Avignon : un piéton de 79 ans renversé par un motard après un refus d’obtempérer
-714. «Les Occidentaux intensifient la confrontation avec la Russie» : Poutine annonce un tournant en Ukraine
-715. Remaniement chez Horizons, turbulences pour les socialistes espagnols… Les indiscrets du JDD
-716. Meurthe-et-Moselle : un gendarme meurt percuté lors d’une intervention
-717. Championnat de France : Paris-Lyon-Marseille, de haut en bas
+667. Algérie : de l'impuissance générale de la diplomatie française
+668. Philippe de Villiers dans le JDNews : «Homo festivus»
+669. Équipe de France : qui seront les sélectionnés pour la Coupe du monde ?
+670. Culture subventionnée : enquête sur un système sous perfusion
+671. Crise du débat public : vers une démocratie sous contrôle ?
+672. Procès de Sophia Chikirou : le parquet requiert une simple amende et écarte la peine d’inéligibilité
+673. Scandale du périscolaire parisien : Emmanuel Grégoire reconnaît des «fautes graves»
+674. Patrouille de France : qu'est-ce que la mission «Liberté 250» ?
+675. Pakistan : un frère franciscain alerte sur les persécutions anti-chrétiens
+676. «Le Suicide français» en édition augmentée, Voynet ou le mépris du produire-français... Les coulisses du JDNews
+677. «Démagogie de petit bobo» : un député PS appelle à interdire les banquets du Canon français et fait polémique
+678. Propos anti-RN de Kylian Mbappé : la réponse moqueuse de Jordan Bardella
+679. Défense : le renseignement note une hausse des atteintes physiques contre les entreprises d’armement
+680. «Obsession», «Junk World», «ChaO» : les sorties ciné de la semaine
+681. Aide à mourir : le Sénat rejette à nouveau le texte
+682. Le pape Léon XIV en France, une Tour Eiffel vendéenne aux USA... Les bonnes nouvelles de la semaine
+683. Refus du mariage d’un Algérien sous OQTF : la mairie de Chessy risque de payer 15 500 euros d'amende
+684. Gabegie, sectarisme, idéologie : Michel Onfray sonne la charge contre l'entre-soi culturel
+685. Macron en Éthiopie, Kate Middleton en Italie... Les 4 infos dont vous allez entendre parler demain
+686. Foire de Paris : deux personnes blessées au couteau lors d'une rixe
+687. Laurence Ferrari : «La bataille du centre aura bien lieu»
+688. Strasbourg : une jeune femme enlevée par des individus se réclamant de la DZ Mafia
+689. Emmanuel Macron, le président qui fuit la France
+690. «Droite sans compromission» : une ex-vice présidente de département LR rejoint l'UDR de Ciotti
+691. Michel Onfray : «En finir avec l'idéologie dans la culture»
+692. Qu'est-ce que la confusion des peines ?
+693. Absentéisme au travail : l'entreprise doit absolument se faire entendre
+694. Union européenne : un bloc impuissant face au retour de la puissance
+695. Golfe : la fin du parapluie américain et l’attrait de l’Orient
+696. Violences dans le périscolaire : huit animateurs suspendus dans les Hauts-de-Seine
+697. 7-Octobre : l'ampleur des violences sexuelles du Hamas révélée dans un rapport
+698. Défense : quels pays utilisent le canon français Caesar ?
+699. Euthanasie : l'ADMD visée par un signalement pour fraude fiscale
+700. EXCLUSIF. Crise du logement neuf : les ventes s'effondrent au premier trimestre 2026
+701. Guerre en Iran : de quoi le «front du refus» de Mélenchon est-il le nom ?
+702. Paris : tentative de viol dans la cour d'une résidence, les riverains immobilisent l'agresseur
+703. Mulhouse : un collégien passé à tabac par plusieurs individus et volontairement écrasé par un scooter
+704. Djihadisme : un migrant tunisien accusé de fomenter un attentat contre un musée parisien
+705. Cancer pour Gabriel Attal, Sophia Aram renversée par une voiture : une chronique «humoristique» de Radio Nova suscite un tollé
+706. Sofitel New York : le grand retour d’un hôtel emblématique entièrement repensé
+707. Santé, émotions, lien social : les secrets du chant selon Josh Groban
+708. Master Poulet : 67 % des Français désapprouvent l’installation d’une enseigne similaire près de chez eux
+709. «The Madison» : quand Taylor Sheridan réinvente le western moderne
+710. Euthanasie : derrière la loi, une transformation profonde de notre rapport à l'Homme
+711. Reims : une eurodéputée RN agressée près d'un point de deal lors d'un reportage sur l'insécurité
+712. Sophia Chikirou jugée pour escroquerie : comment la web TV de Mélenchon a viré à la crise
+713. Festival de Cannes : Vincent Garenq reconstitue les derniers jours de Samuel Paty
+714. Festival de Cannes, loi de programmation militaire, procès de Sophia Chikirou... Les 4 infos dont vous allez entendre parler demain
+715. 8 mai 1945 : lettre d'hommage à ceux qui se sont battus et se battent encore pour la France
+716. Christine Kelly : «L’aveuglement de la diversion»
 </journal>
 
 
 <journal>
 HuffPost France
 gauche
-718. Donald Trump affirme que le cessez-le-feu avec l’Iran est « sous assistance respiratoire »
-719. À cause d’une erreur du protocole hantavirus, six semaines de quarantaine pour ces soignants néerlandais
-720. Au Festival de Cannes, Eye Haïdara va briller, mais son incroyable année ne se limite pas aux cérémonies
-721. « Addictive », « données sur les enfants »… Pourquoi l’État du Texas attaque la plateforme Netflix
-722. L’hantavirus rappelle des souvenirs aux utilisateurs de TikTok (et ils s’en amusent)
-723. « Le Venezuela adore Trump » : le président américain envisage de faire du Venezuela « le 51e État »
-724. Le Sénat rejette l’article clé de la loi sur l’aide à mourir qui en définissait les conditions d’accès
-725. Ousmane Dembélé est sacré meilleur joueur de Ligue 1 pour la deuxième année de suite
-726. Un homme soupçonné de préparer une attaque djihadiste contre le Louvre et la communauté juive mis en examen
-727. Avant Cannes, Juliette Binoche, Adèle Haenel et 600 professionnels du cinéma tirent la sonnette d’alarme face à l’emprise de Bolloré
-728. Quel temps faisait-il le jour de votre naissance ? Copernicus lance une application de « replay météo »
-729. Voici le deuxième zoo le plus « éthique du monde » selon National Geographic (et il est français)
-730. Jordan Bardella est celui qui sèche le plus cette réunion des patrons au Parlement européen
-731. Moins de risque de pandémie, plus forte létalité… Pour les experts l’hantavirus n’est « pas un nouveau Covid »
-732. Si l’idée de la prime Macron revient pour faire face à l’inflation, c’est qu’elle coche toutes les cases du gouvernement
-733. Hantavirus : Lecornu annonce une quarantaine renforcée à l’hôpital pour tous les cas contacts, sans exception
-734. Dans « Les jours d’après », l’ancien footballeur Steve Mandanda raconte la petite mort du sportif
-735. En ligne, les violences sexuelles envers les mineurs surviennent de plus en plus tôt, alerte e-Enfance
-736. L’enquête visant Arno Klarsfeld après ses propos sur de « grandes rafles » classée sans suite
-737. En ligne ou dans les lieux publics, les actes anti-LGBT+ en hausse, selon le rapport annuel de SOS Homophobie
+717. Les prévisions de Bison Futé pour le pont de l’Ascension avec une France en « rouge et noir »
+718. Au Festival de Cannes, « L’Abandon » sur la mort de Samuel Paty, nous a gênés, et pas pour le scénario
+719. Trump dénonce une « trahison » médiatique après des révélations sur les capacités militaires encore intactes de l’Iran
+720. Comment la Chine pourrait tirer profit du malaise de Trump en Iran
+721. La NBA pleure Jason Collins, premier joueur ouvertement gay de son histoire, mort d’un cancer du cerveau à l’âge de 47 ans
+722. Présidentielle 2027 : même les candidats à la primaire de gauche doivent penser à un plan B (et ce n’est pas bon signe)
+723. Dans Koh-Lanta, plus personne ne se fait confiance et rien ne se passe comme prévu
+724. Le « Dôme d’or » de Trump porte bien son nom mais son efficacité interroge déjà
+725. La télévision irlandaise remplace l’Eurovision par une parodie culte sur le concours, le coauteur de la série fulmine
+726. Israël étrille le « New York Times » qui a enquêté sur les violences sexuelles contre des détenus palestiniens
+727. Sous pression, Darmanin réduit le champ de sa réforme du plaider-coupable criminel qui ulcère les avocats pénalistes
+728. À Cannes, Peter Jackson a commencé son discours par une énorme vanne sur Elijah Wood
+729. Festival de Cannes : Eye Haïdara se paye les critiques dans son discours d’ouverture
+730. Festival de Cannes : Theodora et Oklou électrisent la cérémonie d’ouverture avec les Beatles
+731. Jordan Bardella répond à Kylian Mbappé et son tacle contre le Rassemblement national
+732. C’est quoi cette note secrète sur la présidentielle qui alimente la guerre Glucksmann - LFI
+733. Au Festival de Cannes, le premier tapis rouge a fait un clin d’oeil à ce succès actuel du box-office français
+734. Gênée, la Commission européenne se justifie après avoir invité à Bruxelles des représentants talibans
+735. Le prix des FlixBus pour la fête de la musique fait hurler ces Londoniens (mais aussi les Parisiens)
+736. Hantavirus en France : variant, enfant, masques… ce qu’il faut retenir de la conférence du gouvernement
 </journal>
 
 
 <journal>
 Slate France
 gauche
-738. Notre univers aurait un «jumeau maléfique» dans lequel le temps s'écoule à l'envers, affirment des physiciens
-739. Des scientifiques veulent construire un barrage géant entre les États-Unis et la Russie pour sauver le climat
-740. Guerre en Iran: Taïwan redoute un affaiblissement militaire des États-Unis face à la Chine
-741. États-Unis: Démocrates et Républicains de plus en plus dérangés par le soutien à Israël
-742. Cannes 2026, J-1: au pied des marches d'un festival à la fois très ouvert et assez fermé
-743. Mais pourquoi les gens tirent-ils une tête d'enterrement quand ils assistent à un concert de musique classique?!
-744. Complotisme: face à l'hantavirus, les défenseurs de l'ivermectine sont de retour
-745. Pour la première fois, des scientifiques parviennent à rajeunir des cellules humaines
-746. Les chercheurs décodent des tablettes de la plus vieille écriture du monde et y trouvent d'étranges rituels
-747. Pourquoi les nazis n'aimaient-ils pas «Bambi» et l'ont-ils censuré?
-748. En Slovénie, à la découverte du carnaval Kurentovanje, un rite chamanique pour chasser l'hiver
-749. Guerre en Iran: comment le régime des mollahs parvient-il à résister sur le plan économique?
-750. Un effondrement géant en Alaska a déclenché un mégatsunami de 500 mètres de haut
-751. L'héritage révolutionnaire mais un peu amer laissé par Henrietta Lacks, la femme devenue «immortelle»
-752. Les nouveaux pilotes de chasse ukrainiens apprennent à voler sans leurs GPS, brouillés par la Russie
-753. Mexico s'enfonce à une vitesse alarmante et les derniers satellites de la NASA le montrent en temps réel
-754. Comment l'Europe est tombée dans le piège technologique tendu par la Chine
-755. Des baleines à bosse fixent les bateaux la bouche ouverte et personne ne sait pourquoi
-756. Face à la désinformation et au complotisme, il faut sauver nos grands-parents crédules
-757. À quoi ressemble la vie dans une colonie pénitentiaire russe de l'Arctique? Un opposant raconte l'horreur
-758. Il est possible d'envoyer des messages dans le passé, affirment des physiciens
-759. L'année 2025 en huit images insolites (et mignonnes)
+737. On vient de trouver un mystérieux cristal inconnu né au cœur des essais nucléaires d'Oppenheimer
+738. Présidentielle 2027: Raphaël Glucksmann peut-il survivre entre LFI, le PS et Gabriel Attal?
+739. Bouger notre corps déclencherait un mystérieux mécanisme de purge du cerveau, affirment des chercheurs
+740. Au Moyen Âge, les échecs effaçaient les différences de couleur de peau
+741. Malgré la guerre en Ukraine, la France continue d'accorder massivement des visas aux citoyens russes
+742. Notre univers aurait un «jumeau maléfique» dans lequel le temps s'écoule à l'envers, affirment des physiciens
+743. Des scientifiques veulent construire un barrage géant entre les États-Unis et la Russie pour sauver le climat
+744. Guerre en Iran: Taïwan redoute un affaiblissement militaire des États-Unis face à la Chine
+745. États-Unis: Démocrates et Républicains de plus en plus dérangés par le soutien à Israël
+746. Cannes 2026, J-1: au pied des marches d'un festival à la fois très ouvert et assez fermé
+747. En Slovénie, à la découverte du carnaval Kurentovanje, un rite chamanique pour chasser l'hiver
+748. Mais pourquoi les gens tirent-ils une tête d'enterrement quand ils assistent à un concert de musique classique?!
+749. Complotisme: face à l'hantavirus, les défenseurs de l'ivermectine sont de retour
+750. Pour la première fois, des scientifiques parviennent à rajeunir des cellules humaines
+751. Les chercheurs décodent des tablettes de la plus vieille écriture du monde et y trouvent d'étranges rituels
+752. Pourquoi les nazis n'aimaient-ils pas «Bambi» et l'ont-ils censuré?
+753. Guerre en Iran: comment le régime des mollahs parvient-il à résister sur le plan économique?
+754. Un effondrement géant en Alaska a déclenché un mégatsunami de 500 mètres de haut
+755. L'héritage révolutionnaire mais un peu amer laissé par Henrietta Lacks, la femme devenue «immortelle»
+756. Les nouveaux pilotes de chasse ukrainiens apprennent à voler sans leurs GPS, brouillés par la Russie
+757. Mexico s'enfonce à une vitesse alarmante et les derniers satellites de la NASA le montrent en temps réel
+758. L'année 2025 en huit images insolites (et mignonnes)
 </journal>
 
 
 <journal>
 Atlantico
 droite
-760. Trama Latina, de David Linx, Paolo Fresu et Gustavo Beytelmann
-761. Pas de vivre ensemble sans faire nation
-762. « A l’école des filles » de Noëlle Chatelet : la petite d’Artagnan
-763. La chaleur humide peut augmenter le risque d'accouchement prématuré, mais l'aspirine pourrait aider
-764. Absorbe-t-on mieux les informations sur papier que sur écran ? Une nouvelle étude australienne a la réponse
-765. Taille réelle des pays sur la carte du monde, sans distorsion due à la projection de Mercator
-766. Trump rejette la réponse iranienne et ravive les tensions dans le Golfe
-767. Applications malveillantes : les cybercriminels exploitent désormais davantage la psychologie que la technique
-768. Ces pays que Bruxelles cajole et ceux qu’elle rudoie… sans aucun vrai rationnel économique
-769. SPLC, l’incroyable scandale qui révèle le soin pris par les antifas américains à (littéralement) entretenir les fascistes
-770. Malgré la guerre en Iran, Wall Street continue de battre ses records, tout comme l’Asie, alors que l’Europe s’installe en baisse. Cherchez l’erreur
-771. Nouvelles révélations : pour le monde du livre, c’est la fin des vaches Grasset
-772. Cette faiblesse que Vladimir Poutine est désormais obligé d’assumer à ciel ouvert
-773. Cette mentalité de l’Etat français qui plombe toutes nos chances de (re)devenir une super puissance économique
-774. Le film « Le Diable s'habille en Prada 2 » parle le langage caché de la mode
+759. Est-ce que vous pouvez laisser la porte ouverte en sortant ?, de Antoine Lemaire
+760. Les plantes peuvent-elles entendre ? Les dernières recherches apportent de nouvelles perspectives
+761. En Allemagne, plus de 80% des garçons issus d’un milieu défavorisé ne parviennent à entrer au lycée
+762. "Médias algorithmiques" : attention, annexion lexicale !
+763. L’« Ange de la Mort » transféré dans une prison pour femmes en vertu de la loi sur l’auto-identification
+764. Retraites : voilà les chiffres qui montrent pourquoi il est vain de croire ceux qui promettent de préserver le système français
+765. Hantavirus : le MV Hondius reprend sa route vers les Pays-Bas après l’évacuation des passagers
+766. Le récit détaillé de l'apocalypse causée par l'astéroïde qui a anéanti les dinosaures
+767. Effondrement des ventes domestiques, explosion des exportations : les (inquiétantes) leçons des chiffres de l’industrie automobile chinoise
+768. L'affaire Master Poulet : derrière les 55% des Français qui soutiennent les restrictions d’ouverture, les mille et une fractures de l’opinion française
+769. La “raison” face aux ”idées dangereuses” ou le grand aveuglement d’Edouard Philippe
+770. Chine, Iran, IA : voilà pourquoi Donald Trump pourrait bien jouer cette semaine l’héritage entier de ses présidences
+771. Dérive étatisto-insectaire : Bpifrance se fait grignoter 148 millions d’euros dans le crash d’une start-up de la larve alimentaire
+772. Recherche candidat à la présidentielle désespérément : les affres des patrons français
+773. Trama Latina, de David Linx, Paolo Fresu et Gustavo Beytelmann
 </journal>
 
 
 <journal>
 Reporterre
 gauche
-775. Incendies et sécheresses records : les craintes d'une « année sans précédent » se renforcent
-776. Des militants revendiquent le débâchage de mégabassines dans le Poitou
-777. « C'est aussi facile qu'en ville » : à la campagne, la drogue circule mais les soins manquent
-778. « Une claque » : près de 900 arbres abattus dans les Vosges avant le Tour de France
-779. Hantavirus en France : 5 personnes hospitalisées, 22 cas contacts
-780. La France utilise des pesticides non autorisés en Europe
-781. Coût faramineux, pollution éternelle : un porte-avions à propulsion nucléaire cristallise la colère
-782. Des légumes bio gratuits pour les femmes enceintes
-783. Coupe du monde sous Trump : « Le consumérisme et le capitalisme à leur paroxysme »
-784. « Kitsch, rock et bidouille » : quand des drag queens et kings optent pour la récup'
-785. Un hydrologue coincé dans l'horreur à Gaza, abandonné par la France
-786. « On ne la voit presque jamais, mais elle est là » : le retour spectaculaire de la discrète loutre
-787. « L'humain méprise quelque chose dont il est responsable » : cette Marseillaise vole au secours des pigeons
-788. « Un cercle vicieux » : comment le renforcement des vents aggrave la fonte des glaces
-789. Crise de l'aérien : « Il faut plafonner le nombre de vols »
-790. Un navire-usine XXL va engloutir 400 tonnes de poissons par jour
-791. « Nous sommes constamment menacés » : la difficile lutte des activistes écologistes au Pakistan
-792. JO 2030 : le coût environnemental des Jeux est « un angle mort », selon Matignon
-793. « Sans ce bus, je n'aurais pas consulté » : des gynécologues mobiles en plein désert médical
-794. Mégabassines : Julien Le Guet condamné à six mois de détention sous bracelet électronique
-795. Traitements « miracles » pour perdre du poids : l'État condamne deux labos... sans agir contre la malbouffe
-796. « Un changement d'ampleur est possible » : au Royaume-Uni, les Verts veulent frapper un grand coup électoral
-797. Un projet de panneaux solaires stoppé net pour protéger une forêt
-798. Avion : les émissions européennes atteignent un nouveau record
-799. Amazon : avec 15 milliards d'euros d'investissement, le géant du e-commerce mise sur la France
-800. La forêt amazonienne pourrait perdre deux tiers de sa surface dès 1,5 °C de réchauffement
-801. « On ne cherche pas à faire du bénéfice » : ces maires font des stations essence un service public
-802. « Une attaque contre l'écologie » : l'agence chargée de la transition en sursis
-803. « Cochons agonisants et mutilés » : la préfecture du Finistère ferme un élevage porcin
-804. Le rassemblement antifasciste parisien du 9 mai interdit par la préfecture
-805. « C'est une purge » : à Greenpeace, les locaux pris d'assaut pour sauver les emplois
-806. « Monsieur Duplomb, l'avenir de nos enfants gardera longtemps la sale gueule du cancer »
-807. Fruits et légumes découpés : deux bonnes raisons de ne pas en acheter
-808. Audiovisuel public : « Les contenus environnementaux sont déjà le parent pauvre de l'information »
-809. En Norvège, les fjords étouffent à cause des fermes à saumons
-810. « Les projets routiers, c'est fini » : une autoroute prévue depuis 50 ans ne verra pas le jour
-811. « Tout de suite, j'ai eu envie de l'aider » : à la rescousse des écureuils roux
-812. Uranium russe : l'Europe toujours aussi dépendante
-813. Trafic d'anguilles : 17 personnes condamnées à Bordeaux
-814. Sophie la girafe, la « pirouette » du made in France fabriqué en Chine
-815. « On est très proche du Smic » : les agents du Muséum d'histoire naturelle en grève le 5 mai
-816. Candidature de Mélenchon : « Il y a une circulation électorale, un partage des voix entre les écologistes et les insoumis »
-817. « Les gens me prenaient pour un fou » : les graines indigènes, remède à l'agro-industrie brésilienne
-818. « La pente est glissante » : un régime d'exception pourrait sacrifier le droit de l'environnement au profit de l'armée
-819. 43 % des agriculteurs restent sous le Smic en moyenne pendant dix ans
-820. Les manœuvres du gouvernement et de l'extrême droite pour réintroduire l'acétamipride « en douce »
-821. Le ministère de l'Agriculture veut moins de sciences sociales dans la formation des agronomes
-822. Feu vert pour la déconstruction de la centrale nucléaire de Fessenheim
-823. « Il s'agit d'intimidation » : comment la loi d'urgence agricole risque d'affaiblir les associations écologistes
-824. Zinc, plomb et étain : l'extraction minière au prix « d'une culture de la mort »
-825. La pompe à chaleur vaut-elle le coup ? Les 4 choses à savoir avant d'investir
-826. Réintroduction de grands tétras dans les Vosges : « On va chercher des oiseaux à 2 000 km au Nord, c'est absurde ! »
-827. « Aile de raie », « Saumonette » : des appellations fourre-tout qui cachent la surexploitation d'espèces
-828. « La résistance se nourrit de notre labeur » : les Libanaises sur tous les fronts face à Israël
-829. Solaire dans les champs : les mirages de la ruée vers l'or
-830. Marjorie Keters, la syndicaliste qui met l'écologie au cœur des luttes ouvrières
-831. L'accord avec le Mercosur entre en vigueur sans vote du Parlement européen : « C'est un passage en force démocratique »
-832. 1er-Mai, fête du Travail ? Nos 4 livres à savourer pour célébrer la paresse
-833. « Cruauté extrême » : H&M accusé de vendre de la laine issue de moutons maltraités
-834. Paul Varry, cycliste mort écrasé par un SUV : un procès pour meurtre requis contre l'automobiliste
+774. « Ici, on a droit à la parole » : dans ce village, c'est l'assemblée citoyenne qui prend les décisions
+775. PFAS : des rapporteurs de l'ONU épinglent deux géants de la vallée de la chimie
+776. Le conducteur de SUV qui a écrasé le cycliste Paul Varry sera jugé pour meurtre
+777. Dieselgate : Volkswagen devra verser 100 000 euros à une association de consommateurs
+778. Gratuit et sans réservation : ces communes réinventent le covoiturage
+779. Le loriot, ce mystérieux « merle d'or » au sale caractère
+780. Plus de 14 000 ours abattus au Japon en un an
+781. Semences, pesticides... Le groupe Bayer-Monsanto encaisse des profits faramineux
+782. Festival de Cannes : une salariée interdite de travailler à cause de son engagement écolo
+783. Cadmium : 8 pétitions réclament de limiter l'exposition des Français
+784. « Il faut changer notre regard » : en Lorraine, une association promeut des forêts en libre évolution
+785. Des millions d'euros de subventions de la PAC vont dans les poches d'une famille royale émiratie
+786. Moustiques-tigres : quels pièges sont efficaces ?
+787. Incendies et sécheresses records : les craintes d'une « année sans précédent » se renforcent
+788. Des militants revendiquent le débâchage de mégabassines dans le Poitou
+789. « C'est aussi facile qu'en ville » : à la campagne, la drogue circule mais les soins manquent
+790. « Une claque » : près de 900 arbres abattus dans les Vosges avant le Tour de France
+791. Hantavirus en France : 5 personnes hospitalisées, 22 cas contacts
+792. La France utilise des pesticides non autorisés en Europe
+793. Coût faramineux, pollution éternelle : un porte-avions à propulsion nucléaire cristallise la colère
+794. Des légumes bio gratuits pour les femmes enceintes
+795. Coupe du monde sous Trump : « Le consumérisme et le capitalisme à leur paroxysme »
+796. « Kitsch, rock et bidouille » : quand des drag queens et kings optent pour la récup'
+797. Un hydrologue coincé dans l'horreur à Gaza, abandonné par la France
+798. « On ne la voit presque jamais, mais elle est là » : le retour spectaculaire de la discrète loutre
+799. « L'humain méprise quelque chose dont il est responsable » : cette Marseillaise vole au secours des pigeons
+800. « Un cercle vicieux » : comment le renforcement des vents aggrave la fonte des glaces
+801. Crise de l'aérien : « Il faut plafonner le nombre de vols »
+802. Un navire-usine XXL va engloutir 400 tonnes de poissons par jour
+803. « Nous sommes constamment menacés » : la difficile lutte des activistes écologistes au Pakistan
+804. JO 2030 : le coût environnemental des Jeux est « un angle mort », selon Matignon
+805. « Sans ce bus, je n'aurais pas consulté » : des gynécologues mobiles en plein désert médical
+806. Mégabassines : Julien Le Guet condamné à six mois de détention sous bracelet électronique
+807. Traitements « miracles » pour perdre du poids : l'État condamne deux labos... sans agir contre la malbouffe
+808. « Un changement d'ampleur est possible » : au Royaume-Uni, les Verts veulent frapper un grand coup électoral
+809. Un projet de panneaux solaires stoppé net pour protéger une forêt
+810. Avion : les émissions européennes atteignent un nouveau record
+811. Amazon : avec 15 milliards d'euros d'investissement, le géant du e-commerce mise sur la France
+812. La forêt amazonienne pourrait perdre deux tiers de sa surface dès 1,5 °C de réchauffement
+813. « On ne cherche pas à faire du bénéfice » : ces maires font des stations essence un service public
+814. « Une attaque contre l'écologie » : l'agence chargée de la transition en sursis
+815. « Cochons agonisants et mutilés » : la préfecture du Finistère ferme un élevage porcin
+816. Le rassemblement antifasciste parisien du 9 mai interdit par la préfecture
+817. « C'est une purge » : à Greenpeace, les locaux pris d'assaut pour sauver les emplois
+818. « Monsieur Duplomb, l'avenir de nos enfants gardera longtemps la sale gueule du cancer »
+819. Fruits et légumes découpés : deux bonnes raisons de ne pas en acheter
+820. Audiovisuel public : « Les contenus environnementaux sont déjà le parent pauvre de l'information »
+821. En Norvège, les fjords étouffent à cause des fermes à saumons
+822. « Les projets routiers, c'est fini » : une autoroute prévue depuis 50 ans ne verra pas le jour
+823. « Tout de suite, j'ai eu envie de l'aider » : à la rescousse des écureuils roux
+824. Uranium russe : l'Europe toujours aussi dépendante
+825. Trafic d'anguilles : 17 personnes condamnées à Bordeaux
+826. Sophie la girafe, la « pirouette » du made in France fabriqué en Chine
+827. « On est très proche du Smic » : les agents du Muséum d'histoire naturelle en grève le 5 mai
+828. Candidature de Mélenchon : « Il y a une circulation électorale, un partage des voix entre les écologistes et les insoumis »
+829. « Les gens me prenaient pour un fou » : les graines indigènes, remède à l'agro-industrie brésilienne
+830. « La pente est glissante » : un régime d'exception pourrait sacrifier le droit de l'environnement au profit de l'armée
+831. 43 % des agriculteurs restent sous le Smic en moyenne pendant dix ans
+832. Les manœuvres du gouvernement et de l'extrême droite pour réintroduire l'acétamipride « en douce »
+833. Le ministère de l'Agriculture veut moins de sciences sociales dans la formation des agronomes
 </journal>
 
 
 <journal>
 Causeur
 droite
-835. Les dindons de Lafarge
-836. Les fausses promesses de l’euthanasie
-837. Le père de la peinture hongroise conquiert enfin Paris
-838. Ces vandales bourgeois, plus dangereux que les voyous des cités
-839. Bingo pour l’antiracisme!
-840. Audiovisuel public: le calvaire des sans-croix
-841. 2027: pourquoi tout le monde se croit présidentiable
-842. Goût Caraïbes
-843. La millième!
-844. La boîte du bouquiniste
+834. Féminisme mal dégrossi
+835. « Un simple accident »: Road movie dans l’Iran des mollahs
+836. Tom Wolfe: Balzac à New York
+837. Quand le cochon à la broche devient suspect
+838. Keir Starmer: l’euthanasie en politique
+839. Recomposition politique britannique: vers la fin du duopole
+840. Les dindons de Lafarge
+841. Le père de la peinture hongroise conquiert enfin Paris
+842. Ces vandales bourgeois, plus dangereux que les voyous des cités
+843. Les fausses promesses de l’euthanasie
 </journal>
 
 
 <journal>
 Alternatives Économiques
 gauche
-845. La croissance démographique africaine au défi des coupes dans l’aide au développement
-846. La crise énergétique expose les vulnérabilités du Sud
-847. A Rennes, les salariés d'un Carrefour font les frais de la location-gérance
-848. Derrière les scandales dans le périscolaire, un gros manque de moyens et des conditions de travail dégradées
-849. Location des passoires thermiques : le recul d'un gouvernement aux petits soins des propriétaires
-850. Comment Tesla court-circuite les syndicats européens
-851. Julia Cagé : « La démocratie se porte mieux dans les pays dont l'audiovisuel public est fort et indépendant »
-852. Mer de liens, une société citoyenne pour soutenir une pêche durable
-853. Qu'y a-t-il vraiment dans notre tasse de thé, et 3 autres conseils de lecture
-854. Virée virale
+844. Sérieusement, monsieur Aghion ?
+845. Parcoursup machine à stress, Affelnet outil de mixité ? Cherchez l'erreur
+846. Tout comprendre à l’assurance chômage des frontaliers en trois minutes
+847. La croissance démographique africaine au défi des coupes dans l’aide au développement
+848. La crise énergétique expose les vulnérabilités du Sud
+849. A Rennes, les salariés d'un Carrefour font les frais de la location-gérance
+850. Derrière les scandales dans le périscolaire, un gros manque de moyens et des conditions de travail dégradées
+851. Location des passoires thermiques : le recul d'un gouvernement aux petits soins des propriétaires
+852. Comment Tesla court-circuite les syndicats européens
+853. Julia Cagé : « La démocratie se porte mieux dans les pays dont l'audiovisuel public est fort et indépendant »
 </journal>
 
 
 <journal>
 La Tribune
 droite
-855. 🔴 Impasse au Moyen-Orient, pétrole, Bourses… L'essentiel de l'actualité ce mardi 12 mai
-856. Air&Cosmos rejoint le site web de La Tribune: ce que ça change pour vous
-857. Dans la tête des pilotes de l’armée de l’Air face aux drones et missiles iraniens
-858. Armement : combat de géants pour gagner le marché de la frappe à longue portée dans le terrestre
-859. En Méditerranée, neuf premières éoliennes flottantes produisent de l’électricité, et maintenant ?
-860. Essence : Trump annonce une « pause fiscale », la France cible les pros du gasoil face à la « taxe Iran »
-861. Chèque GNR dans le BTP : les attentes, les échecs et les succès des artisans
-862. Crise du pétrole : le PDG d’Aramco alerte sur un choc mondial « sans précédent » avec des conséquences possibles « jusqu’en 2027 »
-863. Viticulture : face à l’explosion du foncier, les « vignes en copropriété » séduisent en Bourgogne
-864. Succession d'Armani : le coup de théâtre qui change tout
-865. Spatial : inquiet de la politique de Trump, un chercheur américain quitte la NASA pour Toulouse
-866. Et si vous décidiez des prochains contrôles réalisés par la Cour des comptes...
-867. « Les autorités chinoises ont effectué un chantage » : dans les coulisses du blocage des livraisons d’Airbus par Pékin
-868. Automobile : pourquoi les constructeurs européens sont prêts à confier des usines à leurs adversaires chinois
-869. OHB rejoint le Vortex de Dassault Aviation
-870. L’Europe abandonne à bas bruit la voiture autonome pour les particuliers
-871. Engrais : le blocus d’Ormuz fait peser le risque d’une « crise humanitaire majeure », 45 millions de personnes en danger
-872. « Ariane 6 a au minimum 10 ans d’exploitation à venir ». Retrouvez l’émission Air&Défense en partenariat avec Air & Cosmos
-873. « Nos défis sont jumeaux » affirme Emmanuel Macron au sommet Africa Forward
-874. « Culture du mensonge », projet « Tesla AI » et doutes de Microsoft : les révélations du procès entre Elon Musk et OpenAI
+854. 🔴 Trump en Chine, marchés, détroit d'Ormuz… L'essentiel de l'actualité ce mercredi 13 mai
+855. « Comme si un dealer fermait son point de vente » : SpaceX va suspendre son programme Rideshare
+856. Israël partage son Dôme de fer avec les Emirats
+857. La planète compte désormais 269 millions d’étudiants
+858. PFAS : l'État et les industriels Daikin et Arkema épinglés par des rapporteurs de l'ONU
+859. Bouclier anti-drones : partenariat entre Rheinmetall et Deutsche Telekom
+860. Donald Trump en Chine : pourquoi ce sommet ne sera pas celui de la réconciliation économique
+861. Apple, Tesla, Meta, Visa, Boeing : Trump débarque en Chine avec une délégation de 16 patrons pour signer des contrats
+862. Ubisoft mise sur une chasse au trésor géante sous sa licence Assassin’s Creed pour renforcer sa communauté
+863. Frappe longue portée : Premier tir réussi pour Thales et ArianeGroup
+864. États-Unis : le conflit en Iran fait bondir l'inflation à un plus haut depuis 2023
+865. Fonds français dédié aux métaux critiques : « Nous participons à la construction d'une arme économique »
+866. Coup de pompe attendu sur la croissance, l'économie française s'embourbe sous l'effet de la guerre en Iran
+867. Capital-investissement : une démocratisation qui progresse, mais des leviers à renforcer
+868. Lettre ouverte aux Maires de France : Les données spatiales, un atout décisif au service du développement de votre territoire
+869. « Il n’y a pas de cagnotte » : la chute de la consommation de carburants ampute les recettes de l'État
+870. Surfaces, consommation, export : la dégringolade mondiale du vin en trois graphiques
+871. Crise de l'énergie : Valérie Pécresse va signer des chèques aux élus franciliens
+872. « Excel plutôt que l’excellence » : comment les entreprises allemandes choisissent leurs patrons
+873. Promis par Emmanuel Grégoire, le projet de 15 lignes de bus express à Paris patine
 </journal>
 
 
@@ -1012,16 +1011,16 @@ gauche
 <journal>
 Fdesouche
 droite
-875. Soupçonnée d’avoir tenté d’empocher 67 000 euros indûment, la députée LFI Sophia Chikirou jugée pour escroquerie
-876. Eurovision 2026 : le groupe croate Lelek choque la Turquie avec des tatouages de résistance chrétienne contre l’esclavage ottoman
-877. New York : elle refuse de porter plainte contre son agresseur « pour ne pas envoyer un autre Noir en prison » ; cinq semaines plus tard, il tue un retraité de 76 ans
-878. Mulhouse (68) : un collégien passé à tabac par quatre individus dans un garage près de son établissement scolaire puis volontairement écrasé par un scooter
-879. « Il regrette d’avoir émigré en France, “un pays de kouffars” » : Dhafer M., un migrant clandestin tunisien arrivé en 2022 depuis Lampedusa, arrêté pour un projet d’attentat djihadiste visant le musée du Louvre
-880. L’ancienne ministre Caroline Cayeux condamnée pour fraude fiscale : elle avait minoré son patrimoine de 11,7 millions d’euros et fraudé sur l’impôt sur la fortune
-881. Nice (06) : plusieurs morts et blessés dans une nouvelle fusillade place des Amaryllis, au cœur du quartier des Moulins
-882. Paris (19e) : Une jeune femme victime d’une tentative de viol. Le suspect, Ayouba S., né en Côte d’Ivoire, a été interpellé après avoir été retenu par des habitants
-883. Reims (51) : la députée européenne RN Anne-Sophie Frigout agressée par des dealers alors qu’elle accompagnait un journaliste pour un reportage sur l’insécurité
-884. La France insoumise frappée par une cyberattaque : 120 000 données de militants exposées
+874. Des juristes alertent sur une loi contre l’entrisme islamiste qui pourrait devenir une arme administrative contre les opposants
+875. Marion Maréchal : “Le culot de monsieur Bagayoko est sans borne. Il m’accuse de le renvoyer à ses origines alors qu’il a expliqué qu’il était fier d’être d’ascendance malienne.(…) la noblesse malienne pratiquait l’esclavage de manière structurelle.”
+876. En marge du sommet Africa Forward, Emmanuel Macron appelle les binationaux à assumer totalement leur double-ancrage : « Etre binational, c’est être 100% Français et 100% de son pays d’origine »
+877. Marseille (13) : après un refus d’obtempérer, une quinzaine de personnes attaquent une voiture de police pour récupérer un jeune homme arrêté
+878. Strasbourg : une jeune femme enlevée par la DZ Mafia pour obtenir une rançon. Les deux suspects interpellés étaient venus « spécialement de Marseille pour faire leurs preuves »
+879. Bobigny (93) : chargé de combattre les stupéfiants, un magistrat reconnaît sa propre addiction à la méthamphétamine et au chemsex, il se fournissait dans sa propre juridiction
+880. Cinéma français : les “fils et filles de” occupent 20 % des premiers rôles à succès, contre 7 % dans les années 1960
+881. Reims (51) : la députée européenne RN Anne-Sophie Frigout agressée par des dealers alors qu’elle accompagnait un journaliste pour un reportage sur l’insécurité (MàJ : vidéo)
+882. Agde (34) : tasé puis placé en garde à vue après une interpellation pour vandalisme à la machette, un sexagénaire gitan meurt dans sa cellule après s’être frappé la tête contre les murs
+883. Narbonne (11) : jugé pour avoir frappé un passant en criant “Sale Arabe !”, un migrant Gabonais menace encore la victime au tribunal
 </journal>
 
 </titres>

@@ -28,7 +28,7 @@ def get_pdv(desc_sujet, prompt_synthese):
         # Recuperer le point de vue general avec une requete LLM
         if "Article" in desc_sujet:
             return prompt_IA(
-                "gpt-5.4-mini", 
+                "gpt-5.4", 
                 prompt_synthese, 
                 desc_sujet
             )
@@ -58,7 +58,6 @@ def get_points_de_vue(sujets, desc_articles, prompt_synthese):
 
             desc_articles_string += "\n\nGAUCHE"
             desc_articles_string += get_desc_sujet_string(sujet['gauche'], desc_articles)
-            print(desc_articles_string)
 
             # Recuperer le sujet actuel
             nom_sujet = sujet['nom_sujet']
