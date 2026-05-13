@@ -10,8 +10,9 @@ Rédige un court texte qui reflète la tonalité et l’opinion dominante de cha
 S'il y a lieu, indique les points précis sur lesquels ces bords politiques insistent, et ceux qu'ils ignorent.
 
 **Contraintes :**
-- Un paragraphe pour la droite et un paragraphe pour la gauche.
+- Un paragraphe pour la droite et un paragraphe pour la gauche. Commence les paragraphes par "DROITE:" et "GAUCHE:".
 - Texte bref (2 à 3 phrases maximum par orientation politique).
 - Style percutant et incisif. Dis les choses telles qu'elles sont, mais avec du panache.
 - Ne pas répéter les informations. 
 - On ne veut pas savoir quel est le sujet mais quel est le traitement du sujet par ces médias.
+- Si un camp politique n'aborde pas le sujet, dis-le simplement.
