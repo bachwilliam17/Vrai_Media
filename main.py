@@ -44,7 +44,7 @@ with open("outputs/synthese_sujets.txt", 'w') as f:
         nom_sujet = sujet['nom_sujet']
 
         if nom_sujet in pdv:
-            f.write(f"\n\n{nom_sujet}:".upper())
+            f.write(f"\n\nSUJET: {nom_sujet}".upper())
             f.write(f"\n{pdv[nom_sujet]}")
 
 print("\nExecution terminee.")
