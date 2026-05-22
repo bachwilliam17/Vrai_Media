@@ -41,7 +41,7 @@ TARGET_USERS = DROITE + GAUCHE
 """
     Get 1 user's list of posts
 """
-def get_posts(username, start_date, max_results):
+def get_user_posts(username, start_date, max_results):
 
     # Get User ID from poster
     user = client.get_user(username=username)
@@ -65,9 +65,9 @@ def get_posts(username, start_date, max_results):
         
 
 """
-    Get posts report for all users
+    Get custom set of data from posts for a list of users
 """
-def get_posts_report(usernames, start_date, max_results):
+def get_posts_data(usernames, start_date, max_results):
 
     report = []
 
@@ -75,7 +75,7 @@ def get_posts_report(usernames, start_date, max_results):
     for username in usernames:
 
         # Get posts list from the user
-        posts = get_posts(username, start_date, max_results)
+        posts = get_user_posts(username, start_date, max_results)
         if not posts:
             continue 
 
@@ -94,6 +94,11 @@ def get_posts_report(usernames, start_date, max_results):
             })
     
     return report
+
+"""
+    Get textual report presenting posts data
+"""
+#def get_posts_report(posts_data):
 
 
 start_time = datetime.utcnow() - timedelta(hours=24)
