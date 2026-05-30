@@ -16,7 +16,10 @@ GAUCHE = [
     "jeanmassiet", 
     "fibretigre", 
     "clemovitch",
-    "TwitchDroitard"
+    "TwitchDroitard",
+    "regelegorila",
+    "Assouan_B",
+
 ]
 
 DROITE = [
@@ -102,7 +105,7 @@ def get_posts_data(usernames, start_date, max_results):
 
 
 start_time = datetime.utcnow() - timedelta(hours=24)
-report = get_posts_report(TARGET_USERS, start_time, 30)
+report = get_posts_data(TARGET_USERS, start_time, 30)
 for item in report:
     print(f"\n{item['Profil']} | {item['Created at']} | ❤️ {item['Likes']} RT {item['Reposts']}")
     print(item['Text'][:200] + "..." if len(item['Text']) > 200 else item['Text'])
