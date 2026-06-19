@@ -6,1004 +6,1016 @@
 <journal>
 Le Monde
 gauche
-1. Au sommet du G7, Donald Trump, galvanisé par son accord avec l’Iran, signale un regain d’intérêt pour l’Ukraine
-2. La vague de chaleur s’installe en France et va s’intensifier ; des pointes à 37 °C attendues dès mercredi par Météo-France
-3. Coupe du monde 2026 : une équipe de France à deux vitesses réussit son entrée en lice face au Sénégal
-4. Renseignement : le remplacement de Palantir par le français ChapsVision à la DGSI, un choix de souveraineté au long cours et complexe
-5. Les amendes à répétition reçues par les jeunes hommes noirs et arabes en France ont de lourdes conséquences, selon un rapport : relégation sociale, surendettement, anxiété…
-6. Les films à l’affiche : « Jim Queen », « War Requiem », « Shana », « Toy Story 5 »…
-7. Eduardo Bolsonaro, fils de l’ex-président brésilien, condamné à quatre ans de prison pour son lobbying auprès de Washington
-8. EN DIRECT, guerre au Moyen-Orient : pour la première fois depuis deux mois, des pétroliers iraniens ont franchi la zone du blocus américain
-9. EN DIRECT, guerre en Ukraine : un mort et au moins sept blessés dans des frappes nocturnes russes à Zaporijia
-10. Le préfet des Bouches-du-Rhône impose à la Métropole Aix-Marseille-Provence de couper 53 millions d’euros dans les aides aux communes
-11. En Inde, le très sélect Gymkhana Club dans la ligne de mire de Narendra Modi
-12. Immigration : au Parlement européen, le règlement « retour » divise le bloc central et l’extrême droite
-13. Un projet d’attentat déjoué avant le combat de MMA à la Maison Blanche, selon les autorités américaines
-14. Quand le fichage policier et judiciaire donne l’illusion du contrôle
-15. Crédit étudiant : malgré la hausse des taux, les conditions restent attractives
-16. « Stop Destroying Videogames » : la Commission européenne botte en touche sur la « fin de vie » des jeux vidéo
+1. EN DIRECT, guerre au Moyen-Orient | Accord Etats-Unis - Iran : les négociations prévues pour vendredi en Suisse sont « reportées »
+2. Présidentielle 2027 : la « souveraineté », une formule magique que partagent les prétendants à l’Elysée
+3. Ukraine : les Européens saluent un « moment spécial » en présence de Volodymyr Zelensky
+4. La Défenseure des droits demande une procédure disciplinaire contre le policier responsable de la mort de Nahel en 2023
+5. EN DIRECT, canicule : la vigilance orange maintenue sur 53 départements, une pointe de 36 à 37 °C attendue à Paris
+6. Coupe du monde 2026 : le Mexique en 16ᵉˢ de finale, soirée-clé pour le Brésil et le Maroc… Ce qu’il faut retenir du jeudi 18 juin et ce qu’il faudra suivre vendredi 19 juin
+7. Royaume-Uni : le travailliste Andy Burnham, rival de Keir Starmer, élu député
+8. Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers
+9. En Colombie, une centaine de guérilleros déposent les armes, à trois jours du second tour de la présidentielle
+10. Bruno Mars, funk et romantique au Stade de France
+11. Les Palestiniens de Gaza « restent privés des besoins fondamentaux », déplore le secrétaire général adjoint aux affaires humanitaires de l’ONU
+12. « La lecture s’effondre et la conséquence est là : une bonne partie des librairies sont menacées de disparition »
+13. Les Etats-Unis disent adieu à un Air Force One, un Boeing qatari pour le remplacer
+14. Panne d’électricité à la gare de l’Est, à Paris : le trafic ferroviaire a repris, « des retards et des modifications de dessertes » à prévoir vendredi matin
+15. La Russie met en doute le résultat des élections législatives en Arménie et renforce la pression économique
+16. Niger : le GSIM, branche sahélienne d’Al-Qaida, revendique l’attaque contre l’aéroport de Niamey
 </journal>
 
 
 <journal>
 Le Figaro
 droite
-17. EN DIRECT - Sommet du G7 : l’IA au programme de la dernière journée, Donald Trump à Versailles dans la soirée
-18. À Évian, les pays du G7 réaffirment leur soutien à l’Ukraine et accentuent la pression sur la Russie
-19. Au G7, les Européens espèrent ramener Donald Trump au chevet de l’Ukraine
-20. «J’aime les beaux endroits»: Donald Trump enchanté de dîner à Versailles parce que «ce n’est pas du plaqué or, c’est du lourd»
-21. Coupe du monde 2026 : Messi avec un M comme magique, Haaland en force…, ce que vous avez raté la nuit dernière
-22. EN DIRECT - Coupe du monde 2026 : l’Argentine étrille l’Algérie, triplé pour Messi qui dépasse Mbappé... et égale Klose
-23. Coupe du monde 2026 : débuts du Portugal et de l’Angleterre, Harry Kane en quête de buts... Les rendez-vous à ne pas manquer mercredi
-24. Coupe du monde 2026 : Cristiano Ronaldo est-il devenu un boulet pour le Portugal ?
-25. France-Sénégal : «On a eu besoin que le coach nous rentre dedans», avoue Bradley Barcola
-26. New York en bleu, blanc, rouge : l’Empire State Building aux couleurs de la France après la victoire face au Sénégal à la Coupe du monde
-27. France-Sénégal : pourquoi Mbappé a imité un joueur de flûte en célébrant son premier but
-28. Bleus aux deux visages, «savon» à la mi-temps, record de Mbappé : les vérités de Deschamps après France-Sénégal
-29. Canicule : sait-on vraiment bien protéger nos logements contre les fortes chaleurs ?
-30. Vague de chaleur : les oraux du bac pourront être reportés localement de «quelques heures ou de quelques jours», annonce le ministre de l’Éducation
-31. Vague de chaleur à Paris : la mairie autorise la baignade dans le canal Saint-Martin dès mercredi
-32. Pourquoi la vague de chaleur de juin sera-t-elle différente de celle de mai ?
-33. Tensions entre Trump et Netanyahou, malaise des républicains : l’accord avec l’Iran suscite de vives critiques
-34. Eduardo Bolsonaro, troisième fils de l’ancien président du Brésil, condamné à quatre ans de prison pour lobbying auprès des autorités américaines
-35. La Corée du Sud annonce la réduction d’une zone réglementée près de la frontière avec le Nord
-36. En Colombie, le président empêché d'utiliser le réseau social X à des fins électorales
+17. «Il s’est même fait offrir la rénovation totale de sa villa» : le scandale des syndics qui fait trembler les poids lourds de l’immobilier
+18. EN DIRECT -  Guerre au Moyen-Orient : la Suisse annonce le report des négociations entre les États-Unis et l’Iran
+19. «Le fait d’avoir survécu est une énorme victoire» : le régime iranien remis en selle après l’accord avec Donald Trump
+20. Entre les États-Unis et l’Iran, un mémorandum pour un accord voué à l’échec
+21. «Le dernier voyage» : la Maison-Blanche fait ses adieux à Air Force One en service depuis plus de 30 ans
+22. EN DIRECT -  Canicule : encore des températures au-dessus de 40°C et désormais 53 départements en vigilance orange
+23. Ce qu'il se passe dans votre corps quand vous courez par temps chaud
+24. Canicule : mesures restrictives et circulation différenciée mises en place pour ce vendredi en Île-de-France
+25. Canicule : des centaines de voyageurs bloqués à la gare de l’Est à Paris à cause d'une panne électrique
+26. Quel est ce pactole de 400 milliards de dollars promis à Téhéran, qui équivaut au PIB iranien ?
+27. Donald Trump tente de présenter son « deal » avec l’Iran comme une victoire malgré les critiques
+28. L’éditorial de Patrick Saint-Paul : «La victoire en trompe-l’œil de Donald Trump»
+29. Les États-Unis, cette superpuissance qui n’a pas réussi à gagner la guerre contre l’Iran
+30. Coupe du monde 2026 : le Mexique premier qualifié, le cauchemar qatari, l’effroi à Vancouver... ce que vous avez raté la nuit dernière
+31. Coupe du monde 2026 : «J’ai entendu l’os se briser», la terrible blessure de Koné avec le Canada
+32. Le Mexique se qualifie pour les 16es de finale, l’Iran fait un recours auprès de la Fifa, le Canada écrase le Qatar, revivez la 9e journée de la Coupe du monde
+33. «Il pourrait y avoir 2 ou 3 changements contre l’Irak»: France-Irak J-3, les dernières infos de nos envoyés spéciaux à la Coupe du monde
+34. Guerre au Moyen-Orient : les négociations entre les États-Unis et l’Iran prévues ce vendredi en Suisse «reportées»
+35. Trafic de drogue : trois morts dans une frappe américaine contre un bateau de narcotrafiquants présumés
+36. Coupe du monde 2026 : Carlo Ancelotti a-t-il eu raison de sélectionner Neymar avec le Brésil ?
 </journal>
 
 
 <journal>
 Libération
 gauche
-37. EN DIRECT - Coupe du monde, jour 7 : Messi déjà en lice pour un record, Mbappé tient son rythme
-38. «On s’est parlé, et on s’est trouvé» : face au Sénégal, des Bleus à deux visages, d’abord stressés puis froids comme une lame
-39. La vague de chaleur arrive, entrée réussie des Bleus dans le Mondial, Trump attendu à Versailles… L’actu de ce mercredi 17 juin au matin
-40. Nos critiques des sorties cinéma de la semaine : «Backrooms», «Toy Story 5», «Shana»…
-41. Dans «War Requiem», Derek Jarman remue terres et guerres
-42. EN DIRECT - Moyen-Orient : les premiers pétroliers iraniens ont franchi le détroit d’Ormuz
-43. «Ulysse» de Lætitia Masson, lisse odyssée autour du handicap
-44. La nuit où j’ai insulté un Zidane, par Nadir Dendoune
-45. «Le système des amendes forfaitaires contraventionnelles est illégal» : trois organisations dénoncent une pratique «discriminatoire»
-46. Camille Etienne et Christophe Clergeau : s’opposer aux nouveaux OGM, «ce n’est pas juste un caprice d’écolo»
-47. Pop-corn, pom-pom girl, confort et bug technique : on a regardé le match France-Sénégal au Grand Rex
-48. Au G7 d’Evian, la souveraineté numérique s’invite dans la bataille européenne face à Trump
-49. La présomption d’innocence n’a de sens que lorsqu’elle ne se fait pas au détriment de l’enfant
-50. Chez LR, François-Xavier Bellamy, le bras très droit de Bruno Retailleau
-51. Pétrole : «Il n’y aura pas de véritable retour à la normale car l’Iran ne renoncera pas au contrôle du détroit d’Ormuz»
-52. En Ouzbékistan, avec sa première participation à une Coupe du monde, c’est tout le pays qui touche au but
-53. «L’Illusion de Yakushima» de Naomi Kawase : des hauts et du béat
-54. Face au Sénégal, des Bleus montés sur ressort réussissent leur entrée dans le Mondial
-55. Coupe du monde : revivez la victoire des Bleus contre le Sénégal avec les commentaires de Marine Tondelier
-56. «Un jour qui marquera à jamais l’histoire de notre pays» : au Sénat, les enfants «transplantés» de La Réunion enfin pleinement considérés
-57. Moyen-Orient : l’accord entre l’Iran et les Etats-Unis signé vendredi en Suisse, Israël continue de frapper le Liban
-58. Trois Canadiennes attaquent leur gouvernement en justice pour inaction climatique
-59. A Poissy, Manuel Bompard dénonce les «méthodes de voyous» de la direction de Stellantis
-60. Shein au BHV : du conte de fées au crash, récit d’une opération de sauvetage ratée
-61. G7 d’Evian : sur la guerre au Moyen-Orient, le Qatar tire son épingle du feu
-62. Aide à l’Ukraine au G7 : entre les puissants et Zelensky, une relation d’alter nego
-63. Les tentatives de fraude se multiplient contre les entreprises, souvent aidées par l’IA, selon une étude
-64. BHV, la fin du mirage Shein
-65. «Il lui en aura fallu du temps pour se rendre compte de sa bêtise» : après l’annonce du changement de propriétaire, le BHV entre soulagement et méfiance
-66. Réunis à Evian, les dirigeants du G7 «d’accord pour augmenter la pression» sur Moscou via des «sanctions» sur l’énergie
-67. Vague de chaleur : le ministre de l’Education nationale ouvre la porte à des reports légers et locaux des oraux du bac
-68. L’économie française vit un «choc stagflationniste», selon la Banque de France
-69. Découverte inédite d’un cas de transmission de la bactérie de la dermatophilose entre êtres humains
-70. «Une sorte de poison» : entre l’école et les parents, le dialogue se tend
-71. On reluque les joueurs de la Coupe du monde ? Eux-mêmes jouent les modèles d’exposition
-72. Pointes possibles à 40 °C dimanche… la France va faire face à sa première vague de chaleur de l’année
-73. Affaire Lyhanna : après un premier signalement ignoré, une adolescente formule de nouvelles accusations contre Jérôme B.
-74. Canicule : la baignade ouverte dès ce mercredi au canal Saint-Martin à Paris
-75. Un yacht fait état de coups de semonce d’un navire de guerre russe dans la Manche
-76. «Passeport» annulé dans la ville RN de Castres : la pièce reçoit le soutien de la ministre de la Culture
-77. Pas-de-Calais : plus de 700 migrants ont traversé la Manche lundi, l’Europe présente un plan
-78. «Donner une fessée ou en recevoir est une manière de tout lâcher» : la sexualité des jeunes Françaises se tourne vers le hard
-79. «Pour protéger ses intérêts», la Chine de Xi Jinping adoube l’ex-chef de la junte birmane
-80. RDC : deux rapports dénoncent les exactions du groupe M23 et documentent le soutien de l’armée rwandaise
-81. «Toy Story 5» : Pixar aseptise sa nouvelle guerre des jouets
-82. «Soupçons de copinage» : à France Inter, les nouvelles tranches de Nicolas Demorand et Ali Baddou créent des remous en interne
-83. Francis Heaulme : le tueur en série renvoyé aux assises pour le meurtre de Jean-Joseph Clément
-84. Théâtre, musique et danse : les spectacles à voir et à réserver en ce moment
-85. Affaire Anthropic : «L’Europe découvre une nouvelle forme de dépendance»
-86. Drones, IA : la marche pas toujours forcée des entreprises japonaises pour muscler la défense nationale
+37. MV «Hondius» : la quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus
+38. EN DIRECT - Guerre au Moyen-Orient : les négociations entre l’Iran et les Etats-Unis prévues ce vendredi en Suisse «reportées»
+39. EN DIRECT - Canicule : 53 départements en vigilance orange, des maximales attendues à 38 degrés
+40. Autopsie de Lyhanna dévoilée, les pourparlers en Suisse interrompus, la France en surchauffe… L’actu de ce vendredi matin
+41. Le Mexique premier qualifié, victoire douce-amère du Canada, la Suisse prend une option… L’actu de la Coupe du monde ce vendredi 19 juin
+42. Le G7 veut sécuriser ses métaux critiques face à l’emprise chinoise
+43. L’IA au secours du roman ?
+44. 90 ans des congés payés du Front populaire : les projets de la gauche pour ouvrir «de nouvelles conquêtes de temps»
+45. «Plus bohème que bourgeoise», «délire de victimisation» : des plaignants pour violences sexuelles sur mineur tournés en dérision dans un jugement
+46. Olivia Rodrigo, Bernardino Femminielli, Robinson Khoury… Qu’est-ce qu’on écoute cette semaine ?
+47. «Tout le monde est un peu secoué» : face au Qatar, la fête canadienne gâchée par la grave blessure d’Ismaël Koné
+48. Le Quai-Branly fête ses 20 ans : «Le musée montre qu’il peut se critiquer sans tomber dans l’autoflagellation»
+49. Najat Vallaud-Belkacem et Arianna Poletti : «Une dimension ­climatique se cache souvent derrière la migration dite économique»
+50. L’imprescriptibilité ou la confusion croissante entre mémoire et justice
+51. «Ils nous frappaient quand nous résistions» : au Nigeria, le récit d’une ex-otage de Boko Haram
+52. Hausse des températures : cette fois, le gouvernement ne veut pas se laisser emporter par la vague
+53. Paroles de teufeurs : «J’y trouve la liberté gratuite, de l’entraide et de la débrouille»
+54. Répression des free partys : «On a peur que ça décourage le bénévolat dans nos associations»
+55. L’égalité, tout commence par là
+56. Retrouver les conditions d’un savoir faisant autorité
+57. Alerte canicule : circulation différenciée et limitation de vitesses dans l’agglomération parisienne à partir de vendredi
+58. La Suisse domine la Bosnie-Herzégovine, Elye Wahi finalement autorisé à entrer au Canada, la Tchéquie et l’Afrique du Sud se neutralisent… L’actu de la Coupe du monde ce jeudi 18 juin
+59. Affaire Lyhanna : l’autopsie révèle que l’enfant a été victime d’un viol
+60. Lyhanna, Ukraine, IA, canicule… Ce qu’il faut retenir de l’interview d’Emmanuel Macron dans «L’Evènement»
+61. Guerre au Moyen-Orient : la politique de Nétanyahou «alimente le ressentiment et la violence de la région», dénonce Macron
+62. Le Front populaire, un mythe durable dans l’imaginaire de gauche
+63. L’écologie doit être accessible, désirable et inclusive
+64. A Mayotte, le Smic et le RSA devraient commencer à augmenter cet été
+65. Présidentielle 2027 : pourquoi le PS ne veut pas soutenir Raphaël Glucksmann sans contrepartie
+66. «Des milliers d’usagers bloqués dans des trains surchauffés» : panne d’électricité sur le réseau de la gare de l’Est, reprise progressive du trafic
+67. Enfants abandonnés au Portugal : le beau-père bientôt transféré en France, la mère auditionnée mardi prochain
+68. Statut de la Corse : le changement de pied du RN après son alliance avec des nationalistes aux municipales
+69. Un collégien de 15 ans mis en examen pour l’assassinat d’une femme de 86 ans dans le Gard
+70. La Cour des comptes dénonce l’emprise de l’enseignement catholique sur la formation des enseignants du privé
+71. Loi contre les fraudes : le Conseil constitutionnel veut une meilleure protection des données des demandeurs d’emploi
+72. Mondial 2026 : à Kansas City, l’embarras face à la prison pour supporteurs qui ouvrira… après la compétition
+73. La répression des free partys, une mesure largement électoraliste
+74. En Espagne, l’ex-Premier ministre Zapatero ne convainc pas son juge et fragilise ses amis
+75. La canicule s’installe en France, Israël poursuit ses opérations au Liban, Emmanuel Macron en prime time… L’actu de ce jeudi 17 juin
+76. Donald Trump et le nucléaire iranien : le mirage d’un meilleur accord
+77. Concerts, bals, fêtes associatives… Au-delà de la free party, tout un écosystème culturel en danger
+78. Erreur d’embryon lors d’une FIV : un couple américain, dont la fille n’est pas génétiquement la leur, a fini par obtenir sa garde
+79. Les armateurs pressés de sortir leurs bateaux bloqués dans le détroit d’Ormuz : «La sécurité reste notre première priorité»
+80. A l’Arsenal, l’historien Patrick Boucheron expose les rapports entre l’écrit et la violence
+81. Industrie des drones : sur le front, les Ukrainiens tiennent tech aux Russes
+82. Le journaliste Jérôme Chapuis pressenti pour retrouver la direction de «la Croix»
+83. «GTA VI» : les préventes du jeu vidéo très attendu s’ouvriront le 25 juin, annonce son éditeur
+84. A l’approche des vacances, douze livres pour occuper les enfants cet été
+85. Free partys : la teuf face au coup de répression du gouvernement
+86. L’actrice américaine Daveigh Chase, l’effrayante petite fille de «The Ring», est morte à 35 ans
 </journal>
 
 
 <journal>
 Mediapart
 gauche
-87. Depuis quatre ans, une femme paie pour les infractions routières commises par des policiers
-88. Un rapport associatif dénonce les «amendes discriminatoires» infligées à des adolescents
-89. Travail le 1er-Mai: le gouvernement s’acharne, sans garantie de succès
-90. Mobilisation au Parlement européen contre la «privatisation du vivant»
-91. BHV: Frédéric Merlin se défausse et cède le magasin à ses proches collaborateurs
-92. LGBTphobies: «On en a marre de compter nos morts et d’avoir peur»
-93. Aymeric Caron relaxé après avoir été accusé d’injure antisémite et raciste par Rachel Khan
-94. En adoptant l’accord commercial avec les États-Unis, le Parlement européen souscrit à la vassalisation de l’Union
-95. La Russie, soutenue par des collaborateurs ukrainiens, renforce son emprise dans les territoires occupés
-96. Zelensky cherche le soutien du G7 et récolte des promesses
+87. L’agenda caché d’Edgar Grospiron, patron des JO d’hiver 2030
+88. À People & Baby, un plan de licenciement permet de virer toute la délégation CGT
+89. Le magazine d’extrême droite «Frontières» condamné pour avoir jeté en pâture des avocats en droit des étrangers
+90. Fraudes fiscales et sociales: le Conseil constitutionnel valide une grande partie de la loi
+91. Fiscalité: le grand vertige de la non-imposition des hauts patrimoines
+92. «Si l’on veut répondre aux défis du papy-boom, le plus rationnel, c’est l’immigration»
+93. À Paris, le mauvais méli-mélo du préfet de police pour interdire un concert organisé par LFI
+94. Achraf Hakimi, la menace d’un procès et le déni du monde du football
+95. Depuis sa prison, le bandit corse déclarait des troupeaux fictifs
+96. Marc Bloch au Panthéon: célébrer le savant comme le résistant
 </journal>
 
 
 <journal>
 Valeurs Actuelles
 droite
-97. Macron en gestion de cris(e), Pigasse prépare, Pigasse remplace, le RN bat en retraites… Les coulisses politiques de la semaine
-98. À Lyon, la longue descente aux enfers de Jean-Michel Aulas
-99. [TRIBUNE] « La cogestion des entreprises » : l’atout majeur de Jordan Bardella pour rallier les mélenchonistes
-100. Accord États-Unis-Iran : pourquoi le Liban ne croit pas au retour de la paix
-101. Affaire Lyhanna : une cagnotte dépasse les 15 000 euros pour soutenir Rosa et sa mère
-102. Patrimoine : le grand rétropédalage d’Emmanuel Grégoire face aux défenseurs de la Commission du Vieux Paris
-103. « Nabot », « je vais te faire disparaître » : Éric Ciotti contre-attaque après des propos du ministre Philippe Tabarot
-104. « Tout est politique » : quand l’art de vivre à la française devient un acte de résistance
-105. IA : Sébastien Lecornu annonce 655 millions d’euros d’investissements et le lancement d’un « ChatGPT » souverain
-106. « Rendre aux Français leur argent » : Jordan Bardella promet de réduire de moitié la contribution de la France à l’Union européenne
+97. « Il ne faut plus jamais que l’affaire Lyhanna se reproduise » : le député Antoine Vermorel-Marques souhaite créer un fichier unique pour mieux repérer les agresseurs sexuels
+98. Appel du 18 juin 1940 : ces figures de droite méconnues de la Résistance
+99. Roselyne Bachelot : “Le football est chargé d’une symbolique sociale considérable”
+100. Carburant : Maud Bregeon promet une baisse des prix à la pompe et tacle le RN et LFI sur leurs propositions
+101. Coupe du monde : pourquoi la violence gangrène aussi le football amateur
+102. Fichier des auteurs d’infractions sexuelles : 76% des Français veulent le rendre public après l’affaire Lyhanna
+103. Théâtre : Vincent, son mari et sa femme, de Frédéric Sabrou à Paris IV
+104. LFI accuse le gouvernement de « mentir » après l’interdiction de son concert pour la Fête de la musique
+105. 67 % des salariés français préfèrent gagner plus plutôt qu’avoir plus de temps libre, selon une étude
+106. Les solutions pour commencer la couture en tant que débutant
 </journal>
 
 
 <journal>
 France Info
 gauche
-107. Coupe du monde 2026 : après la barre des 58 buts, ces autres records de l'équipe de France que Kylian Mbappé est parti pour battre
-108. "Un déni de justice et une violence d'Etat" : pourquoi motiver les classements sans suite des plaintes pour violences sexuelles sur mineurs est devenu une nécessité
-109. "Ça parle d'un sujet qui préoccupe notre génération" : on vous raconte le succès surprise d'"Obsession", le film d'horreur indépendant qui captive les jeunes cinéphiles
-110. Guerre au Moyen-Orient : des pétroliers iraniens ont franchi le détroit d'Ormuz, après deux mois de blocus imposé par les Etats-Unis
-111. Sept Français sur dix préfèrent gagner plus plutôt que bénéficier d'un meilleur équilibre entre vie professionnelle et vie personnelle
-112. "Des pointes possibles à 40°C dimanche" : quelles sont les températures prévues par Météo-France pour la fin de semaine ?
-113. "Seuls ses besoins comptaient pour moi" : on a lu en avant-première le livre évènement d'une "esclave sexuelle" de Jeffrey Epstein
-114. Lionel Messi égale le record de buts marqués en Coupe du monde grâce à son triplé marqué dans la victoire de l'Argentine contre l'Algérie
-115. La Russie affirme qu'une de ses frégates a tiré des coups de semonce contre un yacht britannique qui s'approchait "dangereusement" dans la Manche
-116. Coupe du monde 2026 : l'Autriche mène 2-1 face à la Jordanie, qui joue le premier mondial de son histoire
-117. Les oraux du baccalauréat pourront être reportés localement en raison des fortes chaleurs, annonce le ministre de l'Education nationale
-118. En Inde, des milliers de travailleurs entraînent les robots du futur
-119. G7 à Évian : les Européens veulent pousser Donald Trump à durcir le ton envers la Russie
-120. Le Parlement entérine une loi de réparation pour les "enfants de la Creuse", des milliers de mineurs réunionnais arrachés à leur île
-121. Kylian Mbappé, anatomie de 58 buts records avec les Bleus
-122. La Banque de France prévoit une croissance nulle au deuxième trimestre et de 0,5% en 2026
-123. Le Parlement allonge la durée de rétention des étrangers en situation irrégulière et jugés dangereux
-124. Le tueur en série Francis Heaulme renvoyé devant les assises pour le meurtre de Jean-Joseph Clément commis en 1989
-125. Dispositif "rues aux écoles" à Paris : 279 rues recensées par l'association Respire sur les 300 promises par la mairie
-126. Un caricaturiste russe critique de Vladimir Poutine abattu en Pologne
-127. Le Sénat adopte le projet de loi autorisant le travail de salariés volontaires des boulangers et fleuristes le 1er-mai
-128. Vols de statues, cercueils profanés... l'inquiétante recrudescence des pillages de tombes
-129. Pourquoi Marie-Thérèse Garcia, alias "Ma Dalton", est jugée pour le meurtre de Corinne Di Dio, 31 ans après la découverte d'un corps démembré
-130. Lieu de résidence, intoxication chronique, analyse d'urine... Cinq questions sur les tests de dépistage du cadmium désormais remboursés pour une partie des Français
-131. Coupe du monde : du néant à la symphonie, comment Michael Olise a complètement changé le match des Bleus contre le Sénégal
-132. Coupe du monde 2026 : Messi crève l'écran avec l'Argentine et la Norvège facile face à l'Irak... Ce qu'il faut retenir des matchs de la nuit
-133. Avec un doublé contre le Sénégal à la Coupe du monde, Kylian Mbappé dépasse Olivier Giroud et devient meilleur buteur de l'histoire de l'équipe de France
+107. "Ça ferait une telle consommation d'énergie" : pourquoi la climatisation est-elle (quasiment) absente des établissements scolaires ?
+108. Guerre au Moyen-Orient, prix du carburant, affaire Lyhanna… Ce qu'il faut retenir de l'interview d'Emmanuel Macron dans "L'Evénement"
+109. Mort de Lyhanna : des résultats d'autopsie révèlent que la collégienne a été violée, l'ADN de Jérôme Barella retrouvé sur son corps
+110. Accord entre l'Iran et les Etats-Unis : la Suisse annonce le report des pourparlers entre l'Iran et les Etats-Unis après l'annulation de la venue du vice-président américain
+111. Coupe du monde 2026 : le Brésil en quête d'une première victoire face à Haïti, les Etats-Unis visent la tête du groupe C contre l'Australie
+112. "Si vous lui demandez, il vous dira qu'il était le meilleur" : la drôle d'histoire d'amour entre Donald Trump et le foot
+113. "Les conditions de vie des marins sont terribles" : un capitaine indien raconte son calvaire à bord d'un navire sur le détroit d'Ormuz
+114. Le Mexique premier qualifié pour les 16es, victoire symbolique pour le Canada... Ce qu'il faut retenir des matchs de la nuit à la Coupe du monde
+115. Plus d'un jeune sur dix déclare avoir déjà consommé du protoxyde d'azote, selon une étude
+116. Déclaration de Didier Deschamps, accréditation de la Fifa, soutien des journalistes... Le cas de Christophe Gleizes, emprisonné en Algérie, plane sur la Coupe du monde
+117. "De la pure trahison" : en Iran, des manifestants anti-régime dénoncent la poursuite de la répression après l'accord avec Washington
+118. Le travailliste britannique Andy Burnham élu député, en pole position pour succéder au Premier ministre Keir Starmer
+119. "Pour un enfant, ce n'est pas neutre d'aller voir la police pour dire ce qui lui est arrivé" : immersion dans la brigade des mineurs
+120. Détroit d'Ormuz : 785 navires sont toujours dans le golfe Persique après la signature de l'accord entre les États-Unis et l'Iran
+121. Au plus grand salon mondial de l'armement, l'armée opte pour le "100% Français"
+122. Leader incontesté de la phase régulière, pourquoi le Stade toulousain doit se méfier du Racing 92 en demi-finales de Top 14 ?
+123. Accord entre l'Iran et les Etats-Unis : pourquoi le plus difficile reste à faire lors des 60 prochains jours de négociations
+124. Coupe du monde : comment Dayot Upamecano est devenu le pilier de la défense de l'équipe de France
+125. La quarantaine levée aux Pays-Bas pour presque tous les passagers et membres d'équipage du navire touché par le hantavirus
+126. Coupe du monde 2026 : la Suisse vient à bout de la Bosnie-Herzégovine après un dernier quart d'heure de folie
+127. Le trafic a repris progressivement à la gare de l'Est après une panne d'électricité
+128. Le musée du quai Branly-Jacques Chirac souffle ses vingt bougies : cinq dates et cinq œuvres pour célébrer le dialogue des cultures
+129. Coupe du monde 2026 : la Tchéquie frustrée par l'Afrique du Sud après avoir longtemps mené au score
+130. Affaire Cahuzac : treize ans après, François Hollande et son ancien ministre du Budget continuent de s'opposer sur ce que savait l'ex-président
+131. Canicule : 53 départements placés en vigilance orange, Météo-France alerte sur un épisode "étendu, durable et intense"
+132. Une nouvelle vague de chaleur a commencé en France : visualisez comment elles sont devenues plus fréquentes et plus intenses ces dernières années
+133. Vague de chaleur : le seuil des 40°C a été franchi dans la commune de Montmorillon dans la Vienne, une première en 2026 en France hexagonale
+134. "On arrose les enfants" : face à la canicule, les "bricoles" des chefs d'établissements scolaires pour faire baisser la température des classes
+135. Revivez l'interview d'Emmanuel Macron dans "L'Evénement" en intégralité
+136. Bruno Retailleau réagit à l'interview d'Emmanuel Macron
+137. Affaire Lyhanna : après un signalement de l'ASE manqué par la justice, une nouvelle plainte déposée contre Jérôme Barella pour agressions sexuelles
+138. Mort de Lyhanna : "Il faut continuer de rendre nos procédures plus efficaces", réagit Emmanuel Macron dans "L'Evénement"
 </journal>
 
 
 <journal>
 L'Obs
 gauche
-134. La débrouille d’Isabelle face à la canicule : « Je me suis mis hors-la-loi pour préserver ma santé »
-135. « Une gifle pour les familles » : la relaxe d’un animateur périscolaire à Paris provoque la colère des parents
-136. Lætitia Masson et Elodie Bouchez nous parlent d’« Ulysse », de cinéma, de maternité et de destin
-137. Une frégate russe tire des coups semonce vers un yacht dans la Manche : ce que l’on sait
-138. En Iran, le pouvoir toujours debout après la guerre de Trump : « Ils sont prêts à sacrifier le pays pour sauver leur régime »
-139. Qui est Gianni Infantino, tout-puissant président de la Fifa et architecte controversé du Mondial 2026 ?
-140. Semion Skrepetsky, caricaturiste et critique de Poutine, abattu en Pologne en pleine rue
-141. La consommation de bio repart à la hausse :  « Chaque scandale alimentaire nous est bénéfique »
-142. « Jim Queen », « Shana », « Backrooms »… Les films à voir (ou pas) cette semaine
-143. Bonne nouvelle : l’économie française post-Covid a mieux résisté qu’on ne le pensait
-144. « Jim Queen » : un film d’animation en forme de très joyeux délire satirique LGBTQIA +
-145. Indemniser les enfants réunionnais dits « de la Creuse » : « Beaucoup ignorent qu’ils sont victimes de ce scandale d’Etat »
-146. « Shana » : avec l’épatante Eva Huault, Lila Pinell sort le ciné de sa zone de confort
-147. A Paris, le BHV va arrêter sa collaboration avec Shein : une chute en 4 actes
-148. « Backrooms » : le youtubeur Kane Parsons transforme sa web-série en film et c’est aussi flippant qu’inconsistant
-149. Dans « Ulysse », Elodie Bouchez prend le rôle d’une mère courage inspiré de la vie de la réalisatrice Laetitia Masson
-150. « La Baleine et le Musicien » : un documentaire séduisant sur la rencontre d’une star de la musique électro et d’un cétacé
-151. « The Giaccomo » : Xavier Lacaille est génial en aspirant influenceur dans cette comédie acide à la « Borat »
-152. « Toy Story 5 » : le nouvel opus de la saga Pixar est, malheureusement, sans défaut ni surprise
-153. Coupe du Monde 2026 : les Lions du Sénégal, ces joueurs qui connaissent si bien la France
-154. « L’Illusion de Yakushima » : un drame lumineux sur le deuil et l’absence, porté par Vicky Krieps
-155. « La Charge héroïque » de John Ford : un monument du cinéma avec John Wayne
-156. « Nino » : César du meilleur premier film avec le remarquable Théodore Pellerin
-157. « The Lost City of Z » : James Gray au bout du monde
-158. Ciotti dénonce des menaces du ministre Tabarot : une énième altercation entre les deux hommes
-159. La position d’équilibriste des Emirats arabes unis, ciblés par l’Iran et alliés des Etats-Unis et d’Israël
-160. Geste suprémaciste, le caprice trumpiste, la France sur ses gardes : le bulletin de la Coupe du Monde de Trump
-161. Autour de Mbappé, des joueurs de l’équipe de France de plus en plus engagés ?
-162. Autonomie de la Corse : quatre questions sur la réforme constitutionnelle controversée qui arrive à l’Assemblée nationale
-163. « Enfermés comme des animaux pour que les Blancs puissent les regarder » : la mémoire meurtrie des Indiens Kalinas
-164. « On reviendra lundi prochain » : au rassemblement place Vendôme à Paris, la détermination après le meurtre de Lyhanna
-165. Info « Nouvel Obs ». Deux juges d’instruction enquêtent sur Edouard Philippe
-166. Législatives en Israël : Trump fragilise Netanyahou en arrachant un arrêt des combats
-167. La débrouille de Romain face à la canicule : « Mon bricolage permet de gagner environ 4 °C par rapport à l’extérieur »
-168. « Les deux capitaines composent leurs équipes de foot dans la cour : il reste trois joueurs, puis deux, puis moi »
-169. Hongrie : les parlementaires limitent le mandat du Premier ministre à huit ans et empêchent un retour d’Orbán
-170. Coupe du Monde de Foot : 10 choses à savoir sur l’équipe d’Iran qui a fait son entrée dans la compétition
-171. CNews mise en demeure par l’Arcom de respecter davantage la diversité des opinions sur son antenne
-172. Affaire Lyhanna : deux signalements et cinq plaintes, l’itinéraire pédocriminel de Jérôme Barella
-173. « Je sais que tu n’as que 12 ans mais tu as l’air sexy » : face aux prédateurs sur internet, les « chasseurs de pédocriminels » s’organisent
-174. Le blocage d’Anthropic rend très concret le besoin de  souveraineté numérique de l’Europe
-175. On a écouté « Si besoin », le podcast courageux et nécessaire de Nicolas Demorand sur la santé mentale
-176. On a vécu les 24 Heures du Mans au cœur de l’équipe Alpine pour son ultime participation
-177. Le bloc-notes de Jérôme Garcin : Ariane Chemin en Ukraine et Marc Dugain à l’Elysée
-178. « Maires ruraux, à l’épreuve du réel » : des édiles à bout de souffle
-179. « Il a inventé un style » : mais qui est vraiment JR, l’artiste qui se cache derrière un chapeau et des lunettes ?
-180. « Das Boot » : un huis clos sous-marin d’une tension inouïe
-181. « Harry Potter et les Reliques de la mort » : quand la saga entre dans son âge adulte
-182. Une crise d’une gravité inédite : comment les relations entre la France et Israël se sont dégradées
-183. Trump préfère le MMA, Curaçao dans l’histoire, l’espagnol autorisé par la Fifa : le bulletin de la Coupe du Monde de Trump
-184. La Ciivise « invite le gouvernement à passer à la vitesse supérieure » pour protéger les enfants
-185. Investissement : les avantages des parts sponsors de SCPI
-186. Mais pourquoi donc le physicien Etienne Klein s’est-il retrouvé au bac philo ?
-187. Affaire Lyhanna : Bruno Retailleau s’exonère un peu vite de ses responsabilités d’ancien ministre de l’Intérieur
-188. Trump se congratule, Macron applaudit, Téhéran et ses ennemis « humiliés »… Les réactions après l’accord Iran-Etats-Unis
-189. Vente de SFR  : « Les actionnaires d’Orange, Bouygues et Free vont gagner entre 5 et 10 milliards d’euros »
-190. Les Etats-Unis et l’Iran parviennent à un accord pour mettre fin à la guerre : ce que l’on sait
-191. A Evian, le baroud d’honneur de Macron pour sauver le G7 de la « mort cérébrale »
-192. « Climatodénialisme » ou le climatoscepticisme en pire : « Plus les effets du changement climatique se font sentir, plus on rejette ceux qui les décrivent »
-193. « Le G7 ne doit pas accélérer mais sécuriser l’IA ! »
-194. Accord Etats-Unis - Iran, Glucksmann à Aubervilliers, pétrolier fantôme russe intercepté… Les cinq infos à retenir du week-end
-195. Guerre au Moyen-Orient : comment les perspectives d’accord entre les Etats-Unis et l’Iran se sont éloignées en quelques heures
-196. Quand le totalitarisme rattrape la fiction
-197. « Manouchian et ceux de l’Affiche rouge » : un bouleversant documentaire sur une jeunesse sacrifiée
-198. « Titanic » de James Cameron : le film de tous les records
-199. Dans la famille LGBTQIA+… Pourquoi la bisexualité reste une notion floue et difficile à manier
-200. Mort de Lyhanna : pourquoi y a-t-il toujours si peu d’hommes dans les manifestations enfantistes et féministes ?
-201. Comment « la tarification dynamique » a transformé l’achat de places de concert en une vaste loterie
-202. Steven Spielberg en 1988 : « On ne regarde plus l’océan de la même façon depuis “les Dents de la mer” »
-203. Il va encore faire chaud cette semaine : à quoi faut-il vraiment s’attendre ?
-204. Fortes chaleurs pendant les examens : le ministre de l’Education nationale ne veut « plus aucune épreuve l’après-midi »
-205. Les Knicks éclipsent le Brésil, tensions autour du drapeau iranien, le silence de Mbappé : le bulletin de la Coupe du Monde de Trump
-206. Le média Les Jours a 10 ans et Vincent Bolloré est « son meilleur scénariste »
-207. CO, la marque de prêt-à-porter féminin qui rend le luxe plus simple et abordable
-208. « Espions : au service de la France » : Un podcast captivant au cœur des coulisses des agents de l’ombre
-209. Pour cet été, voici 5 marques de maillots de bain qui réinventent le style à la plage
-210. Anniversaire de Trump  : comment le trumpisme a mis la main sur le MMA
-211. Lors de son premier meeting, Glucksmann envoie des messages à la gauche et promet de mettre fin à « la religion absurde du libre-échange »
-212. « Il a l’obsession de la trace qu’il laissera » : Macron, le président qui voulait entrer dans l’Histoire
-213. Josiane Balasko, sous influence : « Comme je n’étais pas Marilyn, j’ai fait avec ce que j’avais »
-214. Notre sélection de cinq bons polars à glisser dans votre valise cet été
-215. « Le bruit est inacceptable » : quand le Concorde déclenche une guerre des décibels, il y a 50 ans dans « le Nouvel Obs »
-216. Téhéran et Washington proches d’un accord mais pas de signature dimanche, prévient l’Iran
-217. Pourquoi Gabriel Attal fait le pari de l’intelligence artificielle dans la course à l’Elysée, entre stratégie politique et influence de Mistral AI
-218. « La Prisonnière de Bordeaux » : Isabelle Huppert et Hafsia Herzi dans un huis clos social
-219. « Du goudron et des plumes » avec Sami Bouajila et Isabelle Carré : l’histoire d’un homme qui cherche une seconde chance
-220. Emeutes xénophobes à Belfast : pourquoi Elon Musk est accusé d’avoir amplifié des discours violents sur X
-221. « L’Ultime Braquage » : Reda Kateb électrise ce polar sous haute tension
-222. Dans la famille LGBTQIA+… Pourquoi le « Q » de « queer » cache une notion plus complexe qu’il n’y paraît
-223. Anthropic contraint par Washington de suspendre son IA la plus puissante : cinq questions sur une injonction qui inquiète jusqu’en France
-224. Juliette Brocal et Blanche Sabbah, deux autrices de bande dessinée qui réinventent la fantasy
-225. « L’objectif est d’aller le plus loin possible » : le speedrun dans les églises de scientologie essaime en France
-226. Arrêtons de parler de « chic », ce qui est vraiment important, c’est « l’allure »
-227. Victoire américaine, visa refusé et vol de ballons anglais… le bulletin de la Coupe du Monde de Trump
-228. « Les témoignages affluent » : Patrick Bruel visé par deux nouvelles plaintes pour viol et tentative de viol
-229. Avec les adeptes du « home exchange » : « Ce qui nous plaît, c’est le côté non marchand, l’idée du troc ! »
-230. « C’est quoi l’honneur ? » : un podcast bouleversant à la croisée d’« Intouchables » et de la justice restaurative
-231. La success-story des montres Hamilton, un fleuron aussi suisse qu’américain
-232. Plainte pour viol contre un ex-conseiller, mise en retrait, délégation retirée… Comment Jean-Michel Aulas vacille à Lyon
-233. Ce 13 juin où La Fayette a débarqué en Amérique
-234. On a testé la nouvelle Renault Twingo, la petite citadine électrique qui allie charme et prix attractif
-235. Catherine Cusset : « L’œuvre de David Hockney était une explosion de couleur et de joie. Il voulait enchanter le monde »
-236. Ce petit détail inattendu qui rendra votre tarte aux fraises unique
-237. « On trie les hommes entre “bons” et “mauvais”, ce qui met la majorité d’entre eux à l’abri d’une critique structurelle »
-238. Les Pokémon ont 30 ans et la Gen Z veut tous les attraper ... et les monétiser
-239. Romans ou essais, cinq livres puissants à découvrir ce week-end
-240. Bienvenue dans la ville de l’adultère
-241. Des centaines de milliers de deepfakes sexuels publiés et 14 000 victimes présumées : Un informaticien bientôt jugé
-242. Hockney et ses teckels : « Quand il a commencé à peindre ses petits chiens, sa notoriété a changé de nature »
-243. « On en est là parce qu’on n’a jamais vraiment cru les victimes » : Eve Simonet, créatrice du site « classés sans suite »
-244. « Ce nouveau pacte migratoire de l’UE accorde une priorité à la détention et à l’enfermement »
-245. Alain Schifres est mort, il avait décrit les familles françaises comme personne dans « le Nouvel Observateur »
-246. « Le Village de Madeleine » : carnets de campagne au cœur de la mémoire rurale
-247. 10 films à aller voir en salle avant qu’il ne soit trop tard : « The Christophers », « A Second Life », « Ma famille chérie »…
-248. Hakim Jemili et Benjamin Tranié dans « Une famille de bâtards » : « Les PMU, ce sont mes plus belles inspirations »
-249. Michaël Foessel : « Ce qui domine le monde aujourd’hui, c’est l’argent comme capital dématérialisé, comme richesse avant tout financière et abstraite »
-250. « The Hack » : au cœur du scandale des écoutes téléphoniques au Royaume-Uni
-251. « Fumer me donne le temps de réfléchir à la perspective » : David Hockney, un peintre pro-tabac
-252. Pourquoi le détroit d’Ormuz a permis à l’Iran de piéger l’Amérique : grande conversation de Pierre Haski avec Michel Foucher
-253. Ella Rumpf, Monia Chokri et Noémie Lvovsky brillent dans « Des preuves d’amour »
-254. Quand les joueurs américains et iraniens envoyaient un message de paix à la Coupe du Monde 1998
-255. Musk premier billionnaire de l’Histoire : mais au fait, ça ressemble à quoi mille milliards de dollars ?
-256. Zahia Dehar ou Simone de Beauvoir : seriez-vous « Dans la sauce » ? Testez vos connaissances
-257. Mort de Nahel : la Cour de Cassation annule la requalification des faits et ouvre la voie à un procès pour meurtre
-258. Mort de David Hockney : de la Californie à la Normandie, le prolifique peintre britannique a passé sa vie en mouvement
-259. Supporters recalés, « pauses fraîcheurs » infernales et « casse-tête » sécuritaire : le bulletin de la Coupe du Monde de Trump
-260. Festival international de Journalisme : liberté de la presse, transition écologique et besoin de fête au menu de l’édition 2026
-261. David Hockney interviewé par Olivier Assayas : « J’ai toujours pensé que le monde était absurde, mais c’est à cause de nous »
-262. Coupe du Monde : pourquoi l’équipe des Etats-Unis ne ressemble pas à l’Amérique de Trump
-263. « La sensation était celle d’une pièce dont les murs se resserrent » : un jeune Russe raconte l’étau numérique sur son pays
-264. Les crimes sexuels sur mineurs doivent-ils être imprescriptibles ? Pourquoi cette mesure fait débat
-265. Guerre au Moyen-Orient : Donald Trump se vante d’avoir trouvé « un très bon accord », l’Iran temporise... Le point sur la situation
-266. Ma vie sans smartphone ni internet : « Absolument personne sur la planète ne sait où je me trouve »
-267. « Pour nos pères, gagner le derby, c’était Mai-81 qui se prolongeait. Un but devenait un geste politique »
-268. Elon Musk billionnaire, l’argent pour seul mantra : comment sa fortune a atteint 1 000 milliards de dollars
-269. Quiz. Mathématiques, c’est l’heure du bac : saurez-vous répondre à ces 12 questions ?
-270. « On le considère enfin à sa juste valeur » : après la mort de Noahm, la justice se penche finalement sur le caractère homophobe de l’agression
-271. La mairie de Saint-Denis va porter plainte après l’accrochage d’une banderole raciste sur la basilique
-272. Chez les enfants, le cerveau porte les marques du milieu social dans lequel ils grandissent
-273. L’avenir incertain des « Territoires zéro chômeur longue durée » : « Nous payons aujourd’hui le prix d’un manque d’anticipation »
-274. Jean-Michel Aulas bousculé par une plainte pour viol visant son directeur de campagne
-275. Comment la politique migratoire répressive de Trump éclabousse déjà la Coupe du Monde 2026
-276. « La Reine Margot » avec Isabelle Adjani : sous les dentelles, l’enfer
-277. Affaire Patrick Bruel : qu’est-ce que l’obligation de soins psychologiques imposée après sa garde à vue ?
-278. « Love & Mercy » : Brian Wilson entre génie musical et descente aux enfers
-279. « Quand la ville dort » : le chef-d’œuvre du film de casse selon John Huston
-280. « Faire vite sans moyens ne réglera pas les violences de genre » : l’Espagne, pays pionnier dans la lutte contre les violences sexuelles
-281. L’outre-mer selon Mélenchon : indépendance pour la Nouvelle-Calédonie et « aucun tabou » sur l’autonomie ailleurs
-282. Mondial de foot 2026 : les « pauses fraîcheur », symbole d’un monde qui fonce dans le mur
-283. Sous pression et fragilisé politiquement, comment Gérald Darmanin tente de résister à la colère après l’affaire Lyhanna
-284. L’Arcom met en demeure Radio France pour « sous-représentation » du RN en journée
-285. Israël refoule une journaliste française, Radio France dénonce une « entrave à la liberté de la presse »
-286. Affaire Lyhanna : « Le Conseil supérieur de la Magistrature a un rôle stratégique, c’est un bouclier entre le politique et les magistrats »
-287. « Cette maladie, ce n’est pas moi » : quand Charlie Dalin, vainqueur du Vendée Globe, racontait son combat contre le cancer
-288. Charlie Dalin, emporté par la maladie à 42 ans : nous n’oublierons pas son rire face à l’océan
-289. Guerre au Moyen-Orient : les Etats-Unis bombardent l’Iran, le détroit d’Ormuz « fermé jusqu’à nouvel ordre »… Le point sur la situation
-290. Cérémonie géante, arbitre exclu, responsables iraniens refoulés : le premier bulletin de la Coupe du Monde de Trump
-291. Quiz. Coupe du Monde de Foot : 11 questions pour bien entrer dans le match
-292. Exploiter le pétrole pour sortir la Guyane de la crise ? La proposition clivante qui oppose la gauche aux élus d’outre-mer
-293. Coupe du Monde aux Etats-Unis, la revanche du « sport des immigrés » : « C’est pour moi une question d’identité culturelle »
-294. Donald Trump, l’empereur empêtré
-295. Révélations sur les armes françaises de la répression en Indonésie
-296. Patrick Bruel mis en examen pour viol, tentative de viol, agression sexuelle et harcèlement sexuel
-297. Ce que l’on sait de la mort de Florian Gillet, soldat français au Liban, touché par un « tir accidentel »
-298. Steven Soderbergh : « Chacun de mes films doit détruire celui d’avant »
-299. En pleine semaine noire, Darmanin renonce au « plaider-coupable », mesure phare de sa réforme de la justice
-300. 10 choses à savoir sur Emily Blunt, enfant bègue devenue superstar à Hollywood
-301. Comment Donald Trump tente de revenir dans le jeu avec la Coupe du Monde
-302. Coupe du Monde 2026 et paris sportifs : le gouvernement accusé de bloquer une campagne de prévention
-303. Derrière la Coupe du monde de foot, la mauvaise passe de Donald Trump
-304. « Green Zone » : Paul Greengrass décortique les mensonges d’Etat américains
-305. « Carbone » : Olivier Marchal revisite l’arnaque du siècle
-306. « Il alterne entre une image de politique respectable et les violences de rue » : Jean-Eudes Gannat, itinéraire d’un identitaire devenu conseiller municipal
-307. « L’Etranger » : quand François Ozon s’empare de Camus
-308. Alexis Michalik : « Voyez les méthodes du RN au niveau local et imaginez ce qui nous attend au niveau national »
-309. De nouvelles frappes entre l’Iran et les Etats-Unis enflamment la région : le point sur la situation
-310. « Calvin, prends le pneu et pose-le sur le tapis » : comment Renault va miser sur les robots dans ses usines
-311. Pédocriminalité : pendant l’affaire Lyhanna, récit d’une semaine tragiquement ordinaire en France
-312. Un parquet dédié aux violences sexuelles, un outil pertinent ou une « fausse bonne idée » ?
-313. La loi d’urgence agricole : un projet aux antipodes des nécessités écologiques et humaines
-314. Irlande du Nord : l’extrême droite récupère une attaque au couteau, des manifestations anti-immigrés dégénèrent
-315. CGT et CFDT réclament la transparence des salaires, Rachida Dati évite Emmanuel Grégoire… Retrouvez les indiscrétions du « Nouvel Obs »
-316. Je suis une professeure passionnée, mais mon métier est aussi un « simple » boulot
-317. Soudan, Congo, Colombie… Le sinistre palmarès des 10 crises humanitaires les plus oubliées
-318. « Nous avions l’impression que cette patiente était un rat de laboratoire » : la réanimation pédiatrique de l’hôpital Bicêtre au cœur d’un scandale
-319. « Ça m’a permis de reprendre confiance en moi » : à Paris, la ressourcerie du Comptoir Bédier mise sur le retour à l’emploi
-320. Scandale du périscolaire à Paris : Grégoire lance une commission d’enquête, plus de 130 animateurs suspendus
-321. « Une forme de terreur fonctionne » : Nadav Lapid, réalisateur israélien ciblé par un boycott
-322. « Je m’inquiète pour toutes les œuvres » : Alexis Michalik déplore la décision de la mairie RN de Castres d’annuler sa pièce
-323. Bardella, Le Pen, le micmac sur les retraites et la décision de justice du 7 juillet : au RN, le mois le plus long
-324. Le rapport du COR sur les retraites, pas encore publié mais déjà brûlant
-325. Affaire Lyhanna : « Non, les magistrats n’ont pas d’immunité, à l’inverse du président de la République et des parlementaires »
-326. « The Christophers », « Disclosure Day », « A Second Life »… Les films à voir (ou pas) cette semaine
-327. « The Christophers » : Ian McKellen excelle dans cette satire du monde de l’art signée Steven Soderbergh
-328. « Disclosure Day » : Steven Spielberg peine à se réinventer et livre un blockbuster presque morne
-329. « A Second Life » : un conte social filmé dans le dédale sensoriel du Paris des JO
-330. « D’un monde à l’autre » : Jérémie Renier part en Arctique faire le deuil de son ami Gaspard Ulliel mais enfile les lapalissades
-331. Mort de Lyhanna : ce que contient la proposition de loi intégrale contre les violences envers les femmes et les enfants
-332. « Ma famille chérie » : un film de retrouvailles porté par le charisme bouleversant d’Elodie Bouchez
-333. « The Furious » : une série B hyperstéroïdée qui s’embarrasse à peine de dialogues
+139. Royaume-Uni : le travailliste Andy Burnham facilement élu député, en position de défier Starmer
+140. « Tu crois que c’est marrant d’avoir le nez rouge ? » L’adieu à Coluche, il y a 40 ans dans « le Nouvel Obs »
+141. Grandir à Auxerre à la grande époque de Guy Roux : « Chacune devait tracer son chemin dans cette ville où la testostérone régnait en maître »
+142. Les 7 règles pour bien protéger (et supporter) ses enfants par 40 °C
+143. La débrouille d’Omar face à la canicule : « Je plonge ma tête dans le frigo »
+144. On a écouté le nouvel album des Rolling Stones et on n’y a trouvé aucune « Satisfaction » !
+145. Aux Etats-Unis, l’accord avec l’Iran irrite jusqu’aux élus républicains qui le jugent favorable à Téhéran
+146. L’urgence d’une décolonisation numérique de la France et de l’Europe
+147. Accord avec l’Iran : comment Emmanuel Macron a mis en scène le fiasco de Donald Trump
+148. Test. Etes-vous apte au sexe par temps de canicule ?
+149. Canicule : des oraux du bac reportés, des fêtes de la musique annulées… Les conséquences de la vague de chaleur
+150. « On doit retourner en réunion après » : la baignade au canal Saint-Martin, nouvelle « pause fraîcheur » anti-canicule
+151. « Premières notes » : une passionnante enquête sur la naissance de la musique
+152. « On ne peut plus parler d’une loi “fast-fashion”, c’est une opportunité ratée d’être pionnier en Europe »
+153. Leyla Doriane, choriste de Patrick Bruel pour « Au Café des délices », accuse le chanteur d’agression et d’intimidations
+154. « La Belle de Gaza » : un documentaire bouleversant, empreint d’humanité
+155. « L’Affaire Ben Barka » enfin élucidée : Ronen Bergman et Stephen Smith reçoivent le prix Jean-Daniel 2026
+156. « A l’ombre des filles » : un film sensible et lumineux porté par Alex Lutz
+157. Bagayoko fait siffler le RN et LR, la pause fraîcheur échauffe les supporters : le bulletin de la Coupe du Monde de Trump
+158. Présidentielle 2027 : gare à la crise de gaullite aiguë !
+159. Pédocriminalité, comment empêcher le passage à l’acte : « Il faudrait se débarrasser du raccourci selon lequel s’occuper des auteurs reviendrait à les excuser »
+160. La Birkenstock est-elle « open space compatible » en temps de canicule ?
+161. Les frères Coen recevront le 18ᵉ prix Lumière à Lyon
+162. Trump signe l’accord Iran-Etats-Unis aux côtés de Macron, Pezeshkian paraphe à distance… Retour sur la soirée où tout s’est fait
+163. Violences sexuelles, la grande peur des parents : « Ça n’arrive pas qu’aux autres. Et ça peut venir de n’importe qui »
+164. Qui est Andy Burnham, le « roi du Nord » qui veut renverser le Premier ministre britannique Keir Starmer ?
+165. « Ils vont plus loin que le groupe Bolloré » : Frontières, le média satellite qui déborde CNews par l’extrême droite
+166. Accord entre les Etats-Unis et l’Iran : la réouverture annoncée du détroit d’Ormuz, un long défi aussi politique que logistique
+167. Levée des sanctions, fonds de 300 milliards de dollars, nucléaire… L’accord entre l’Iran et les Etats-Unis se précise
+168. Le Hellfest a 20 ans : l’incroyable histoire d’un festival de l’extrême devenu une institution nationale
+169. « On choisit où on va » : reportage dans un bar qui veut exclure les VSS des soirées Coupe du Monde
+170. Face à une criminalité de masse, la cause des enfants doit enfin devenir un impératif national
+171. La députée Aurélie Trouvé alerte sur les fonds d’investissement spéculatifs, « l’une des causes de la destruction de notre tissu productif »
+172. Les tests anti-drogues demandés par Lecornu dans les ministères, « une mesure à la limite de l’atteinte à la liberté individuelle »
+173. Le Parlement européen autorise le renvoi de migrants dans des centres de rétention en dehors de l’UE
+174. « Notre combat, c’est l’enfance » : l’appel d’Andréa Bescond contre les violences
+175. Cécile Duflot : « Les six autres pays du G7 utilisent Trump comme prétexte à l’inaction »
+176. « Une bonne copie, dans l’antichambre des business schools » : une critique de la formation des élites de demain
+177. Le combat de l’enfance
+178. « Moi qui t’aimais » : Marina Foïs impressionne en Simone Signoret sacrifiée par le cinéma
+179. « Sidonie au Japon » : Isabelle Huppert illumine ce délicat conte sur le deuil
+180. Mbappé fait taire les rageux, Infantino profite en jet privé : le bulletin de la Coupe du Monde de Trump
+181. Canicule : le point sur la vague de chaleur qui déferle sur la France, 26 départements en alerte orange jeudi
+182. « Vos Trump et les autres, je les jette dans le lac » : à Evian, l’immense ras-le-bol du G7
+183. « C’est une injustice intergénérationnelle » : la surexposition des enfants aux crises climatiques dénoncée par l’Unicef
+184. Les Français consomment toujours plus de vêtements neufs avec 43 habits achetés en 2025
+185. Carlo Ginzburg, l’inventeur de la microhistoire, est mort : il avait raconté les chasses aux sorcières en Europe
+186. Guerre au Moyen-Orient : frappes israéliennes au Liban, projet d’accord entre les Etats-Unis et l’Iran… Le point sur la situation
+187. Face à la canicule, « la climatisation est nécessaire, mais sous conditions »
+188. « C’est extraordinaire ! » : JR épate la galerie avec sa « Caverne » sur le Pont-Neuf à Paris
+189. Luis Vassy, enquête sur un directeur de Sciences-Po pas si diplomate
+190. Un ministre bluffé par Mélenchon, les magistrats ciblés par la droite… Retrouvez les indiscrétions du « Nouvel Obs »
+191. Ariel Weil, maire PS de Paris Centre : « La Ville doit reconnaître la souffrance de toutes les victimes civiles, à Gaza et en Israël »
+192. La belle histoire de « Jim Queen », la comédie qui rit de la communauté gay tout en dénonçant l’homophobie
+193. Après les émeutes de Southampton et Belfast, l’extrême droite relance le récit de la « guerre civile » outre-Manche
+194. VivaTech fête dix ans de « start-up Nation » avec un dernier tour de piste de Macron. Pari réussi ?
+195. La débrouille d’Isabelle face à la canicule : « Je me suis mis hors-la-loi pour préserver ma santé »
+196. « Une gifle pour les familles » : la relaxe d’un animateur périscolaire à Paris provoque la colère des parents
+197. Lætitia Masson et Elodie Bouchez nous parlent d’« Ulysse », de cinéma, de maternité et de destin
+198. Une frégate russe tire des coups semonce vers un yacht dans la Manche : ce que l’on sait
+199. En Iran, le pouvoir toujours debout après la guerre de Trump : « Ils sont prêts à sacrifier le pays pour sauver leur régime »
+200. Qui est Gianni Infantino, tout-puissant président de la Fifa et architecte controversé du Mondial 2026 ?
+201. Semion Skrepetsky, caricaturiste et critique de Poutine, abattu en Pologne en pleine rue
+202. La consommation de bio repart à la hausse :  « Chaque scandale alimentaire nous est bénéfique »
+203. « Jim Queen », « Shana », « Backrooms »… Les films à voir (ou pas) cette semaine
+204. Bonne nouvelle : l’économie française post-Covid a mieux résisté qu’on ne le pensait
+205. « Jim Queen » : un film d’animation en forme de très joyeux délire satirique LGBTQIA +
+206. Indemniser les enfants réunionnais dits « de la Creuse » : « Beaucoup ignorent qu’ils sont victimes de ce scandale d’Etat »
+207. « Shana » : avec l’épatante Eva Huault, Lila Pinell sort le ciné de sa zone de confort
+208. A Paris, le BHV va arrêter sa collaboration avec Shein : une chute en 4 actes
+209. « Backrooms » : le youtubeur Kane Parsons transforme sa web-série en film et c’est aussi flippant qu’inconsistant
+210. Dans « Ulysse », Elodie Bouchez prend le rôle d’une mère courage inspiré de la vie de la réalisatrice Laetitia Masson
+211. « La Baleine et le Musicien » : un documentaire séduisant sur la rencontre d’une star de la musique électro et d’un cétacé
+212. « The Giaccomo » : Xavier Lacaille est génial en aspirant influenceur dans cette comédie acide à la « Borat »
+213. « Toy Story 5 » : le nouvel opus de la saga Pixar est, malheureusement, sans défaut ni surprise
+214. Coupe du Monde 2026 : les Lions du Sénégal, ces joueurs qui connaissent si bien la France
+215. « L’Illusion de Yakushima » : un drame lumineux sur le deuil et l’absence, porté par Vicky Krieps
+216. « La Charge héroïque » de John Ford : un monument du cinéma avec John Wayne
+217. « Nino » : César du meilleur premier film avec le remarquable Théodore Pellerin
+218. « The Lost City of Z » : James Gray au bout du monde
+219. Ciotti porte plainte contre le ministre Tabarot pour des « menaces » : un énième épisode de tension entre les deux hommes
+220. La position d’équilibriste des Emirats arabes unis, ciblés par l’Iran et alliés des Etats-Unis et d’Israël
+221. Geste suprémaciste, le caprice trumpiste, la France sur ses gardes : le bulletin de la Coupe du Monde de Trump
+222. Autour de Mbappé, des joueurs de l’équipe de France de plus en plus engagés ?
+223. Autonomie de la Corse : quatre questions sur la réforme constitutionnelle controversée qui arrive à l’Assemblée nationale
+224. « Enfermés comme des animaux pour que les Blancs puissent les regarder » : la mémoire meurtrie des Indiens Kalinas
+225. « On reviendra lundi prochain » : au rassemblement place Vendôme à Paris, la détermination après le meurtre de Lyhanna
+226. Info « Nouvel Obs ». Deux juges d’instruction enquêtent sur Edouard Philippe
+227. Législatives en Israël : Trump fragilise Netanyahou en arrachant un arrêt des combats
+228. La débrouille de Romain face à la canicule : « Mon bricolage permet de gagner environ 4 °C par rapport à l’extérieur »
+229. « Les deux capitaines composent leurs équipes de foot dans la cour : il reste trois joueurs, puis deux, puis moi »
+230. Hongrie : les parlementaires limitent le mandat du Premier ministre à huit ans et empêchent un retour d’Orbán
+231. Coupe du Monde de Foot : 10 choses à savoir sur l’équipe d’Iran qui a fait son entrée dans la compétition
+232. CNews mise en demeure par l’Arcom de respecter davantage la diversité des opinions sur son antenne
+233. Affaire Lyhanna : deux signalements et cinq plaintes, l’itinéraire pédocriminel de Jérôme Barella
+234. « Je sais que tu n’as que 12 ans mais tu as l’air sexy » : face aux prédateurs sur internet, les « chasseurs de pédocriminels » s’organisent
+235. Le blocage d’Anthropic rend très concret le besoin de  souveraineté numérique de l’Europe
+236. On a écouté « Si besoin », le podcast courageux et nécessaire de Nicolas Demorand sur la santé mentale
+237. On a vécu les 24 Heures du Mans au cœur de l’équipe Alpine pour son ultime participation
+238. Le bloc-notes de Jérôme Garcin : Ariane Chemin en Ukraine et Marc Dugain à l’Elysée
+239. « Maires ruraux, à l’épreuve du réel » : des édiles à bout de souffle
+240. « Il a inventé un style » : mais qui est vraiment JR, l’artiste qui se cache derrière un chapeau et des lunettes ?
+241. « Das Boot » : un huis clos sous-marin d’une tension inouïe
+242. « Harry Potter et les Reliques de la mort » : quand la saga entre dans son âge adulte
+243. Une crise d’une gravité inédite : comment les relations entre la France et Israël se sont dégradées
+244. Trump préfère le MMA, Curaçao dans l’histoire, l’espagnol autorisé par la Fifa : le bulletin de la Coupe du Monde de Trump
+245. La Ciivise « invite le gouvernement à passer à la vitesse supérieure » pour protéger les enfants
+246. Investissement : les avantages des parts sponsors de SCPI
+247. Mais pourquoi donc le physicien Etienne Klein s’est-il retrouvé au bac philo ?
+248. Affaire Lyhanna : Bruno Retailleau s’exonère un peu vite de ses responsabilités d’ancien ministre de l’Intérieur
+249. Trump se congratule, Macron applaudit, Téhéran et ses ennemis « humiliés »… Les réactions après l’accord Iran-Etats-Unis
+250. Vente de SFR  : « Les actionnaires d’Orange, Bouygues et Free vont gagner entre 5 et 10 milliards d’euros »
+251. Les Etats-Unis et l’Iran parviennent à un accord pour mettre fin à la guerre : ce que l’on sait
+252. A Evian, le baroud d’honneur de Macron pour sauver le G7 de la « mort cérébrale »
+253. « Climatodénialisme » ou le climatoscepticisme en pire : « Plus les effets du changement climatique se font sentir, plus on rejette ceux qui les décrivent »
+254. « Le G7 ne doit pas accélérer mais sécuriser l’IA ! »
+255. Accord Etats-Unis - Iran, Glucksmann à Aubervilliers, pétrolier fantôme russe intercepté… Les cinq infos à retenir du week-end
+256. Guerre au Moyen-Orient : comment les perspectives d’accord entre les Etats-Unis et l’Iran se sont éloignées en quelques heures
+257. Quand le totalitarisme rattrape la fiction
+258. « Manouchian et ceux de l’Affiche rouge » : un bouleversant documentaire sur une jeunesse sacrifiée
+259. « Titanic » de James Cameron : le film de tous les records
+260. Dans la famille LGBTQIA+… Pourquoi la bisexualité reste une notion floue et difficile à manier
+261. Mort de Lyhanna : pourquoi y a-t-il toujours si peu d’hommes dans les manifestations enfantistes et féministes ?
+262. Comment « la tarification dynamique » a transformé l’achat de places de concert en une vaste loterie
+263. Steven Spielberg en 1988 : « On ne regarde plus l’océan de la même façon depuis “les Dents de la mer” »
+264. Il va encore faire chaud cette semaine : à quoi faut-il vraiment s’attendre ?
+265. Fortes chaleurs pendant les examens : le ministre de l’Education nationale ne veut « plus aucune épreuve l’après-midi »
+266. Les Knicks éclipsent le Brésil, tensions autour du drapeau iranien, le silence de Mbappé : le bulletin de la Coupe du Monde de Trump
+267. Le média Les Jours a 10 ans et Vincent Bolloré est « son meilleur scénariste »
+268. CO, la marque de prêt-à-porter féminin qui rend le luxe plus simple et abordable
+269. « Espions : au service de la France » : Un podcast captivant au cœur des coulisses des agents de l’ombre
+270. Pour cet été, voici 5 marques de maillots de bain qui réinventent le style à la plage
+271. Anniversaire de Trump  : comment le trumpisme a mis la main sur le MMA
+272. Lors de son premier meeting, Glucksmann envoie des messages à la gauche et promet de mettre fin à « la religion absurde du libre-échange »
+273. « Il a l’obsession de la trace qu’il laissera » : Macron, le président qui voulait entrer dans l’Histoire
+274. Josiane Balasko, sous influence : « Comme je n’étais pas Marilyn, j’ai fait avec ce que j’avais »
+275. Notre sélection de cinq bons polars à glisser dans votre valise cet été
+276. « Le bruit est inacceptable » : quand le Concorde déclenche une guerre des décibels, il y a 50 ans dans « le Nouvel Obs »
+277. Téhéran et Washington proches d’un accord mais pas de signature dimanche, prévient l’Iran
+278. Pourquoi Gabriel Attal fait le pari de l’intelligence artificielle dans la course à l’Elysée, entre stratégie politique et influence de Mistral AI
+279. « La Prisonnière de Bordeaux » : Isabelle Huppert et Hafsia Herzi dans un huis clos social
+280. « Du goudron et des plumes » avec Sami Bouajila et Isabelle Carré : l’histoire d’un homme qui cherche une seconde chance
+281. Emeutes xénophobes à Belfast : pourquoi Elon Musk est accusé d’avoir amplifié des discours violents sur X
+282. « L’Ultime Braquage » : Reda Kateb électrise ce polar sous haute tension
+283. Dans la famille LGBTQIA+… Pourquoi le « Q » de « queer » cache une notion plus complexe qu’il n’y paraît
+284. Anthropic contraint par Washington de suspendre son IA la plus puissante : cinq questions sur une injonction qui inquiète jusqu’en France
+285. Juliette Brocal et Blanche Sabbah, deux autrices de bande dessinée qui réinventent la fantasy
+286. « L’objectif est d’aller le plus loin possible » : le speedrun dans les églises de scientologie essaime en France
+287. Arrêtons de parler de « chic », ce qui est vraiment important, c’est « l’allure »
+288. Victoire américaine, visa refusé et vol de ballons anglais… le bulletin de la Coupe du Monde de Trump
+289. « Les témoignages affluent » : Patrick Bruel visé par deux nouvelles plaintes pour viol et tentative de viol
+290. Avec les adeptes du « home exchange » : « Ce qui nous plaît, c’est le côté non marchand, l’idée du troc ! »
+291. « C’est quoi l’honneur ? » : un podcast bouleversant à la croisée d’« Intouchables » et de la justice restaurative
+292. La success-story des montres Hamilton, un fleuron aussi suisse qu’américain
+293. Plainte pour viol contre un ex-conseiller, mise en retrait, délégation retirée… Comment Jean-Michel Aulas vacille à Lyon
+294. Ce 13 juin où La Fayette a débarqué en Amérique
+295. On a testé la nouvelle Renault Twingo, la petite citadine électrique qui allie charme et prix attractif
+296. Catherine Cusset : « L’œuvre de David Hockney était une explosion de couleur et de joie. Il voulait enchanter le monde »
+297. Ce petit détail inattendu qui rendra votre tarte aux fraises unique
+298. « On trie les hommes entre “bons” et “mauvais”, ce qui met la majorité d’entre eux à l’abri d’une critique structurelle »
+299. Les Pokémon ont 30 ans et la Gen Z veut tous les attraper ... et les monétiser
+300. Romans ou essais, cinq livres puissants à découvrir ce week-end
+301. Bienvenue dans la ville de l’adultère
+302. Des centaines de milliers de deepfakes sexuels publiés et 14 000 victimes présumées : Un informaticien bientôt jugé
+303. Hockney et ses teckels : « Quand il a commencé à peindre ses petits chiens, sa notoriété a changé de nature »
+304. « On en est là parce qu’on n’a jamais vraiment cru les victimes » : Eve Simonet, créatrice du site « classés sans suite »
+305. « Ce nouveau pacte migratoire de l’UE accorde une priorité à la détention et à l’enfermement »
+306. Alain Schifres est mort, il avait décrit les familles françaises comme personne dans « le Nouvel Observateur »
+307. « Le Village de Madeleine » : carnets de campagne au cœur de la mémoire rurale
+308. 10 films à aller voir en salle avant qu’il ne soit trop tard : « The Christophers », « A Second Life », « Ma famille chérie »…
+309. Hakim Jemili et Benjamin Tranié dans « Une famille de bâtards » : « Les PMU, ce sont mes plus belles inspirations »
+310. Michaël Foessel : « Ce qui domine le monde aujourd’hui, c’est l’argent comme capital dématérialisé, comme richesse avant tout financière et abstraite »
+311. « The Hack » : au cœur du scandale des écoutes téléphoniques au Royaume-Uni
+312. Pourquoi le détroit d’Ormuz a permis à l’Iran de piéger l’Amérique : grande conversation de Pierre Haski avec Michel Foucher
+313. « Fumer me donne le temps de réfléchir à la perspective » : David Hockney, un peintre pro-tabac
+314. Ella Rumpf, Monia Chokri et Noémie Lvovsky brillent dans « Des preuves d’amour »
+315. Quand les joueurs américains et iraniens envoyaient un message de paix à la Coupe du Monde 1998
+316. Musk premier billionnaire de l’Histoire : mais au fait, ça ressemble à quoi mille milliards de dollars ?
+317. Zahia Dehar ou Simone de Beauvoir : seriez-vous « Dans la sauce » ? Testez vos connaissances
+318. Mort de Nahel : la Cour de Cassation annule la requalification des faits et ouvre la voie à un procès pour meurtre
+319. Mort de David Hockney : de la Californie à la Normandie, le prolifique peintre britannique a passé sa vie en mouvement
+320. Supporters recalés, « pauses fraîcheurs » infernales et « casse-tête » sécuritaire : le bulletin de la Coupe du Monde de Trump
+321. Festival international de Journalisme : liberté de la presse, transition écologique et besoin de fête au menu de l’édition 2026
+322. David Hockney interviewé par Olivier Assayas : « J’ai toujours pensé que le monde était absurde, mais c’est à cause de nous »
+323. Coupe du Monde : pourquoi l’équipe des Etats-Unis ne ressemble pas à l’Amérique de Trump
+324. « La sensation était celle d’une pièce dont les murs se resserrent » : un jeune Russe raconte l’étau numérique sur son pays
+325. Les crimes sexuels sur mineurs doivent-ils être imprescriptibles ? Pourquoi cette mesure fait débat
+326. Guerre au Moyen-Orient : Donald Trump se vante d’avoir trouvé « un très bon accord », l’Iran temporise... Le point sur la situation
+327. Ma vie sans smartphone ni internet : « Absolument personne sur la planète ne sait où je me trouve »
+328. « Pour nos pères, gagner le derby, c’était Mai-81 qui se prolongeait. Un but devenait un geste politique »
+329. Elon Musk billionnaire, l’argent pour seul mantra : comment sa fortune a atteint 1 000 milliards de dollars
+330. Quiz. Mathématiques, c’est l’heure du bac : saurez-vous répondre à ces 12 questions ?
+331. « On le considère enfin à sa juste valeur » : après la mort de Noahm, la justice se penche finalement sur le caractère homophobe de l’agression
+332. La mairie de Saint-Denis va porter plainte après l’accrochage d’une banderole raciste sur la basilique
+333. Chez les enfants, le cerveau porte les marques du milieu social dans lequel ils grandissent
+334. L’avenir incertain des « Territoires zéro chômeur longue durée » : « Nous payons aujourd’hui le prix d’un manque d’anticipation »
+335. Jean-Michel Aulas bousculé par une plainte pour viol visant son directeur de campagne
+336. Comment la politique migratoire répressive de Trump éclabousse déjà la Coupe du Monde 2026
+337. « La Reine Margot » avec Isabelle Adjani : sous les dentelles, l’enfer
+338. Affaire Patrick Bruel : qu’est-ce que l’obligation de soins psychologiques imposée après sa garde à vue ?
 </journal>
 
 
 <journal>
 L'Express
 droite
-334. Une start-up française sur le front en Ukraine, un atelier au Vatican sur les armes autonomes
-335. Affaire Anthropic : l'IA et les cabris de la souveraineté européenne
-336. Le théâtre ne disparaîtra pas avant la fin de l’humanité, par Christophe Donner
-337. Des romans contre l'URSS : l'opération secrète de la CIA pendant la guerre froide
-338. "Sur l'Iran, Israël pourrait ne plus bénéficier de l'aide américaine" : les conclusions de Raz Zimmt
-339. Détroit d'Ormuz : comment Washington a adopté une technique de contrebande iranienne pour exporter le pétrole
-340. Retrait de Fable 5 d’Anthropic : les meilleurs modèles d’IA sont de toute façon inabordables
-341. Le BHV change de mains et met fin à son partenariat avec Shein
-342. Epouse, alliés, anciens dirigeants : la justice espagnole rattrape le camp Sanchez
-343. "Les milliardaires dérangent moins quand ils s'appellent Taylor Swift" : la démonstration à contre-courant de Michael Strain
-344. Gilles Babinet : "Le secteur de l'IA nage dans une irrationalité complète, cela va brutalement exploser"
-345. "Cette ville est en train de mourir" : dix ans après, les illusions perdues de "Brexitland"
-346. Espionnage : l'alerte de la Chine sur des animaux marins
-347. La Russie se prépare-t-elle à affronter l'Otan ? Ces signaux qui inquiètent les pays nordiques
-348. Donald Trump assure que l'Iran ne possédera jamais d'arme nucléaire
-349. Accord Iran - Etats-Unis : les séquelles durables de la guerre dans l’économie mondiale
-350. Adhésion de l'Ukraine à l'UE : une première étape de négociations, mais un chemin encore long
-351. Retraites : pourquoi mettre l'âge de départ sous le tapis est une mauvaise idée, par Antoine Levy
-352. Détroit d'Ormuz : pourquoi la reprise du trafic maritime pourrait prendre des mois
-353. De Gaulle à Moscou en 1966 : "L'univers sait quelle importance revêt la visite que j'ai l'honneur de vous faire"
-354. Trouver un emploi avec l'IA : jusqu'où peut-elle vraiment vous aider ?
-355. Affaire Lyhanna : le piège d’une justice dictée par l’émotion, par Jean-François Copé
-356. Quand l’Académie française fait sa (petite) révolution
-357. En Europe, le Kremlin peine à transformer son influence en victoires électorales
-358. Accord entre les Etats-Unis et l'Iran : Donald Trump affirme que le détroit d'Ormuz sera "complètement ouvert" vendredi
-359. Accord entre Washington et Téhéran : Donald Trump a-t-il atteint ses objectifs de guerre ?
-360. Accord entre les Etats-Unis et l’Iran : l'humiliation pour Benyamin Netanyahou
-361. Brendan Simms : "La France n’est plus une grande puissance, contrairement au Royaume-Uni et à la Russie"
-362. "La guerre en Iran ? Un échec pour tout le monde, pas seulement pour Trump" : l’analyse choc de Bernard Haykel
-363. "Vincent Bolloré ? Un petit roi qui exige une loyauté absolue" : l'affaire Grasset vue par Tania de Montaigne et Pascal Bruckner
-364. La franchise au secours des centres-villes : notre cahier thématique
-365. "Sa méthode ? Moi ou le chaos" : comment Gilles Simeoni tente d’arracher l'autonomie de la Corse à l’Assemblée
-366. "Ils rendent les enfants malheureux" : le Royaume-Uni va interdire les réseaux sociaux aux moins de 16 ans
-367. Le sommet du G7, un barnum devenu obsolète dans le grand désordre mondial
-368. Dans le Pacifique, l'ombre chinoise plane sur la sécurité australienne
-369. "En 24 heures, j'ai été viré de ma propre entreprise" : Francis Lelong raconte son départ fracassant de Sarenza
-370. Guerre en Ukraine : la vaste réforme de Volodymyr Zelensky pour venir en aide à une armée épuisée
-371. "Le déclin de la Russie est unique dans l’Histoire" : l'évolution du monde vue par Branko Milanovic
-372. Max Frisch ou la montagne tragique, la redécouverte littéraire du mois
-373. Guerre au Moyent-Orient : ce que l'on sait de l'accord entre les Etats-Unis et l'Iran
-374. Etats-Unis : "Disneyland incarne un optimisme que les Américains ne ressentent plus vraiment"
-375. Avant le G7, Donald Trump brandit la menace douanière contre la France
-376. Guerre en Iran, Ukraine, tensions commerciales... Un G7 à Évian sous pression
-377. Dix ans après le Brexit, Marks & Spencer face à l'enfer bureaucratique
-378. "Personnalité Ozempic" : ce que la science dit vraiment de cet effet secondaire qui inquiète
-379. Frappes en Iran : un tournant pour le Moyen-Orient
-380. "Faire partie du monde libre" : en Moldavie, un rêve européen à l’ombre de la menace russe
-381. L’attaque israélienne contre Beyrouth menace l’accord en gestation de Donald Trump avec l’Iran
-382. Donald Trump annonce qu'un accord de paix avec l'Iran a été trouvé, le médiateur pakistanais annonce une signature le 19 juin à Genève
-383. Xavier Driencourt, ex-ambassadeur en Algérie : "Nous ne faisons qu'attendre la crise suivante"
-384. Giuseppe Lavazza : "Pour éviter les guerres, il faut boire plus de café !"
-385. Donald Trump ferme Anthropic aux étrangers : l’Europe découvre le prix de sa dépendance
-386. Guerre en Iran : plus d'une cinquantaine de bases militaires iraniennes endommagées, d'après la BBC
-387. Crèmes solaires, vérités et idées reçues : tout ce qu’il faut savoir pour bien protéger sa peau
-388. Dans l'antre de la prunelle de Troyes
-389. Comment Arsène Lupin peut-il nous inspirer ?
-390. "On est entré dans la phase Mad Max" : la folle course à l’énergie des géants de l’IA
-391. Défense : la France peut-elle tenir la cadence allemande ? Les vérités du patron de l'armement
-392. Syrie : malgré la chute de Bachar el-Assad, la Russie s'accroche à ses bases militaires
-393. Laetitia Strauch-Bonart : "Etrangement, la France ne va jamais assez mal pour être réformée"
-394. Moyen-Orient : l’Iran exclut la signature d’un accord avec les Etats-Unis dimanche
-395. Ciao Energy, Holy, Prime Hydration... Les vrais bénéfices des sodas des Youtubeurs
-396. "Applications de rencontre", "préservatif" et "PCR" : pourquoi les IST explosent en Europe
-397. IA : dans quels pays la défiance est-elle la plus forte ?
-398. Être conservateur nuit-il à la santé ? Ce que révèle une étude scientifique menée aux Etats-Unis
-399. Italie : Roberto Vannacci, l’ultranationaliste qui menace Giorgia Meloni
-400. Champagne ! Les comtes sont de retour
-401. La vie hors norme de Germaine de Staël : une certaine idée de l’Europe
-402. Présidentielle 2027 : Raphaël Glucksmann ou la solitude d'un presque candidat
-403. Derrière l'affaire Lyhanna, les moyens de la justice en question : ces leçons venues d'Europe
-404. Après l’échec du Scaf, la France et l’Allemagne peuvent-elles réussir à s’entendre sur l’énergie ?
-405. David Hockney, dernière superstar de la peinture contemporaine
-406. Fusion entre SpaceX et Tesla ou cannibalisation : quel avenir pour l’empire d’Elon Musk ?
-407. Guerre en Iran : Washington et Téhéran se rapprochent d'un accord de paix
-408. Guerre froide dans l’aéronautique : nouveau bras de fer entre Dassault et Airbus
-409. Renseignement américain : Donald Trump recule face aux critiques et lâche son protégé
-410. Ventes de livres : Boualem Sansal a-t-il réussi son lancement ?
-411. En Amérique latine, la poussée de l’extrême droite s’accélère
-412. Coupe du monde : "L’économie du foot ressemble plus à du marxisme qu’à du libéralisme"
-413. Mort de David Hockney : quand L'Express brossait le portrait du "Wahrol anglais" en 1974
-414. Rima Hassan trop radicale pour le nouveau Jean-Luc Mélenchon ? Le dilemme de LFI en vue de 2027
-415. Moyen-Orient : le chef de l'armée iranienne menace d'une guerre "plus étendue" en cas de nouvelles attaques américaines
-416. Un accord "ce week-end" ? Pourquoi Donald Trump a finalement renoncé à frapper l'Iran
-417. "Darmanin, démission !" : de quoi les ministres sont-ils responsables ?
-418. Boissons énergisantes : "Il y a un fossé qualitatif énorme entre les Etats-Unis et l'Europe"
-419. Autisme, TDAH, schizophrénie... Le paradoxe des troubles cognitifs et mentaux héritables, par Franck Ramus
-420. Le défi de la Moldavie, entre ambitions européennes et ingérences russes
-421. "Il ne faut pas laisser le Moyen-Orient à un cercle de diplomates américains !" : l'alerte de Sven Koopmans
-422. Royaume-Uni : comment des milliards d'argent public ont atterri dans les poches des ennemis de la Couronne
-423. Pourquoi les Etats-Unis ou la France risquent de se transformer en gérontocraties, par Stephen Smith
-424. Un an de télétravail : ce que j’ai appris à 5 800 kilomètres de mon équipe
-425. Jean-Luc Mélenchon impressionne l’exécutif, la solitude de Gérald Darmanin
-426. Hélicoptère américain abattu : une audacieuse opération de sauvetage menée par un drone naval
-427. La ministre des Sports et les pierres magiques : un symbole de la déliquescence du politique
-428. La Russie est-elle incapable de protéger ses hauts gradés ? Ce nouvel attentat qui pose question
-429. Retraites : le rapport du COR met les présidentiables au pied du mur, par Bertrand Martinot
-430. Irlande du Nord : Belfast secouée par des "violences racistes" après une attaque au couteau
-431. IA, nouveaux emplois, compétences… Les prévisions de LinkedIn pour le marché du travail
-432. Coupe du monde 2026 : la chaleur rendra-t-elle la compétition moins passionnante ?
-433. Retraites, comment font nos voisins ? Plongée dans une Europe à deux vitesses
+339. Santé mentale : une grande cause nationale, vraiment ? Par le Pr Antoine Flahault
+340. EN DIRECT. Accord entre les Etats-Unis et l'Iran : la réunion prévue aujourd'hui en Suisse reportée
+341. "Les armées ont désormais besoin d’analyses produites en quelques minutes" : le décryptage du n°2 de Safran.AI
+342. Nucléaire iranien : la mission impossible de Donald Trump
+343. "Après vingt ans de malentendus et deux vetos gaulliens..." : en 1971, la Grande-Bretagne disait enfin oui à l’Europe
+344. G7 : comment le club des puissants est devenu obsolète
+345. Collège de Paris : l'étrange affaire des cartes Pokémon prend une nouvelle tournure
+346. Accord Iran-Etats-Unis : Emmanuel Macron "ne croit pas qu'on puisse dire" que la guerre "est totalement terminée"
+347. Face à la Chine, l'offensive douanière d'Emmanuel Macron gagne du terrain
+348. Syrie : un an et demi après la chute de Bachar el-Assad, la justice toujours attendue
+349. "La Chine peut aider les Européens à devenir meilleurs" : les leçons d'un universitaire proche de Xi Jinping
+350. "Nous ne comprenons pas ce que nous avons développé" : l'appel du prêtre à l'origine du code moral de Claude
+351. Face aux menaces russes, l’Otan renforce sa dissuasion nucléaire
+352. Jordan Bardella en Pologne : le piège russe avant la présidentielle 2027
+353. Guerre des drones : la peur grandissante de Moscou face aux attaques de l'Ukraine
+354. Le pronostic d'Emmanuel Macron pour 2027, l'invitation surprise d'Edouard Philippe
+355. Cristaux de roche, chakras et fleurs de Bach : quand La Poste promeut les soins ésotériques
+356. Piyush Goyal, ministre indien du Commerce : "Nous sommes en bonne voie vers un accord avec les Etats-Unis"
+357. Royaume-Uni : l'élection locale qui pourrait déterminer le sort de Keir Starmer
+358. "Donald Trump s'est fait berner" : l'accord avec l'Iran vu de l'étranger
+359. Comment devenir un bon manager ? L’avis à contre-courant du président de l'université IE de Madrid
+360. ChapsVision, le Palantir européen ? Récit d'une percée... et de ses angles morts
+361. Brexit : les leçons de la nuit où j’ai vu le Royaume-Uni basculer, par Catherine Fieschi
+362. L’accord entre les Etats-Unis et l’Iran décrypté par Raz Zimmt : "Il y a des lacunes significatives"
+363. Patrimoine : l’éducation financière, un enjeu primordial
+364. Détroit d'Ormuz, nucléaire, sanctions... Ce que contient l'accord signé par Donald Trump avec l'Iran
+365. En laissant filer la locomotive de l'IA, l'Europe court un grave danger
+366. Dix ans après le Brexit, la revanche du plombier polonais
+367. "Il est faux de dire qu’il n’est pas rentable d'investir en Europe" : le plaidoyer de la patronne d'Amundi
+368. La plateforme EU Score s'attaque à la cartographie de la tech européenne
+369. Brexit : le vote que personne n’avait vu venir
+370. "A moins d’un milliard, vous ne me dérangez pas" : les candidats à l’Elysée et les déficits, une folie française
+371. Guerre au Moyen-Orient : les premiers détails du protocole d'accord entre les Etats-Unis et l'Iran dévoilés
+372. Le téléphone portable interdit au lycée dès le 1er septembre, une tendance déjà bien ancrée en Europe
+373. LVMH, la délicate succession de Bernard Arnault : rivalités, secrets de famille et boucle WhatsApp
+374. Au sommet du G7, Donald Trump se montre prêt à rouvrir le dossier ukrainien
+375. Dix ans après le Brexit, l'horizon européen d’un Royaume-Uni plus pauvre, plus triste et plus divisé
+376. Guerre en Ukraine : l’UE accuse la Chine de former des militaires russes
+377. La France doit en finir avec la fiction du Hezbollah politique, par Sarah Perez
+378. Immigration : le Parlement européen adopte un durcissement sans précédent de la politique de l'UE
+379. Accord de Donald Trump avec l'Iran : les craintes des faucons de guerre américains
+380. Syrie : la France face à une occasion historique, par Amar Sabeh el Leil
+381. Tensions dans la Manche : ce que l'on sait des tirs de semonce d'une frégate russe
+382. Une start-up française sur le front en Ukraine, un atelier au Vatican sur les armes autonomes
+383. Affaire Anthropic : l'IA et les cabris de la souveraineté européenne
+384. Le théâtre ne disparaîtra pas avant la fin de l’humanité, par Christophe Donner
+385. Des romans contre l'URSS : l'opération secrète de la CIA pendant la guerre froide
+386. Détroit d'Ormuz : comment Washington a adopté une technique de contrebande iranienne pour exporter le pétrole
+387. Retrait de Fable 5 d’Anthropic : les meilleurs modèles d’IA sont de toute façon inabordables
+388. Le BHV change de mains et met fin à son partenariat avec Shein
+389. Epouse, alliés, anciens dirigeants : la justice espagnole rattrape le camp Sanchez
+390. "Les milliardaires dérangent moins quand ils s'appellent Taylor Swift" : la démonstration à contre-courant de Michael Strain
+391. Gilles Babinet : "Le secteur de l'IA nage dans une irrationalité complète, cela va brutalement exploser"
+392. "Cette ville est en train de mourir" : dix ans après, les illusions perdues de "Brexitland"
+393. Espionnage : l'alerte de la Chine sur des animaux marins
+394. La Russie se prépare-t-elle à affronter l'Otan ? Ces signaux qui inquiètent les pays nordiques
+395. Donald Trump assure que l'Iran ne possédera jamais d'arme nucléaire
+396. Accord Iran - Etats-Unis : les séquelles durables de la guerre dans l’économie mondiale
+397. Adhésion de l'Ukraine à l'UE : une première étape de négociations, mais un chemin encore long
+398. Retraites : pourquoi mettre l'âge de départ sous le tapis est une mauvaise idée, par Antoine Levy
+399. Détroit d'Ormuz : pourquoi la reprise du trafic maritime pourrait prendre des mois
+400. De Gaulle à Moscou en 1966 : "L'univers sait quelle importance revêt la visite que j'ai l'honneur de vous faire"
+401. Trouver un emploi avec l'IA : jusqu'où peut-elle vraiment vous aider ?
+402. Affaire Lyhanna : le piège d’une justice dictée par l’émotion, par Jean-François Copé
+403. Quand l’Académie française fait sa (petite) révolution
+404. En Europe, le Kremlin peine à transformer son influence en victoires électorales
+405. Accord entre les Etats-Unis et l'Iran : Donald Trump affirme que le détroit d'Ormuz sera "complètement ouvert" vendredi
+406. Accord entre Washington et Téhéran : Donald Trump a-t-il atteint ses objectifs de guerre ?
+407. Accord entre les Etats-Unis et l’Iran : l'humiliation pour Benyamin Netanyahou
+408. Brendan Simms : "La France n’est plus une grande puissance, contrairement au Royaume-Uni et à la Russie"
+409. "La guerre en Iran ? Un échec pour tout le monde, pas seulement pour Trump" : l’analyse choc de Bernard Haykel
+410. "Vincent Bolloré ? Un petit roi qui exige une loyauté absolue" : l'affaire Grasset vue par Tania de Montaigne et Pascal Bruckner
+411. La franchise au secours des centres-villes : notre cahier thématique
+412. "Sa méthode ? Moi ou le chaos" : comment Gilles Simeoni tente d’arracher l'autonomie de la Corse à l’Assemblée
+413. "Ils rendent les enfants malheureux" : le Royaume-Uni va interdire les réseaux sociaux aux moins de 16 ans
+414. Le sommet du G7, un barnum devenu obsolète dans le grand désordre mondial
+415. Dans le Pacifique, l'ombre chinoise plane sur la sécurité australienne
+416. "En 24 heures, j'ai été viré de ma propre entreprise" : Francis Lelong raconte son départ fracassant de Sarenza
+417. Guerre en Ukraine : la vaste réforme de Volodymyr Zelensky pour venir en aide à une armée épuisée
+418. "Le déclin de la Russie est unique dans l’Histoire" : l'évolution du monde vue par Branko Milanovic
+419. Max Frisch ou la montagne tragique, la redécouverte littéraire du mois
+420. Guerre au Moyent-Orient : ce que l'on sait de l'accord entre les Etats-Unis et l'Iran
+421. Etats-Unis : "Disneyland incarne un optimisme que les Américains ne ressentent plus vraiment"
+422. Avant le G7, Donald Trump brandit la menace douanière contre la France
+423. Guerre en Iran, Ukraine, tensions commerciales... Un G7 à Évian sous pression
+424. Dix ans après le Brexit, Marks & Spencer face à l'enfer bureaucratique
+425. "Personnalité Ozempic" : ce que la science dit vraiment de cet effet secondaire qui inquiète
+426. Frappes en Iran : un tournant pour le Moyen-Orient
+427. "Faire partie du monde libre" : en Moldavie, un rêve européen à l’ombre de la menace russe
+428. L’attaque israélienne contre Beyrouth menace l’accord en gestation de Donald Trump avec l’Iran
+429. Donald Trump annonce qu'un accord de paix avec l'Iran a été trouvé, le médiateur pakistanais annonce une signature le 19 juin à Genève
+430. Xavier Driencourt, ex-ambassadeur en Algérie : "Nous ne faisons qu'attendre la crise suivante"
+431. Giuseppe Lavazza : "Pour éviter les guerres, il faut boire plus de café !"
+432. Donald Trump ferme Anthropic aux étrangers : l’Europe découvre le prix de sa dépendance
+433. Guerre en Iran : plus d'une cinquantaine de bases militaires iraniennes endommagées, d'après la BBC
+434. Crèmes solaires, vérités et idées reçues : tout ce qu’il faut savoir pour bien protéger sa peau
+435. Dans l'antre de la prunelle de Troyes
+436. Comment Arsène Lupin peut-il nous inspirer ?
+437. "On est entré dans la phase Mad Max" : la folle course à l’énergie des géants de l’IA
+438. Défense : la France peut-elle tenir la cadence allemande ? Les vérités du patron de l'armement
 </journal>
 
 
 <journal>
 Marianne
 gauche
-434. Attal, Ruffin, Glucksmann... "À quoi servent encore les livres des candidats ?"
-435. Ève Szeftel : "Le point commun entre Trump et LFI ? Leur indifférence à l’égard du peuple iranien"
-436. Coupe du monde 2026 à la télé : M6 fait de l’antijeu
-437. Documentaire sur Patrick Bruel : des journalistes de Mediapart et d’Elle se sont-elles fait arnaquer par CNews ?
-438. Paranoïa, confiance en baisse, élites inquiètes : ce que révèlent les fragilités intérieures de Vladimir Poutine
-439. Laurence Rossignol, ex-ministre des Droits des femmes : "Il y a plus de moyens consacrés à la délinquance de rue qu’aux violences sexuelles"
-440. "Il faut une volonté politique et ce n'est pas gagné" : à Saint-Nazaire, des manifestants anti-violences sexuelles guère optimistes
-441. Diplomatie : "Et si l'Europe suivait la voie du multi-alignement de l'Inde ?"
-442. "Il est parti trop vite" : Gérald Darmanin empêtré dans l'affaire Lyhanna
-443. IA, montée des populismes... Face à de nouveaux défis, "la culture n'est pas morte", assure Arnaud Idelon
-444. L’administration fançaise plonge dans le grand bain de l’IA souveraine
-445. La nouvelle épreuve de maths au bac est-elle trop facile ? Ce que révèle vraiment la polémique
-446. L'intelligence artificielle courtisée en bourse : tiens, une autre bulle !
-447. Anaïs Voy-Gillis : "La réindustrialisation ne se déploie jamais sur une page blanche"
-448. Accord entre l’Iran et les États-Unis : mais qui a vraiment gagné la guerre ?
-449. La pièce "Passeport" déprogrammée à Castres : il n'y a pas que le RN qui joue les censeurs
-450. "Un retour de boomerang" : en Espagne, le gouvernement Sanchez face au mur
-451. Si la Coupe du monde 2026 se solde par un fiasco pour les Bleus, les polémiques pourraient ressurgir
-452. "La dette publique est la résultat d'une mauvaise foi institutionnalisée"
-453. EXCLUSIF. Christine Fauré a-t-elle été assassinée par le tueur en série Guy Georges ?
+439. "Coluche s’apparenterait à un populisme de gauche" : l'analyse du sociologue Jean-Louis Fabiani
+440. Frédéric Taddeï : "Gérald Darmanin ou la culture des excuses aux Français"
+441. Un élu RN qui sort le crucifix en plein conseil municipal, un James Bond trop "woke" : mieux vaut en rire
+442. Avec l'accord entre l'Iran et les États-Unis, "le Liban ne se dirige ni vers la paix ni vers la sécurité"
+443. Féminicide de Maggie à Cavaillon : les défaillances des gendarmes avant le drame
+444. Char du futur pour remplacer le Leclerc : le couple franco-allemand a trouvé la parade pour limiter la casse
+445. Ingérence étrangère :  Elnet, le lobby pro-Israël dans le viseur des autorités françaises
+446. La politologue Virginie Martin : "Les séries révèlent que le pouvoir est lui-même une mise en scène permanente"
+447. "Le Liban vient de faire voler en éclats la fiction des deux Hezbollah"
+448. Fête de la musique : la préfecture de Paris interdit le concert des Insoumis, un bras de fer s'engage
+449. Trop peu de sanctions pour les magistrats, médecins ou autres gendarmes ? Les vrais chiffres des professions réglementées
+450. Salon VivaTech : Cocorico ! Quinze entreprises de la tech française certifiées "Numérique France Garanti"
+451. "L’entreprise est un lieu où la dignité de chaque personne peut se construire concrètement"
+452. Affaire Lyhanna : "L’Espagne compte deux fois plus de procureurs pour 100 00 habitants que la France"
+453. "Arrête d'avoir l'air d'un homme-soja" : le conseil de son entourage à Raphaël Glucksmann avant son meeting
+454. Paul St-Pierre Plamondon, chef du parti québécois : "Nos peuples ne peuvent plus assumer leur identité"
+455. Razika Adnani : "Les États-Unis précipiteront-ils la guerre entre l’Iran et l’Arabie Saoudite ?"
+456. Animateur relaxé dans le périscolaire parisien : les raisons d'un jugement critiqué
+457. Mélenchon, Le Pen, Roussel, Lassalle... Pour qui voterait Coluche ?
+458. Nationalisation d'ArcelorMittal : du rififi chez les ciottistes
 </journal>
 
 
 <journal>
 La Croix
 gauche
-454. DIRECT. Guerre au Moyen-Orient : Israël frappe le Liban ; l’exportation de pétrole iranien reprend
-455. Un navire de guerre russe tire des coups de semonce sur un yacht dans la Manche
-456. L’Ukraine et le grand secret
-457. Coupe du monde 2026 : Mbappé bat le record de Giroud avec un 58e but en équipe de France
-458. Résultats Coupe du monde 2026 : le Sénégal vaincu par les Bleus ; triplé de Messi contre l’Algérie
-459. Présidentielle 2027 : sans candidat, le MoDem en mode survie
-460. « Ulysse » de Lætitia Masson : l’odyssée bouleversante d’un enfant handicapé et de sa mère
-461. Pour Léon XIV, l’idée d’une « guerre juste » est impensable à notre époque
-462. Guerre en Ukraine : avec ses drones et ses missiles, Kiev rend coup pour coup à la Russie
-463. Coupe du monde 2026 : les supporteurs sénégalais ont cru à l’exploit avant le réveil des Bleus
-464. De Poutine à Trump : le château de Versailles, un symbole de la diplomatie à la française
-465. Espagne : les déboires judiciaires de l’ancien premier ministre Zapatero plombent les socialistes
-466. La foi au secret du cœur. Commentaire de l’Évangile du mercredi 17 juin
-467. Mondial 2026, Iran, G7… Que se passe-t-il vraiment dans le monde ?
-468. Mort du cardinal Camillo Ruini, ex-homme fort de l’ère Jean-Paul II
-469. La Banque de France abaisse nettement sa prévision de croissance pour 2026
-470. Guerre en Ukraine, jour 1574 : Trump prêt à sanctionner la Russie ; frappe sur une raffinerie de Moscou
-471. Guerre au Moyen-Orient, jour 109 : le blocus américain levé… Le bilan du mardi 16 juin
-472. Le Parlement entérine l’allongement de la durée de rétention pour les étrangers jugés dangereux
-473. 1er-Mai : le projet de loi sur le travail des boulangers et fleuristes approuvé au Sénat
-474. Le Royaume-Uni enquête sur des tirs de semonce d’un navire de guerre russe dans la Manche
-475. Guerre en Ukraine : bombardements et pénuries s’installent dans le quotidien des Russes
-476. Les ONG internationales sur le front de leurs personnels déviants : « Ces problèmes graves ne sont plus ignorés »
-477. « Shana » de Lila Pinell : un récit d’émancipation d’une jeune femme sensible et vivifiant
-478. Plus de 700 migrants ont traversé la Manche lundi, un record depuis le début de l’année
-479. Couple : pourquoi près d’un tiers des ruptures auraient pu être évitées
-480. Animateur de périscolaire relaxé : les raisons d’une décision qui indigne les familles
-481. L’Europe est-elle condamnée à être une « colonie numérique » des États-Unis ?
-482. Intelligence artificielle : l’urgence de la souveraineté européenne
-483. Détroit d’Ormuz : pourquoi l’économie française devrait s’en tirer un peu mieux que la moyenne mondiale
-484. « L’Illusion de Yakushima » de Naomi Kawase : récit poétique d’une lutte pour le cœur d’un enfant
-485. Football : « Il faut créer des espaces de fête sécurisés où la joie collective puisse s’exprimer sans violence »
-486. Canicule : pourquoi la nouvelle vague de chaleur sera plus intense que celle de mai ?
-487. « La Caverne du Pont-Neuf » de JR : voyage souterrain au-dessus de la Seine
-488. Cyberattaques : deux suspects, dont un mineur, mis en examen pour le vol de millions de données
-489. « Nous sommes la majorité ! Agissez ! » : en Allemagne, ils mobilisent contre l’extrême droite
-490. « Toy Story 5 » : la révolte des jouets face aux écrans
-491. Sites pornographiques : l’UE autorise les États membres à vérifier l’âge des internautes
-492. L’invasion des sargasses aux Antilles, entre fléau toxique et perspectives d’avenir
-493. Le marché florissant des bilans de santé préventifs investi par des start-up
-494. Caïn et Abel, l’histoire à l’origine de nos violences
-495. Annette Becker, historienne : « On croit toujours que l’on se bat pour la dernière fois »
-496. Union européenne : les IA qui dénudent les personnes bientôt illégales
-497. Réseaux sociaux, IA… 5 choses à retenir du rapport Reuters 2026 sur le journalisme
-498. « Léon XIV est une chance pour la vieille Europe »
-499. Le BHV Marais cédé à un nouvel exploitant qui va arrêter la collaboration avec Shein
-500. « Lyhanna, c’est l’affaire de trop » : des victimes de violences sexuelles manifestent pour être enfin écoutées
-501. Menace sur le vin français : pourquoi la « taxe Gafam » suscite l’ire de Donald Trump
-502. Lettre de la femme-enfant
-503. Lyon : les tours de Notre-Dame de Fourvière, objet d’un minutieux sauvetage « moderne mais artisanal »
+459. Mont-Saint-Michel : le changement de gouvernance de son abbaye met-il en péril le Centre des monuments nationaux ?
+460. Mort de Lyhanna : « La justice n’est pas réparée, elle est tout juste rapiécée »
+461. Fête de la musique, solstice d’été et fête des pères : quel week-end !
+462. Guerre au Moyen-Orient : frappes sur le sud du Liban ; les négociations en Suisse reportées
+463. Colombie : accord de paix avec le gouvernement Petro, une centaine de guérilleros déposent les armes
+464. Royaume-Uni : le travailliste Andy Burnham facilement élu député, en position de défier Starmer
+465. Nigeria : mobilisation pour libérer Leah Sharibu, retenue comme « esclave à vie » par Boko Haram en raison de sa foi
+466. Résultats Coupe du monde 2026 : la Suisse étrille la Bosnie, le Mexique qualifié en 16es de finale
+467. La Cité du cinéma d’animation, oasis végétale et culturelle à Annecy
+468. Présidentielle 2027 : Bruno Retailleau lance sa campagne et espère créer une dynamique
+469. Le défi de forger la « force d’âme » de la nation, face à un retour de la guerre
+470. Canicule : la Fête de la musique annulée dans plusieurs villes
+471. Niger : l’aéroport de Niamey attaqué, treize morts dont onze soldats
+472. Guerre au Moyen-Orient, jour 111 : levée du blocus américain, accord signé... Le bilan du jeudi 18 juin
+473. Moyen-Orient, Ukraine, canicule… Ce qu’il faut retenir de l’allocution d’Emmanuel Macron
+474. Guerre en Ukraine, jour 1576 : ce qu’il faut retenir de la situation du jeudi 18 juin
+475. Enseignement privé : la formation des enseignants scrutée par la Cour des comptes
+476. Guerre au Moyen-Orient : entre les États-Unis et l’Iran, un plan de paix à l’issue fragile
+477. Consommation de drogue : tests salivaires dans les ministères, et qu’en est-il en entreprise ?
+478. Chez Volkswagen, une « menace existentielle » plane sur le groupe
+479. Émotions de Rio
+480. Voyage du pape : Léon XIV devrait se rendre au Pérou en novembre selon le président Balcazar
+481. Au prochain consistoire, la méthode de Léon XIV pour faire remonter la parole du terrain
+482. CNews : la Cour européenne des droits de l’homme conforte la mise en demeure de l’Arcom
+483. Accord entre l’Iran et les États-Unis : la population iranienne, grande oubliée d’un traité incertain
+484. Plan de paix États-Unis-Iran, les Iraniens sont sacrifiés
+485. À Hébron, la crainte d’une mainmise d’Israël sur le Caveau des Patriarches : « un mépris total envers les sites religieux »
+486. Ukraine au G7 : trois questions pour comprendre les promesses faites à Zelensky à Évian
+487. Coupe du monde 2026 : le Canada, parent pauvre de l’organisation
+488. « Trump semble avoir compris que Netanyahou l’a conduit dans une impasse »
+489. Action sociale : les communes face au risque dâ€™un affaiblissement du Â« premier rÃ©seau de solidaritÃ© Â»Â
+490. Mont-Saint-Michel : pourquoi les moines des Fraternités de Jérusalem quittent l’abbaye
+491. Golfe de Gascogne : la pêche fermée quatre semaines en 2027 pour protéger les dauphins
+492. Canicule : la vigilance orange étendue à 53 départements vendredi
+493. Accord entre les États-Unis et l’Iran : le premier ministre pakistanais, médiateur de façade
+494. « En convoquant l’histoire, les œuvres de cinéma soulignent l’épaisseur des temps présents »
+495. « Cette “guerre qui vient” contre la Russie est en fait déjà là et nous en subissons les effets »
+496. Comprendre ce qui divise et relie les Français : immersion dans un village de la Sarthe
+497. Pharmaciens : une profession en croissance… mais pas partout en France
+498. Donald Trump face à l’Iran : le « boss » est nu
+499. De Louis XIV à Trump : le château de Versailles, écrin de nombreux traités historiques
+500. Accord Iran et États-Unis : Mohammad Bagher Ghalibaf, artisan du compromis avec Washington
+501. Barack Obama inaugure en grande pompe un musée à Chicago, exaltant les valeurs démocratiques : « Nous, le peuple »
+502. De Léon XIII à Léon XIV, une même inquiétude face aux dérives du capitalisme
+503. Médias : « Les lecteurs sont les nouveaux gardiens du pluralisme »
+504. « Les Fers et le Fouet » de Vincent Hugeux : l’esclavage, histoire sans fin de cruauté et de résistance
+505. « L’Homme du Sud » de Penn Cage : le testament de Greg Iles
+506. À VivaTech, l’Europe technologique défend sa place face à l’impérialisme américain
+507. « Premières notes » : un documentaire sur la musique des âges farouches
+508. Accord entre l’Iran et les États-Unis : retrouvez le texte complet du protocole en 14 points
 </journal>
 
 
 <journal>
 Ouest-France
 droite
-504. Malus de 10 €, pub interdite... Ce que contient la version finale de la proposition de loi contre la mode jetable
-505. Coupe du monde. « Une statistique, rien de plus » : Lionel Messi calme le jeu après son record de buts au Mondial
-506. Pourquoi il ne faut pas remplir son réservoir à ras bord après le « clic » du pistolet à essence
-507. « Good American Family » : Ellen Pompeo en mère parfaite dans une série percutante et perturbante sur TF1
-508. Coupe du monde. Pourquoi Luca Zidane, gardien de l’Algérie, portait-il un masque contre l’Argentine ?
-509. Affaire Lyhanna : « Dire que de manière systémique la justice est responsable, ce n’est pas juste »
-510. Partir en vacances avec les parents comme « quand on était petits » : ils racontent
-511. « Enfants de la Creuse » : le Parlement entérine une loi de réparation pour les Réunionnais arrachés à leur île
-512. ENTRETIEN. « Les stades américains de la Coupe du monde, c’est comme Disneyland ! »
-513. VIDÉO. Quatre mètres de haut, onze tonnes... Pourquoi Michelin mise sur ces pneus de l’extrême
+509. Après son succès au concours Lépine, Mr Turbino voit grand pour débarrasser la mer de ses déchets
+510. Achraf Hakimi. La cour d’appel se prononce sur le renvoi en procès pour viol du Marocain, présent à la Coupe du monde
+511. INFOGRAPHIES. Précocité, intensité, durée : ce qu’il faut retenir de cette 52e vague de chaleur qui débute
+512. « Il vous a tout donné » : les coéquipiers de Cristiano Ronaldo au Mondial pris pour cibles sur les réseaux sociaux
+513. ENTRETIEN. « Platini me remercie, après m’avoir remonté comme une pendule… » : Luis Fernandez revit France-Brésil 1986
+514. Athlétisme. Des championnats de Bretagne boudés par l’élite ? « Il faut mettre les athlètes dans de bonnes conditions »
+515. Coupe du monde. L’Iran dénonce des « restrictions contraires au principe d’égalité » et va porter plainte contre la Fifa
+516. « Quelqu’un a mis quelque chose dans son verre » : la lettre bouleversante d’un mondialiste après la mort de sa sœur
+517. Thomas Tuchel a fait plier la Fifa ! Le positionnement des photographes pendant les hymnes ajusté en Coupe du monde
+518. Ligue 3. Entre Stéphane Moulin et l’US Concarneau, une histoire de valeurs communes
 </journal>
 
 
 <journal>
 Europe 1
 droite
-514. «On va conquérir les États-Unis» : les supporters de l'équipe de France sur un petit nuage après la victoire face au Sénégal
-515. Immigration : le Parlement européen se prononce mercredi sur un texte visant à faciliter l'expulsion des migrants illégaux
-516. Mondial-2026 : avec désormais 16 buts en Coupe du monde, Messi égale le record du nombre de but en compétition
-517. Tapis rouge, feu d'artifice et visite privée... Donald Trump, invité d'honneur au château de Versailles pour les 250 ans de l'indépendance américaine
-518. Soutien à l'Ukraine, échanges fructueux avec Donald Trump... Quelles sont les avancées diplomatiques concrètes de la France pendant le G7 ?
-519. Coupe du monde 2026 : l'équipe de France réussit son entrée en lice avec une victoire solide contre le Sénégal (3-1)
-520. Travail le 1er-Mai : le Sénat adopte le projet de loi autorisant le travail des salariés des boulangers et fleuristes
-521. G7 : avant la signature de l'accord avec l'Iran, Donald Trump se dit prêt à sanctionner la Russie pour résoudre le conflit ukrainien
-522. «Les problèmes auditifs ne touchent pas que les séniors» : avertit Michel Tonnard, le directeur général d'Audika
-523. G7 à Évian : Donald Trump était au cœur des discussions sur l'Ukraine et le conflit au Moyen-Orient
-524. Francis Heaulme, «le retour du crime», renvoyé devant les assises pour le meurtre d'un agriculteur en 1989
-525. Un animateur du périscolaire parisien jugé pour harcèlement sexuel relaxé, une décision qui provoque la colère des parents des victimes
-526. Coupe du monde 2026 : avant Sabri Lamouchi, quatre sélectionneurs ont quitté leur poste pendant un Mondial
-527. Loi «Philippine» : le Parlement entérine l'allongement de la durée de rétention pour les étrangers jugés dangereux
-528. Un animateur du périscolaire relaxé à Paris : «Ça donne le sentiment que la justice ne prend pas ces affaires au sérieux»
-529. Coupe du monde 2026 : un supporter des Bleus dévoile son budget pour assister à la phase de groupes
-530. Débordements après des matchs de football : «Ça nous alerte sur le degré de violence dans notre pays», affirme Axel Ronde
-531. Wimbledon : Venus et Serena Williams disputeront le double ensemble
-532. Coupe du monde 2026 : des violences éclatent entre les supporters algériens et argentins dans les rues de Times Square
-533. Cyberattaques : deux hackers de 15 et 22 ans mis en examen, suspectés d'avoir dérobé des données d'entreprises et de l'Assemblée nationale
-534. Formule 1 : Madrid inaugure son circuit qui accueillera la discipline en septembre
-535. «C'était un ras-le-bol» : ce patron de brasserie se fait cambrioler et décide de dévoiler le visage du malfrat sur les réseaux sociaux
-536. Périscolaire à Paris : un animateur relaxé d'agressions sexuelles par le tribunal correctionnel
-537. Corse : l'île de Beauté va-t-elle obtenir des députés un statut d'autonomie au risque de fragiliser la République ?
-538. G7 : à Évian, Volodymyr Zelensky veut remettre la guerre en Ukraine au centre des discussions
-539. Royaume-Uni : face à la montée de l’immigration, «on veut récupérer le contrôle de notre pays», affirme Matthew Goodwin
-540. Loi Philippine : après le vote favorable des sénateurs, les députés doivent se prononcer sur le texte ce mardi
-541. Travail : 32% des Français déclarent souffrir de fatigue visuelle, les écrans pointés du doigt
-542. Léa Salamé en retrait du 20H à cause de Raphaël Glucksmann ? «Les femmes n'ont pas à se sacrifier pour les intérêts professionels de leur mari»
-543. Mort de 31 migrants dans la Manche fin 2021 : procès ordonné pour 14 personnes
-544. Projet du char franco-allemand du futur : la France «raisonnablement optimiste»
-545. Le BHV Marais cédé à un nouvel exploitant qui va arrêter la collaboration avec Shein
-546. Les émissions de gaz à effet de serre ont plus baissé que prévu en 2024 et 2025
-547. Lyhanna : le Conseil de Paris appelle à l'examen d'une «loi intégrale» contre les violences sexuelles
-548. Après l'affaire Lyhanna, les députés UDR veulent durcir les peines pour les crimes sur mineurs
-549. La chanteuse Bonnie Tyler est sortie du coma
-550. Moyen-Orient : l'inquiétude d'Israël face à l'accord trouvé entre l'Iran et les États-Unis
-551. «J'y pense le matin, le soir» : les supporters des Bleus trépignent d'impatience avant la rencontre France-Sénégal
-552. Paris La Défense Arena change de nom et devient Plenitude Arena
-553. Moyen-Orient : va-t-on vers la mise en place d'un péage dans le détroit d'Ormuz ?
-554. INFO EUROPE 1 - Projet d’enlèvement à l’explosif d’un dabiste : deux nouvelles interpellations
-555. Affaire Lyhanna : «La République a perdu sa capacité de protéger tous ses enfants», estime le député Charles Rodwell
-556. La France va investir 655 millions d'euros supplémentaires dans l'IA, annonce Lecornu
-557. Musculation : une étude menée sur plus de 140.000 personnes identifie la dose hebdomadaire la plus bénéfique
-558. Détroit d’Ormuz : la chasse aux mines sous-marines, une spécialité française entretenue de longue date
-559. Coupe du monde : l'heure de vérité est arrivée pour les Bleus, qui défient le Sénégal
-560. En direct - Moyen-Orient : l'accord entre l'Iran et les États-Unis sera signé ce vendredi au Burgenstock, près de Lucerne
-561. INFO EUROPE 1 - Sacre du PSG : plus de la moitié des interpellés étaient connus de la police, 62 départements touchés par les violences urbaines
-562. Affaire Lyhanna : une nouvelle alerte concernant Jérôme Barella découverte dans les dysfonctionnements
-563. Droits de douane sur le vin : Emmanuel Macron dit vouloir «une discussion respectueuse mais ferme» avec Donald Trump
+519. La canicule s'étend, avec 53 départements en vigilance orange
+520. Violences urbaines : la zone d'ombre que le renseignement compte éclaircir
+521. En direct - Accord États-Unis-Iran: les négociations prévues vendredi en Suisse «reportées»
+522. Corse : le texte sur son autonomie bientôt voté à l'Assemblée, son adoption sous Emmanuel Macron incertaine
+523. Violences, pillages et agressions : les autorités redoutent de nombreuses exactions en marge de la Fête de la musique ce dimanche à Paris
+524. Meurtre de Lyhanna : la collégienne a été violée, révèle l'autopsie
+525. Tami, la solution qui utilise l'intelligence artificielle pour faciliter les recrutements
+526. Périscolaire Paris : une vingtaine d'élus de droite, dont Rachida Dati, mettent en cause la Ville
+527. Canicule : la préfecture de police recommande l'annulation des événements sportifs en plein air à Paris et petite couronne
+528. «Jusqu'à 38 degrés», «manque d'équipements» : les parents inquiets de la chaleur dans les salles de classe
+529. En direct - Moyen-Orient, Ukraine, carburants, Lyhanna... Ce qu'il faut retenir de la prise de parole d'Emmanuel Macron
+530. VivaTech : l'intelligence artificielle s'installe de plus en plus dans les entreprises mais aussi dans notre vie quotidienne
+531. Comment la mairie de Paris a recruté un animateur périscolaire visé par une plainte pour inceste
+532. Canicule : un homme de 30 ans décède sur une piste d'athlétisme du Val-d'Oise
+533. Anniversaire de l'appel du 18 juin : «Beaucoup de compagnons de la Libération ont été oubliés par l'Histoire»
+534. Coupe du monde 2026 : pourquoi l'Ivoirien Elye Wahi, pourtant apte à jouer, ne disputera pas la rencontre face à l'Allemagne ?
+535. Un Messi record, Mbappé dans l'histoire, le Portugal décevant... Les tops et les flops de la première journée de la Coupe du monde
+536. Salut nazi dans un conseil municipal de Perpignan : «Le recrutement de la classe politique est de plus en plus faible», s'indigne Pascal Praud
+537. Canicule : un logement sur deux est une «bouilloire thermique», 9 sur 10 sont inadaptés à la chaleur
+538. Tests salivaires anti-drogue : «C'est très grave de fumer du cannabis», martèle Pascal Praud
+539. Coupe du monde 2026 : Neymar forfait pour le match contre Haïti
+540. Coupe du monde : pourquoi les joueurs ont-ils des badges différents sur leurs maillots ?
+541. Jeux vidéo : les préventes du très attendu GTA VI s'ouvriront le 25 juin, annonce Rockstar Games
+542. Vague de chaleur : la Fête de la musique annulée dans plusieurs villes
+543. Tarn : un laboratoire de fabrication de drogue de synthèse démantelé
+544. Bac, brevet, partiels… Comment notre alimentation est notre alliée pour réduire le stress ? Les conseils de Marie-Estelle Dupont
+545. CARTE - Dans quels départements les refus de contrôle routier sont-ils les plus élevés ?
+546. Cristiano Ronaldo «est lui-même un problème» : la presse portugaise critique la superstar après le nul face à la RD Congo
+547. Unité du G7 sur l'Ukraine, signature du protocole de paix... Une séquence diplomatique forte pour Emmanuel Macron
+548. «La démocratie ne nous représente plus aujourd’hui», assure Alexandre Jardin
+549. Application Référendum Citoyen : «Depuis quelques jours, les Français peuvent choisir la trajectoire du pays», assure Robinson Jardin
+550. Canicule : pourquoi la SNCF supprime-t-elle 71 trains Intercités ?
+551. Vote sur les «centres de retour» extra-européens : Nicolas Pouvreau-Monti explique le fonctionnement de cette mesure
+552. Carburant : le gouvernement «voit le bout» de la crise
+553. Canicule : la Ville de Paris autorise désormais la baignade dans le Canal Saint-Martin
+554. En direct - Moyen-Orient : un navire français de GNL franchit le détroit d'Ormuz, une première depuis le début de la guerre
+555. Canicule : pourquoi la nuit du solstice d'été va être beaucoup plus difficile à supporter
+556. Violences sexuelles : les réformes nécessaires prises «avant la fin du quinquennat», promet Aurore Bergé
+557. Affaire Bruel : une artiste qui a chanté à ses côtés l’un de ses plus grands tubes sort du silence
+558. Après la signature de l'accord Etats-Unis/Iran, les prix du pétrole chutent de plus de 3%
+559. Le prix Lumière du cinéma sera décerné aux frères Coen en octobre
+560. Fête de la musique : Maud Bregeon soutient la décision du préfet de police d'interdire le concert de LFI
+561. «On ne lâchera rien» : des parents d’élèves de Montreuil mobilisés après des signalements de violences dans 11 écoles
+562. Sécurité intérieure : la DGSI tourne en douceur la page Palantir
+563. Baisse des transactions, hausse des taux... Comment la guerre au Moyen-Orient freine les envies immobilières des Français
+564. Fortes chaleurs : la SNCF supprime 71 trains Intercités
+565. Petits ou grands, aguerris ou prudents... À Vivatech, les robots sont les stars de l'édition 2026
+566. En direct - Canicule : un homme décède sur une piste d'athlétisme, 53 départements en vigilance orange ce vendredi
+567. Moscou visée par une attaque de drones ukrainiens sur une raffinerie, une «riposte justifiée», selon Zelensky
+568. Accord Iran-États-Unis : «Donald Trump est un menteur absolu» juge Robert Ménard
 </journal>
 
 
 <journal>
 France Inter
 gauche
-564. Le bonheur de la pêche
-565. Moi, Alban, combattant français en Ukraine 3/3 : Retour de mission
-566. Rien à foot !
-567. Les juges démissionnent
-568. Dalila passe le bac
-569. Nous ne vieillirons pas ensemble
-570. Sédentaires
-571. Ouvrières, ouvriers 2/2 : Sochaux
-572. Moi, Alban, combattant français en Ukraine 2/3 : La guerre des drones
-573. Avoir 20 ans : le défi du rocher
-574. Duralex : quand les salariés sauvent leur entreprise
-575. Une année difficile
-576. Kylian cultive la différence
-577. Le "hum", ce bruit mystérieux
-578. Lui pardonner de l'avoir tué
-579. Moi, Alban, combattant français en Ukraine 1/3 : Le départ
-580. Mal de mère(s)
-581. Les liens du sang
-582. La mutinerie du Paoli
-583. Électrochocs : la mémoire en miettes
-584. Mon fils est devenu masculiniste
-585. “Pas de pédés en Vendée” : l’homophobie quand elle ne se cache plus
-586. 711 jours dans le désert
-587. Cyberattaques
-588. Nuit des musées | La beauté sauvera le monde
-589. Les Chemins de la Réussite
-590. Scandale dans le périscolaire : deux mères racontent
-591. Edith et le corbeau
-592. Comment j’ai failli devenir  un “clandé” de la DGSE
-593. Les chats de la voisine et autres histoires de voisinage
-594. Tir raciste sur des enfants
-595. L’attente des femmes
-596. AESH : accompagner tous les élèves
-597. Coordinatrices d'intimité
-598. L'agent immobilier qui revient de loin
-599. Fier.e.s de son maire
-600. Au-delà des frontières
-601. Née dans un Lebensborn
-602. Le chemin de Constance, vers Compostelle
-603. Inverser la courbe du destin 2/2 : Rania K. : Fille de Marianne
-604. Ma longue marche  1/11 : Le départ
-605. Ma longue marche  2/11 : La préparation
-606. Ma longue marche  3/11 : Les premiers pas
-607. Ma longue marche  4/11 : Les rencontres
-608. Ma longue marche  5/11 : L'avenir
-609. Ma longue marche  6/11 : Les derniers pas
-610. Ma longue marche  7/11 : Le retour
-611. Ma longue marche  8/11 : Un an plus tard
-612. Ma longue marche  9/11 : Deux ans plus tard
-613. Ma longue marche  10/11 : Trois ans plus tard...
-614. Ma longue marche  11/11 : Ma longue marche : 10 ans après
-615. Inverser la courbe du destin 1/2 : Rania K. : Une enfance heureuse au Maroc
-616. Lucie porte plainte contre ses parents
-617. Histoires extraordinaires 2/7 : Les quadruplés
-618. "Ils disent qu’à cinquante ans le cerveau ne fonctionne plus pareil" : trop vieilles pour travailler ?
-619. Les patrons sympas
-620. Café-croissant, les travailleuses du matin
-621. Chez Madame Arthur, l’envers du cabaret
-622. La puissance virile
-623. L'affaire Bendjaballah
-624. Le prix de l'essence et le coût de la vie
-625. Le Désert
-626. Volcans : terrains d'expériences
-627. Frissons 7/7 : La terrible ascension du Manucoco
-628. Grève au magasin bio
-629. À la recherche de Tigrou, doudou perdu
-630. Chasse aux précaires dans le Finistère
-631. Erwan, antifa malgré lui
-632. Tomber la chemise
-633. La vie quotidienne d'une agence France Travail 2/3 : Job dating : 24 candidats et 13 postes
-634. Fils de SS
-635. C'est tout un art ! Ce que la culture fait à nos vies 2/2 : Les Pieds sur scène d'Alexandre, Côme, Camille, Lise et Irène
-636. C'est tout un art ! Ce que la culture fait à nos vies 1/2 : Les Pieds sur scène d'Olivier, Catherine, Sylvie et la classe Cham du collège Henri Dunant
-637. Business model d'un trafiquant de stups
-638. L'autre prénom
-639. La classe de mer
-640. Enfants maltraités : les pédopsys sous pression
-641. Génération CPE
-642. Le meuble à chaussures Temu
-643. Un divorce alpin
-644. Femmes de sosies
-645. La tête dans les nuages
-646. La dictée :"Mes notes c’étaient -20, -30/20. Mon objectif, c’était d’atteindre le 0"
-647. Tous les coups sont permis  1/2 : Marie-Hélène Dini
-648. La foi des reines
-649. Histoires extraordinaires 1/7 : À la pêche au big silure
-650. Médecin sous substance
-651. Un climat incestuel
-652. Petite fugue et grande cavale : deux histoires d’évasions
-653. Le combat d’Isabelle pour une petite fille
-654. À vos amours
-655. La sapinière
-656. Profession astronaute
-657. Le portail  de la discorde
-658. Qui a volé les U des enseignes de Pau ?
-659. Les optimistes
-660. Une fleuriste pour le printemps
-661. Un temps à coucher dehors 3/4 : Un refuge
-662. Le Maire et la voyante ventriloque
-663. Le diamantaire
-664. Playlist pour grands enfants et jeunes ados : Comment ma mère a appris à écrire
-665. La vie de ma mère
-666. #MeToo : acheter le silence
-667. Des femmes qui crient
-668. Grève féministe
-669. Profs : pourquoi j'ai arrêté
-670. Un prof pour la vie
-671. Retrouvez tous les épisodes sur l’appli Radio France
+569. Les liens du cœur  : "Ghosting" : quand l'être aimé disparaît sans explication
+570. La folie du Brexit : mon Brexit 2
+571. Brusques revirements
+572. Mon boss est un algorithme
+573. Le camping du lac
+574. Les bonnes manières
+575. Les Morvandiaux : trois histoires dans un village
+576. Voleuse anti-crise, ou voler pour manger bio
+577. Un monde sans visage
+578. Le bonheur de la pêche
+579. Moi, Alban, combattant français en Ukraine 3/3 : Retour de mission
+580. Rien à foot !
+581. Les juges démissionnent
+582. Dalila passe le bac
+583. Nous ne vieillirons pas ensemble
+584. Sédentaires
+585. Ouvrières, ouvriers 2/2 : Sochaux
+586. Moi, Alban, combattant français en Ukraine 2/3 : La guerre des drones
+587. Avoir 20 ans : le défi du rocher
+588. Duralex : quand les salariés sauvent leur entreprise
+589. Une année difficile
+590. Kylian cultive la différence
+591. Le "hum", ce bruit mystérieux
+592. Lui pardonner de l'avoir tué
+593. Moi, Alban, combattant français en Ukraine 1/3 : Le départ
+594. Mal de mère(s)
+595. Les liens du sang
+596. La mutinerie du Paoli
+597. Électrochocs : la mémoire en miettes
+598. Mon fils est devenu masculiniste
+599. “Pas de pédés en Vendée” : l’homophobie quand elle ne se cache plus
+600. 711 jours dans le désert
+601. Cyberattaques
+602. Nuit des musées | La beauté sauvera le monde
+603. Les Chemins de la Réussite
+604. Scandale dans le périscolaire : deux mères racontent
+605. Edith et le corbeau
+606. Comment j’ai failli devenir  un “clandé” de la DGSE
+607. Les chats de la voisine et autres histoires de voisinage
+608. Tir raciste sur des enfants
+609. L’attente des femmes
+610. AESH : accompagner tous les élèves
+611. Coordinatrices d'intimité
+612. L'agent immobilier qui revient de loin
+613. Fier.e.s de son maire
+614. Au-delà des frontières
+615. Née dans un Lebensborn
+616. Le chemin de Constance, vers Compostelle
+617. Inverser la courbe du destin 2/2 : Rania K. : Fille de Marianne
+618. Ma longue marche  1/11 : Le départ
+619. Ma longue marche  2/11 : La préparation
+620. Ma longue marche  3/11 : Les premiers pas
+621. Ma longue marche  4/11 : Les rencontres
+622. Ma longue marche  5/11 : L'avenir
+623. Ma longue marche  6/11 : Les derniers pas
+624. Ma longue marche  7/11 : Le retour
+625. Ma longue marche  8/11 : Un an plus tard
+626. Ma longue marche  9/11 : Deux ans plus tard
+627. Ma longue marche  10/11 : Trois ans plus tard...
+628. Ma longue marche  11/11 : Ma longue marche : 10 ans après
+629. Inverser la courbe du destin 1/2 : Rania K. : Une enfance heureuse au Maroc
+630. Lucie porte plainte contre ses parents
+631. Histoires extraordinaires 2/7 : Les quadruplés
+632. "Ils disent qu’à cinquante ans le cerveau ne fonctionne plus pareil" : trop vieilles pour travailler ?
+633. Les patrons sympas
+634. Café-croissant, les travailleuses du matin
+635. Chez Madame Arthur, l’envers du cabaret
+636. La puissance virile
+637. L'affaire Bendjaballah
+638. Le prix de l'essence et le coût de la vie
+639. Le Désert
+640. Volcans : terrains d'expériences
+641. Frissons 7/7 : La terrible ascension du Manucoco
+642. Grève au magasin bio
+643. À la recherche de Tigrou, doudou perdu
+644. Chasse aux précaires dans le Finistère
+645. Erwan, antifa malgré lui
+646. Tomber la chemise
+647. La vie quotidienne d'une agence France Travail 2/3 : Job dating : 24 candidats et 13 postes
+648. Fils de SS
+649. C'est tout un art ! Ce que la culture fait à nos vies 2/2 : Les Pieds sur scène d'Alexandre, Côme, Camille, Lise et Irène
+650. C'est tout un art ! Ce que la culture fait à nos vies 1/2 : Les Pieds sur scène d'Olivier, Catherine, Sylvie et la classe Cham du collège Henri Dunant
+651. Business model d'un trafiquant de stups
+652. L'autre prénom
+653. La classe de mer
+654. Enfants maltraités : les pédopsys sous pression
+655. Génération CPE
+656. Le meuble à chaussures Temu
+657. Un divorce alpin
+658. Femmes de sosies
+659. La tête dans les nuages
+660. La dictée :"Mes notes c’étaient -20, -30/20. Mon objectif, c’était d’atteindre le 0"
+661. Tous les coups sont permis  1/2 : Marie-Hélène Dini
+662. La foi des reines
+663. Histoires extraordinaires 1/7 : À la pêche au big silure
+664. Médecin sous substance
+665. Un climat incestuel
+666. Petite fugue et grande cavale : deux histoires d’évasions
+667. Le combat d’Isabelle pour une petite fille
+668. À vos amours
+669. La sapinière
+670. Profession astronaute
+671. Le portail  de la discorde
+672. Qui a volé les U des enseignes de Pau ?
+673. Les optimistes
+674. Une fleuriste pour le printemps
+675. Un temps à coucher dehors 3/4 : Un refuge
+676. Playlist pour grands enfants et jeunes ados : Comment ma mère a appris à écrire
+677. La vie de ma mère
+678. #MeToo : acheter le silence
+679. Des femmes qui crient
+680. Grève féministe
+681. Profs : pourquoi j'ai arrêté
+682. Un prof pour la vie
+683. Retrouvez tous les épisodes sur l’appli Radio France
 </journal>
 
 
 <journal>
 JDD (Journal du Dimanche)
 droite
-672. Philippe de Villiers : «Le choc de l'automne»
-673. Roman : Joseph Macé-Scaron plonge ses détectives dans les profondeurs de l’étrange
-674. Alexandre Jardin : «Il faut un référendum sur la justice»
-675. France-Sénégal : les Bleus lancent leur Mondial, Mbappé entre dans l’histoire
-676. «Un droit à la réplique populaire» : le maire LFI Bally Bagayoko juge légitime de «siffler la Marseillaise»
-677. Royaume-Uni : l’influenceur Young Bob roué de coups lors d’un débat sur l’immigration
-678. Quelle est la différence entre un crucifix et une croix ?
-679. Macron sans héritier, la croix qui gêne la mairie PCF d'Ivry… Les coulisses du JDNews
-680. Loi «Philippine» : le texte allongeant la durée de rétention des clandestins dangereux définitivement adopté
-681. «Toy Story 5», «Ulysse»... Les sorties ciné de la semaine
-682. Coupe du monde : une rixe éclate entre supporters algériens et argentins en plein Times Square
-683. Le retour du Paris Eiffel Jumping, l'opération solidaire des Bleus : les bonnes nouvelles de la semaine
-684. Manche : une frégate russe tire des coups de semonce vers un yacht civil
-685. Justice, administration... Quand l'État échoue à protéger les Français
-686. Macron et Trump à Versailles, règlement retour, Vivatech... Les 4 infos dont vous allez entendre parler demain
-687. Maroc, Algérie, Tunisie… Le Maghreb confronté à une baisse de la natalité
-688. Laurence Ferrari dans le JDNews : «Le Léviathan»
-689. Nantes : des récidivistes au cœur de la recrudescence des home-jackings
-690. Équipe de France : Didier Deschamps raconté par son adjoint Guy Stéphan
-691. France - Sénégal : quand les Bleus se faisaient dévorer par les Lions en 2002
-692. Coupe du monde : qui est Shirley, la colocataire surprise des Bleus à Boston ?
-693. BHV : Shein sur le départ, l'ex-directeur général reprend les commandes du magasin
-694. Alexandre Jardin : «Pourquoi un référendum sur la justice aujourd'hui ?»
-695. David Peace, écrivain anglais : «Je préfère le football du passé»
-696. Littérature : Roland Portiche aux frontières du sacré et de la science-fiction
-697. «Toy Story 5» : le cinéaste Andrew Stanton raconte la célèbre saga animée
-698. Paris : deux policiers blessés lors d'une intervention, trois hommes placés en garde à vue
-699. Ukraine : l’«Opération Midas» ou le test ultime de l’État de droit en temps de guerre
-700. Coupe du monde : la double révolution de Brian Bilello à Boston
-701. «C'est l'Afrique qui aura battu l'Afrique» : le pronostic d'Ousmane Sonko pour France-Sénégal
-702. Chrétienté : le piège de l'irénisme
-703. «Je vais te faire disparaître» : Éric Ciotti dénonce des «menaces» du ministre Philippe Tabarot
-704. Présidentielle : la multiplication des candidatures, symptôme d'une crise institutionnelle
-705. Économie : le tabou de l'argent en France est en train de tomber
-706. «Il faut oser parler d'argent !» : Lubomira Rochet, directrice générale adjointe du groupe Société générale
-707. «Le grand favori, c’est l’Espagne» : Deschamps met la pression sur la Roja avant l'entrée en lice des Bleus
-708. Coupe du Monde : Sadio Mané, l’âme du capitaine
-709. Pascal Praud : «Monsieur petites phrases»
-710. Union européenne : Jordan Bardella veut «réduire de moitié» la contribution de la France
-711. Coupe du monde : les 5 pays participants avec lesquels les États-Unis ont fait la guerre
-712. Match France-Sénégal, texte sur la Corse... Les 4 infos dont vous allez entendre parler demain
-713. «On a senti que Christophe n'avait pas le moral» : l'angoisse des parents du journaliste après un an de détention en Algérie
-714. Dayot Upamecano : «L’ADN du Bayern a déteint sur moi»
-715. Carcassonne : la maison d’arrêt de nouveau visée par des tirs de mortiers en pleine nuit
-716. Affaire Lyhanna : qu’est-ce que la «Sarah’s law», dont veut s'inspirer Édouard Philippe ?
-717. Équipe de France : Boston, là où l'histoire commence
-718. Paris : la mairie socialiste installe 34 logements sociaux à deux pas du Louvre
-719. Relocalisation : bientôt du paracétamol made in France ?
-720. Donald Trump invité à Versailles : Mathilde Panot dénonce la venue d’un «président suprémaciste»
-721. Christine Kelly : «Cette France qui ne fait pas de bruit»
+684. Guerre en Iran : ces leçons que l'on peut d’ores et déjà tirer
+685. Saint Thomas More, martyr et patron des politiques
+686. Tourisme : «Le vrai luxe, c'est de réunir les gens qu'on aime»
+687. «Le livre est mort» : le réquisitoire de Michel Onfray contre l'ère des écrans
+688. Lille : le témoignage fort de la mère de Mathis, mortellement fauché par un multirécidiviste
+689. Accord Washington-Téhéran, Achraf Hakimi, Coluche... Les 4 infos dont vous allez entendre parler demain
+690. Ulysse, Toy Story 5 et Michel-Ange-Rodin : la sélection culturelle de la semaine
+691. Castres : le maire RN rétablit le blason historique de la ville au détriment du logo municipal moderne
+692. Michel Mallory : «Johnny Hallyday est le frère que je n'ai pas eu»
+693. Défense : la France emprunte 15 milliards à Bruxelles pour financer sa loi de programmation militaire
+694. Concerts, jeu vidéo, maillots de foot : la méta-campagne présidentielle de LFI
+695. Haute-Savoie : Annecy, toujours plus animée
+696. Italie : le gouvernement Meloni durcit le ton sur l’éducation sexuelle à l’école
+697. Julien Rochedy : «Et si l'IA était une bénédiction pour les écrivains ?»
+698. «Peur de l'avis des Français» : le Conseil constitutionnel ferme la porte à un référendum sur l'aide à mourir
+699. «La santé mentale des dirigeants est un sujet économique» : l'alerte de Sylvie Bonello
+700. Salah Abdeslam débouté : le Conseil d’État refuse de lever son isolement
+701. Pierre Gagnaire, le chef qui a survécu à la faillite et retrouvé ses trois étoiles
+702. Consciences des machines, transhumanisme... L'Église contre la Silicon Valley
+703. Guerre en Iran : Donald Trump signe à Versailles l’accord de cessez-le-feu
+704. Xenia Fedorova : «Moscou, coupable par réflexe»
+705. États-Unis : pourquoi Trump n'est pas le vrai problème de l'Europe
+706. Sarah Biasini : de l’art de n’aimer qu’un seul homme
+707. Katia et Marielle Labèque, Tori Amos, Violet Grohl, Boards of Canada : les albums à écouter cette semaine
+708. Défense : les confidences d'un commando parachutiste au JDD
+709. La ville nous appartient, Grandchester...Les séries de la semaine
+710. Royaume-Uni : le rapport sur le scandale des «grooming gangs» choque l’opinion
+711. Macron à Bruxelles, Bardella en Pologne, livre de Bayrou... Les 4 infos dont vous allez entendre parler demain
+712. «Alexa+ est profondément française» : Amazon mise sur l’IA de Mistral
+713. Gard : un collégien de 15 ans avoue le meurtre d'une octogénaire au Grau-du-Roi
+714. Communautarisme : les minorités à la conquête des universités françaises
+715. Scandale du périscolaire : Lucie Castets ne veut pas que les fonctionnaires servent de «boucs émissaires»
+716. Loi sur l'euthanasie : ils ont brisé la «boussole éthique»
+717. Cinéma : Naomi Kawase à cœur battant
+718. Règlement retour de l'UE : Sarah Knafo salue la victoire d'une «alliance inédite des droites»
+719. Qatar, Gaza, Iran : la presse arabophone raffole de LFI et Mélenchon
+720. Casse du Louvre : où en est l'enquête sur le vol des bijoux ?
+721. Loi anti-fast fashion : l'illusion réglementaire française
+722. Lyon : LFI réclame à Grégory Doucet la fin du jumelage avec une ville israélienne
+723. France libre : les derniers héros racontent la guerre
+724. Lourdes : une enseignante agressée par un élève, les professeurs exercent leur droit de retrait
+725. Mathieu Bock-Côté : «Combattre ? Fuir ? Préparer ? Transmettre ?»
+726. Fractures territoriales, coût élevé… Pourquoi le permis de conduire s’obtient de plus en plus tard
+727. Pourquoi il faut des États généraux de l'éducation
+728. Vincent Hervouët : «Happy birthday, Mister président»
+729. Kylian Mbappé : «Je joue pour marquer l’histoire de mon pays»
+730. Responsabilité des magistrats : les juges, éternels intouchables ?
+731. Philippe de Villiers : «Le choc de l'automne»
+732. Roman : Joseph Macé-Scaron plonge ses détectives dans les profondeurs de l’étrange
+733. Alexandre Jardin : «Il faut un référendum sur la justice»
 </journal>
 
 
 <journal>
 HuffPost France
 gauche
-722. Plus de 40 ans après les faits, le Parlement reconnaît enfin la responsabilité de l’État envers les « enfants de la Creuse »
-723. Guerre au Moyen-Orient : l’armée américaine reconnaît avoir utilisé l’IA de Musk pour cibler l’Iran
-724. On a vu le film phénomène « Backrooms », qui cartonne aux États-Unis avant son arrivée en France
-725. Après des mois de débats, l’Union européenne valide enfin l’accord commercial avec les États-Unis et impose des garde-fous
-726. Comment rendre la canicule plus supportable en ville ? Cet urbaniste dessine ce qu’il faudrait changer
-727. Pourquoi Kylian Mbappé a célébré son but contre le Sénégal en mimant une flûte traversière ?
-728. Trump reçu à Versailles : Macron verse dans « l’opération cirage de pompe », mais est-elle gagnante ?
-729. Mbappé bat le record de Giroud et guide les Bleus vers la victoire face au Sénégal pour lancer leur Coupe du Monde
-730. Un navire russe tire des coups de semonce sur un yacht dans la Manche : ce que l’on sait
-731. Qu’est-ce que la dermatophilose, cette nouvelle maladie transmissible entre humains
-732. Face à la chaleur, le ministère pourra « décaler » certains oraux du bac afin d’offrir « des conditions décentes » aux candidats
-733. Pourquoi l’hôtel de luxe du Bürgenstock a été choisi pour la signature de l’accord Etats-Unis-Iran
-734. Le message fort d’Omar Sy face à la fermeture annoncée de la maternité de Trappes
-735. Donald Trump minimise la présence potentielle de mines dans le détroit d’Ormuz, mais ce n’est pas si simple
-736. La série « Apocalypse » revient avec un projet sur Rome, après avoir disséqué les guerres mondiales
-737. Les adversaires de Glucksmann ont tout faux avec cet extrait de lui sur les retraites
-738. France - Sénégal au Mondial : les conseils pour ne pas voir les buts de l’équipe de France en retard par rapport à vos voisins
-739. Vers un nouveau procès pour meurtre pour Francis Heaulme, 35 ans après les faits
-740. Les « plates excuses » du patron du Tour de France à la ville de Pont-de-Beauvoisin
-741. Coupe du monde 2026 : pourquoi le maillot de Kylian Mbappé pour France-Sénégal est-il unique ?
+734. Vance ne s’envole finalement pas pour la Suisse, les pourparlers avec l’Iran dans le flou
+735. États-Unis - Australie à la Coupe du monde : même les fans américains ont honte de leurs chants de supporters
+736. Le Canada a enfin remporté un match en Coupe du monde, et avec la manière
+737. Climatisation, ventilateur… Combien ça coûte une canicule à la maison ?
+738. À VivaTech, ces robots danseurs ont fini leur chorégraphie dans les téléviseurs et causé des dégats
+739. Malgré l’accord entre l’Iran et les États-Unis, l’économie n’est pas près de retrouver son état d’avant-guerre
+740. TF1 lance une fiction inspirée de l’affaire Pélicot centrée sur la fille et la soumission chimique
+741. Avec son interview sur France 2, Emmanuel Macron inaugure sa fin de règne et dix longs mois de bilan
+742. Freddy, Ugo, Clémentine... Qui sont les aventuriers du prochain Koh-Lanta All Stars ?
+743. Andy Burnham élu député avec Downing Street en ligne de mire, Keir Starmer en péril
+744. La canicule à peine installée, des orages violents perturbent le trafic aérien à Paris
+745. Après l’accord USA-Iran, Macron n’a toujours pas compris pourquoi Trump a fait la guerre
+746. Lors de la parade des Knicks à New York, ce sac a été le seul autorisé (et ce n’est pas un hasard)
+747. Affaire Lyhanna : Emmanuel Macron revient sur ses critiques et les maintient
+748. Affaire Lyhanna : l’autopsie conclut à un viol, des traces biologiques relient le principal suspect à la fillette
+749. La vague de chaleur fait son premier mort en France
+750. « J’ai accéléré, il m’a donné un coup » : même à la piscine, elles subissent du manspreading
+751. « Zodiaque » est de retour sur TF1, plus de 20 ans après le carton d’audiences de la série originale
+752. La mort du chêne anglais « Major Oak », au cœur de la légende de Robin des Bois, « un avertissement »
+753. Avec sa Fête de la musique à Paris, La France insoumise a (au moins) réussi à monopoliser l’attention
 </journal>
 
 
 <journal>
 Slate France
 gauche
-742. Sur le front ukrainien, les drones terrestres changent les règles de la guerre
-743. «Drill, baby, drill»: comment la crise du détroit d'Ormuz a relancé le pétrole américain
-744. Bonne nouvelle: nous avons encore du temps avant que le Soleil ne mette fin à la vie sur Terre
-745. La Chine construit le plus grand barrage du monde dans une région sismique du Tibet
-746. Notre sélection de DVD et Blu-ray pour l'été 2026: des œuvres pour rattraper l'histoire du cinéma et celle du monde
-747. Bac 2026: le niveau ne s'est pas affaissé, il s'est effondré
-748. Un implant cérébral de nouvelle génération transforme la vie de patients atteints de la maladie de Charcot
-749. C'est quoi cette «maladie du sommeil» qui a fait 500.000 morts et reste sans explication?
-750. En Russie, des familles utilisent l'IA pour «ressusciter» leurs soldats morts et faire leur deuil
-751. Procès de Carmen Enciso, l'ex-boulangère accusée d'avoir démembré son conjoint: «C'est une femme qui semble très seule»
-752. Ces photos fascinantes (et inédites) d'animaux et fonds marins pour la Journée mondiale de l'océan
-753. Des agents d'OnlyFans menacent des créatrices de contenu et prélèvent jusqu'à 50% de leurs revenus
-754. Quel pays a le plus de chances de gagner la Coupe du monde 2026? Des statisticiens ont la réponse
-755. Donald Trump annonce la paix avec l'Iran, mais des experts parlent déjà de défaite américaine
-756. Pourquoi on n'est jamais trop vieux pour suivre une thérapie
-757. Record battu: plus de 100.000 cafards exotiques ont été saisis chez un éleveur australien
-758. «La guerre du football»: comment un match a-t-il plongé deux pays dans un conflit meurtrier en 1969?
-759. Vous avez beaucoup de maîtrise de soi? Voici le piège qui vous guette
-760. Comment les Russes contournent au quotidien le «goulag numérique» de Vladimir Poutine
-761. Une recette miracle pour inverser le vieillissement? Les premiers tests humains ont commencé
-762. En France, vous avez le droit d'épouser une personne morte (avec l'accord du président)
-763. En Slovénie, à la découverte du carnaval Kurentovanje, un rite chamanique pour chasser l'hiver
+754. Rivière dans le ciel: comment la Chine a essayé de détourner la pluie du Tibet pour alimenter ses régions arides
+755. «Rapport sur la justice mondiale»: un autre monde est possible... mais peu probable
+756. La Russie déploie des brouilleurs Starlink à 1,3 million d'euros: l'Ukraine les détruit à coups de drones
+757. Devenir parent modifie le cerveau en profondeur, même quand l'enfant est adopté
+758. Coupe du monde 2026: le match pas (toujours) très amical de la bière entre le Canada, les États-Unis et le Mexique
+759. Pourquoi galère-t-on autant à sauver les baleines échouées sur les plages?
+760. La nourriture volée à quelqu'un d'autre a meilleur goût, selon un chercheur amateur de frites
+761. Un séisme catastrophique semble «dangereusement proche» en Californie, alerte une étude
+762. Procès de Carmen Enciso, accusée d'avoir démembré son conjoint: elle avait «un rapport à l'argent inquiétant»
+763. Dépendance, risques, quantité recommandée: tout ce qu'il faut savoir sur le sucre
+764. Ces photos fascinantes (et inédites) d'animaux et fonds marins pour la Journée mondiale de l'océan
+765. Les scientifiques pensent avoir trouvé la quantité idéale de musculation à faire pour vivre plus longtemps
+766. Comment les auteurs de violences sexuelles sur des enfants justifient-ils leurs actes? Deux chercheuses ont tenté de comprendre
+767. Les frappes ukrainiennes obligent la Russie à vendre du carburant pourri (sans le dire aux acheteurs)
+768. Pour éviter la démence, il suffit peut-être de se vacciner contre le zona
+769. Sur le front ukrainien, les drones terrestres changent les règles de la guerre
+770. «Drill, baby, drill»: comment la crise du détroit d'Ormuz a relancé le pétrole américain
+771. Bonne nouvelle: nous avons encore du temps avant que le Soleil ne mette fin à la vie sur Terre
+772. La Chine construit le plus grand barrage du monde dans une région sismique du Tibet
+773. Notre sélection de DVD et Blu-ray pour l'été 2026: des œuvres pour rattraper l'histoire du cinéma et celle du monde
+774. Bac 2026: le niveau ne s'est pas affaissé, il s'est effondré
+775. En Slovénie, à la découverte du carnaval Kurentovanje, un rite chamanique pour chasser l'hiver
 </journal>
 
 
 <journal>
 Atlantico
 droite
-764. Friedrich Merz flatte Trump avec un maillot de football à son nom au G7
-765. Un Barrage contre le Pacifique, de Marguerite Duras
-766. Atlanti’Causeur : cette semaine, l’affaire Lyhanna et la fin de la civilisation de l’écrit
-767. Une mystérieuse maladie dentaire qui touche des millions d'enfants
-768. Retraites : le mirage de la suppression de l'âge légal
-769. La coalition allemande se divise de plus en plus sur la question de l'expulsion des Syriens
-770. Show Bally Bakayoko et banalisation des dealers : mais où s’arrêtera la funeste démagogie de LFI ?
-771. Le fils de la princesse héritière de Norvège condamné à quatre ans de prison pour viol
-772. Séismes : pourquoi des villes éloignées de l’épicentre sont-elles parfois ravagées ? La science a enfin compris
-773. « Que le pétrole coule à flots » : et Donald Trump trouva son abracadabra pour les traders en matières premières
-774. D’Eurosatory au G7 : l’ultragauche se convertit au sabotage systématique
-775. La Chine dans le viseur ? Le G7 tente de s’attaquer aux déséquilibres insoutenables de l’économie mondiale
-776. Néo-féodalisme planétaire : dans le match Big Tech vs les États, qui est le plus fort aujourd’hui ?
-777. Guerre hybride : la piste russe derrière l’incendie volontaire de la maison de Keir Starmer
-778. Dérapage incontrôlé : Sébastien Lecornu tente de déminer le terrain du budget 2027
+776. Bally Bagayoko estime que « siffler La Marseillaise » dans les stades est « un droit légitime »… mais pourtant interdit depuis 2003
+777. Traversée de la Manche : l’afflux de migrants au Royaume-Uni bat des records en 2026
+778. Canicule : la SNCF annule des dizaines de trains à cause des fortes chaleurs
+779. La guerre des semences : la guerre la plus discrète... et peut-être la plus stratégique pour les hommes et les femmes qui nourrissent l'Europe et le monde
+780. L’obsession pour les extrêmes, ce réflexe qui paralyse la pensée au centre droit
+781. "Clair-Obscur" : Une errance poétique dans les lumières de la nuit, entre mystères, mélancolie et questionnement Info et réservations
+782. L’épidémie d’Ebola pourrait s’être propagée au-delà de l’Afrique ; comment réagissent autorités sanitaires (américaines)
+783. Very big bang : le boom sonore produit par l’explosion de météorites équivaut à la libération de plusieurs centaines de tonnes de TNT
+784. Défoncés et professionnellement performants : quand la drogue s’invite au sommet de la pyramide sociale française
+785. Retour au nucléaire militaire : la Finlande franchit un pas supplémentaire dans sa sortie de la neutralité
+786. Gaza, Israël, Beyrouth : trois centres de gravité français face au Liban
+787. Vague de chaleur : vers un boom des vacances « nordiques »
+788. Versailles, l’atout fastes : Emmanuel Macron, le dirigeant occidental qui sait le mieux amadouer Donald Trump… ou pas
+789. 10 ans d’accélération à VivaTech : le salon star de la Tech française a bien changé et voilà ce que cela nous apprend
+790. Dopée à l’IA et à la tech, l’économie américaine esquive l’impact de la guerre et siphonne les capitaux européens
 </journal>
 
 
 <journal>
 Reporterre
 gauche
-779. Jugé trop engagé, le site « Vertige Media » persona non grata au Salon de l'escalade
-780. Valérie Masson-Delmotte : « Le dépassement des 40°C, autrefois rarissime, est en train de devenir fréquent »
-781. EPR de Flamanville : le nouveau couvercle est arrivé, 12 ans après la découverte de l'anomalie
-782. Face à leurs victimes, les fabricants de l'agent orange nient leur responsabilité
-783. « Victimes d'un arbitrage politique », ces associations essentielles à la transition écologique pourraient disparaître
-784. Irrigation, élevage, loups... Le Sénat va-t-il encore durcir la loi d'urgence agricole ?
-785. Sirop à la menthe : un colorant potentiellement dangereux pointé par Yuka
-786. Nouveaux OGM : avant un vote décisif, des paysans font monter la pression
-787. Des batteries de voiture aux missiles : quand une raffinerie « verte » sert l'industrie militaire
-788. La consommation de bio à la hausse, mais le nombre de fermes engagées recule
-789. Laurent Duplomb veut réautoriser un pesticide très dangereux pour les abeilles solitaires
-790. Cadmium : le dépistage remboursé pour les personnes à risque
-791. Une autre Coupe du monde est possible : notre débat à regarder avant (ou pendant) France-Sénégal
-792. Avion : et si on limitait à deux allers-retours par an ?
-793. Comment des milliers de composés potentiellement cancérogènes se retrouvent sur le marché
-794. A69 : au Conseil d'État, le rapporteur public se prononce contre les opposants
-795. Des militants « humiliés et frappés » par le GIGN lors d'une action antimilitariste en Haute-Savoie
-796. « 100 % fibre naturelle » ? De nombreuses erreurs sur les étiquettes des vêtements
-797. Aspergée d'agent orange il y a 60 ans, Tran To Nga tient toujours tête à Bayer-Monsanto
-798. Des habitants exposés aux PFAS pressent l'État d'agir : « C'est comme si on était des sous-citoyens »
-799. « Une hécatombe invisible » : près de 6 milliards de poissons et crustacés tués par les centrales nucléaires
-800. 15,4 °C en Antarctique : le mois de juin n'a jamais été aussi chaud
-801. Notre corrigé du bac de philo : « La technique bouleverse toute la société »
-802. Pourquoi des écologistes, favorables au solaire, s'opposent à des projets photovoltaïques
-803. G7 d'Évian : Emmanuel Macron efface le climat de l'agenda pour « ne pas fâcher » Donald Trump
-804. L'A69 quasi terminée ? Le grand bluff d'Atosca avant une audience décisive
-805. Radiée du RSA : une maraîchère face à la « traque des précaires » menée par le Finistère
-806. Le jardin partagé, une « porte de sortie » pour les habitants des quartiers populaires
-807. « Vert de rage » : l'histoire oubliée des classes populaires qui luttaient, déjà, pour l'écologie
-808. Tamara Klink, la navigatrice qui s'est laissé emprisonner par les glaces
-809. Avec SpaceX, Elon Musk fait la plus importante entrée en bourse de l'Histoire
-810. El Niño commence déjà à sévir dans le Pacifique
-811. Le plus grand cimetière de baleines jamais découvert, à 7 000 m sous la mer
-812. TotalEnergies va enseigner la « transition énergétique » à l'université de Montpellier
-813. Accélération du changement climatique : l'hypothèse qui inquiète les scientifiques
-814. L'Assemblée nationale s'oppose à la relance des hydrocarbures dans les outre-mer
-815. A69 : le Conseil d'État pourrait confirmer la légalité du chantier
-816. Ouvriers, femmes de ménage... Des milliers de cancers professionnels passent sous les radars de l'État
-817. « Ça me brûlait, j'en vomissais » : quand les femmes paient, de leur santé, le prix de la propreté
-818. Jardins ouvriers, potagers militants : jardiner, c'est résister !
-819. 15 % du réchauffement climatique seraient dûs à des gaz à effet de serre passés sous les radars
-820. Il récidive : Laurent Duplomb tente de réautoriser l'acétamipride
-821. Coupe du monde de football : « Cette course au gigantisme sert à enrichir la Fifa »
-822. Haut-lieu de la lutte contre le charbon, le bois de Hambach est désormais protégé
-823. Omniprésent dans l'eau, le polluant éternel TFA classé toxique pour la reproduction
-824. Les 0,01% les plus riches sont responsables d'une part disproportionnée des dommages climatiques
-825. Canicules marines, températures, niveau des mers : les indicateurs climatiques s'emballent
-826. La consigne de verre revient en France, mais les magasins ne jouent pas le jeu
-827. « C'est du marketing » : l'imposture des trois nouvelles aires marines
-828. « Le pétrole n'enrichira que des actionnaires » : accusée de colonialisme, la gauche maintient son opposition aux hydrocarbures dans les outre-mer
-829. « Chasse aux trophées : qu'attend le gouvernement pour l'interdire ? »
-830. « C'est une question de survie économique » : Le Relais ferme 4 000 bornes de collecte
-831. Que faire des chiens mordeurs ?
-832. Le Sénat vote la possibilité de dérogations environnementales pour l'armée
-833. Les vagues de chaleur extrême deviennent « la norme plutôt que l'exception »
-834. Coupe du monde : le football est-il condamné à être une industrie insoutenable ?
-835. Élevages intensifs : 50 ans de mépris de la loi sur la sensibilité des animaux
-836. Pour favoriser la famille Zidane, le maire s'arrange avec les règles d'urbanisme
-837. « Je suis terrifiée » : l'alerte des experts sur la course aux armements nucléaires
-838. Catastrophes naturelles : les fissures et déformations des maisons mal couvertes
+791. « Ça pourrait être le début de la fin » : en Corse, la loi d'autonomie inquiète les écologistes
+792. Pêche : la ministre de la mer pourrait exclure les bateaux industriels des côtes françaises
+793. « Vous êtes miss météo, contentez-vous de faire la météo » : la chaleur revient, le harcèlement des journalistes aussi
+794. Le gouvernement a fait pression pour que l'Ademe finance l'un des plus grands pollueurs de France
+795. Bientôt tous inassurables ? De premières données et beaucoup de questions
+796. Acétamipride : Laurent Duplomb fait voter le retour de l'insecticide en commission sénatoriale
+797. La SNCF annule 71 trains à cause de la canicule
+798. Climat : la France a censuré des sujets au G7 pour ne pas « froisser Washington »
+799. Dans les Alpes, le projet de village olympique avance à marche forcée
+800. Climat : la France cuit, et le gouvernement se félicite
+801. Les glaciers du Kilimandjaro réduits comme peau de chagrin avec le réchauffement climatique
+802. Chaleur, inondations... Un quart des futurs data centers français vulnérable aux risques climatiques
+803. Face aux vagues de chaleur, « notre système de santé n'est pas prêt »
+804. Des OGM bientôt dans nos assiettes : l'Europe a donné son feu vert
+805. « Il est temps de choisir son camp » : et si on créait un label « sans IA générative » ?
+806. Algues vertes : l'État à nouveau condamné pour préjudice écologique
+807. Canicule : EDF envisage de réduire la production de deux centrales nucléaires
+808. Avec Shein comme unique cible, la loi sur la fast-fashion loupe le coche
+809. Jugé trop engagé, le site « Vertige Media » persona non grata au Salon de l'escalade
+810. « Le nombre de jours de vagues de chaleur sera multiplié par dix à l'horizon 2100 »
+811. EPR de Flamanville : le nouveau couvercle est arrivé, 12 ans après la découverte de l'anomalie
+812. Face à leurs victimes, les fabricants de l'agent orange nient leur responsabilité
+813. « Victimes d'un arbitrage politique », ces associations essentielles à la transition écologique pourraient disparaître
+814. Irrigation, élevage, loups... Le Sénat va-t-il encore durcir la loi d'urgence agricole ?
+815. Sirop à la menthe : un colorant potentiellement dangereux pointé par Yuka
+816. Nouveaux OGM : avant un vote décisif, des paysans font monter la pression
+817. Des batteries de voiture aux missiles : quand une raffinerie « verte » sert l'industrie militaire
+818. La consommation de bio à la hausse, mais le nombre de fermes engagées recule
+819. Laurent Duplomb veut réautoriser un pesticide très dangereux pour les abeilles solitaires
+820. Cadmium : le dépistage remboursé pour les personnes à risque
+821. Une autre Coupe du monde est possible : notre débat en vidéo
+822. Avion : et si on limitait à deux allers-retours par an ?
+823. Comment des milliers de composés potentiellement cancérogènes se retrouvent sur le marché
+824. A69 : au Conseil d'État, le rapporteur public se prononce contre les opposants
+825. Des militants « humiliés et frappés » par le GIGN lors d'une action antimilitariste en Haute-Savoie
+826. « 100 % fibre naturelle » ? De nombreuses erreurs sur les étiquettes des vêtements
+827. Aspergée d'agent orange il y a 60 ans, Tran To Nga tient toujours tête à Bayer-Monsanto
+828. Des habitants exposés aux PFAS pressent l'État d'agir : « C'est comme si on était des sous-citoyens »
+829. « Une hécatombe invisible » : près de 6 milliards de poissons et crustacés tués par les centrales nucléaires
+830. 15,4 °C en Antarctique : le mois de juin n'a jamais été aussi chaud
+831. Notre corrigé du bac de philo : « La technique bouleverse toute la société »
+832. Pourquoi des écologistes, favorables au solaire, s'opposent à des projets photovoltaïques
+833. G7 d'Évian : Emmanuel Macron efface le climat de l'agenda pour « ne pas fâcher » Donald Trump
+834. L'A69 quasi terminée ? Le grand bluff d'Atosca avant une audience décisive
+835. Radiée du RSA : une maraîchère face à la « traque des précaires » menée par le Finistère
+836. Le jardin partagé, une « porte de sortie » pour les habitants des quartiers populaires
+837. « Vert de rage » : l'histoire oubliée des classes populaires qui luttaient, déjà, pour l'écologie
+838. Tamara Klink, la navigatrice qui s'est laissé emprisonner par les glaces
+839. Avec SpaceX, Elon Musk fait la plus importante entrée en bourse de l'Histoire
+840. El Niño commence déjà à sévir dans le Pacifique
+841. Le plus grand cimetière de baleines jamais découvert, à 7 000 m sous la mer
+842. TotalEnergies va enseigner la « transition énergétique » à l'université de Montpellier
+843. Accélération du changement climatique : l'hypothèse qui inquiète les scientifiques
+844. L'Assemblée nationale s'oppose à la relance des hydrocarbures dans les outre-mer
+845. A69 : le Conseil d'État pourrait confirmer la légalité du chantier
+846. Ouvriers, femmes de ménage... Des milliers de cancers professionnels passent sous les radars de l'État
+847. « Ça me brûlait, j'en vomissais » : quand les femmes paient, de leur santé, le prix de la propreté
+848. Jardins ouvriers, potagers militants : jardiner, c'est résister !
+849. 15 % du réchauffement climatique seraient dûs à des gaz à effet de serre passés sous les radars
+850. Il récidive : Laurent Duplomb tente de réautoriser l'acétamipride
 </journal>
 
 
 <journal>
 Causeur
 droite
-839. Rugby et foot: Ancienne versus Nouvelle France?
-840. Barbara Lefebvre menacée d’exclusion par l’Education nationale
-841. Mettons la responsabilité au cœur du système
-842. Thuram et ses obsessions
-843. Daido Moriyama: la photo de l’extase
-844. Robert Ménard: ma fille, ma bataille
-845. Parlez-vous le Xavier Bertrand?
-846. Thierry Roland, le beauf qui mouchait les bobos
-847. Guerre avec l’Iran: le bilan est largement négatif mais l’espoir toujours permis
-848. Coupe du monde de football: entre fléau social et peste émotionnelle
+851. De la gloire au silence
+852. 🎙️ Podcast: Macron à Evian et à Versailles: un grand coup diplomatique?
+853. La fabrique du fasciste: petite histoire d’un stigmate politique
+854. L’amour vache
+855. Que vouliez-vous qu’il fît?
+856. Foot : place aux remplaçants
+857. Un bond dans l’azur
+858. CNews au piquet: l’Arcom invente la météo des opinions au doigt mouillé
+859. Affaire El Feki/Bergeaud-Blackler: quand l’université est saisie par le prétoire
+860. Iran: l’obscène jubilation des anti-Trump
 </journal>
 
 
 <journal>
 Alternatives Économiques
 gauche
-849. Les obligations vertes, gadget financier de la transition écologique
-850. En Ardèche, la condamnation d’une agricultrice révèle l’impasse face aux sangliers
-851. Nastasia Hadjadji : « L’IA est un outil pensé par des capitalistes pour les capitalistes »
-852. Nastasia Hadjadji : « L’IA est un outil pensé par des capitalistes pour les capitalistes »
-853. Quand les cancers professionnels sortent de l’invisibilité
-854. Les fausses informations qui ont pollué le débat sur la loi Duplomb, et 3 autres conseils de lecture
-855. Droit au but
-856. Rapport du COR : la baisse de la natalité monopolise (à tort) le débat sur les retraites
-857. Pour accéder aux grandes écoles, un nom à particule fait encore la différence
-858. Notre système assurantiel n’est pas soutenable à l’aune du changement climatique
+861. Transition socioécologique : une proposition pour réconcilier agriculture, énergie et biodiversité
+862. Transition socioécologique : une proposition pour réconcilier agriculture, énergie et biodiversité
+863. Transition socioécologique : une proposition pour réconcilier agriculture, énergie et biodiversité
+864. Prix des carburants : que faire de TotalEnergies ? Débat entre Eva Sas et Aurélie Trouvé
+865. Les barrages français ne seront finalement pas ouverts à la concurrence, mais...
+866. Avec les directives omnibus, l’UE liquide nos droits au nom de la simplification administrative
+867. Avec le soutien de la France, l’Europe ouvre le champ aux nouveaux OGM
+868. Quand la Commission européenne dresse le constat d’échec du macronisme
+869. A l’école, la précarité n’est pas une fatalité
+870. Des prix négatifs de l’électricité, comment est-ce possible ?
 </journal>
 
 
 <journal>
 La Tribune
 droite
-859. 🔴 Croissance française, capitalisation record de SpaceX, Mercosur… L’essentiel de l’actualité ce mercredi
-860. Eurosatory : le salon fait le plein d’innovations
-861. Renault et Thales lancent une munition téléopérée super compétitive
-862. À Montpellier, Sanofi renforce son hub mondial de distribution de lots cliniques
-863. SpaceX : une entrée en Bourse fracassante, plus de 85 Md$ levés
-864. OPINION. « Coupe du monde 2026 : derrière le "soft power ", la démonstration de puissance »
-865. Sous pression, Thyssenkrupp acte la scission de sa branche matériaux
-866. El Niño 2026 risque d'être l’un des épisodes les plus extrêmes jamais observés
-867. Un Boeing B-52 s’écrase à Edwards
-868. Faux fournisseurs, faux dirigeants, détournements de données... Une entreprise française sur trois déjà ciblée par une fraude
-869. Aix-Marseille-Provence : le budget de la discorde
-870. NewSpace : Dawn Aerospace lève 25 millions de dollars pour accélérer son avion spatial réutilisable
-871. Dans un contexte incertain, la Banque de France réduit encore sa prévision de croissance
-872. « Des acheteurs forcés » : comment Elon Musk manipule la Bourse pour propulser l'action SpaceX
-873. Montpellier fait monter en puissance sa zone logistique et fret
-874. Prix de l'électricité et du gaz : Pantin active l'achat groupé pour abaisser les factures de ses habitants
-875. « Easyjet n’a pas quitté Toulouse » : les ambitions de la compagnie low cost après la fermeture de la base
-876. Transports en Île-de-France : vous pourrez payer par carte bancaire, mais ce sera plus cher
-877. Plongée dans la montée en cadence de l’usine Rafale à Mérignac
-878. Après un rapprochement avec Airbus, Alta Ares s’allie à MBDA
+871. 🔴 Négociations avec l’Iran reportées, enquête des États-Unis contre l’Allemagne, pétrole en baisse… L’essentiel de l’actualité ce vendredi
+872. Pascale Tridico, député européen : « La richesse extrême en Europe a fortement augmenté »
+873. Fraude fiscale et sociale : le Conseil constitutionnel valide l’essentiel de la loi, la gauche dénonce « un virage libertarien »
+874. Alstom, Forvia : le grand repli industriel français en Allemagne
+875. W, le réseau social européen qui compte défier X
+876. Emmanuel Macron à VivaTech face aux doutes sur l’après-« start-up nation »
+877. OPINON. « Vive les vacances … en famille ! », par Xavier Dsaulles, PDG d’Adagio
+878. Avec Simba, l’Onera teste les matériaux en conditions extrêmes
+879. Le Samp/T NG français sera multicouche
+880. Chute des cours : le baril de pétrole retrouve niveau d'avant la guerre en Iran
+881. Vins de Bordeaux : les ventes en primeurs, un mécanisme à bout de souffle
+882. Île-de-France : Valérie Pécresse dévoile sa vision pour Saclay 2035
+883. Sabrina Roubache, ministre : « On ne touche pas une politique publique qui fonctionne »
+884. Rheinmetall et General Atomics s’engagent pour la production de munitions
+885. Ce nouveau règlement européen qui pourrait bouleverser l'industrie automobile
+886. OPINION. « L’Intelligence Artificielle bouleverse les moteurs de notre économie ? »
+887. Énergies renouvelables : Valorem coupe dans ses effectifs
+888. « C'est un changement de méthode historique » : comment Kevin Warsh imprime sa marque à la tête de la Fed
+889. Viticulture : la start-up Bienesis prête à déployer sa couverture intelligente des vignes
+890. Trains : la Bretagne va accélérer le passage des TER au biocarburant
 </journal>
 
 
@@ -1016,16 +1028,16 @@ gauche
 <journal>
 Fdesouche
 droite
-879. Laval (53) : Deux Roumains jugés pour avoir volé 84 statuettes et ornements funéraires dans 15 cimetières. Récidivistes, ils risquent jusqu’à 14 ans de prison. (MàJ : Condamnés à trois et deux ans et demi de prison)
-880. Le SPLC, une association luttant contre le racisme, dans la tourmente : une ex-responsable, Heidi Beirich accusée d’avoir financé son amant, membre d’un groupe néonazi, avec l’argent des donateurs.
-881. Roissy (93) : entendu par la DGSI après des soupçons de « glorification » du Hamas, un responsable de Sud Aérien attaque l’État ; il est accusé d’avoir incité ses collègues à « tout faire exploser » à l’aéroport. La LDH le soutient.
-882. Scandale des « grooming gangs » pakistanais : le rapport explosif qui accuse le Royaume-Uni d’avoir sacrifié des milliers de jeunes anglaises vulnérables (MàJ : le rapport en français)
-883. Reims (51) : une passante de 82 ans traînée au sol sur plusieurs mètres par un adolescent de 17 ans qui voulait lui arracher son sac. Il a été remis en liberté.
-884. Lourdes (65) : une professeure tabassée par un élève de 3e, les enseignants arrêtent les cours et réclament une équipe de sécurité
-885. Saint-Denis (93) : une fan-zone sera ouverte de 2h à 5h du matin sur le playground Adidas Zinédine Zidane pour diffuser le match Algérie-Argentine. Des centaines de supporters sont attendus dans le quartier de la Plaine.
-886. « Je ne connais pas les lois d’ici » : Abderahim Madani, un Algérien qui avait pris l’habitude de changer d’identité et d’âge dans plusieurs pays d’Europe, a été une nouvelle fois condamné à Saint-Étienne (42)
-887. Alpes-Maritimes : une organisation criminelle internationale de trafic d’armes, de stupéfiants et d’êtres humains démantelée. 1,5 M€ saisis. 10 suspects turcs interpellés
-888. « Elle souffre d’une fracture de la pommette et d’une dent cassée » : à Chavigny (54), une conductrice de bus agressée après avoir voulu s’interposer entre deux jeunes et un couple qu’ils tentaient de racketter ; deux gardes à vue
+891. Boissy-l’Aillerie (95) : Pour une prime de 1.050 €, Amara, 49 ans, tue son patron de 36 coups de couteau ; il invoque son divorce et l’éloignement de sa famille restée en Algérie. (MàJ : Condamné à 28 ans, libérable dans 11 ans selon son avocat)
+892. Montpellier (34) : un individu, muni d’un couteau, a blessé à coups de barre de fer, quatre personnes choisies au hasard, dont une médecin à l’hôpital Lapeyronie et un homme à une station de tramway
+893. Assassinat de Dominique Bernard : le frère du terroriste a failli être libéré sous bracelet. Soupçonné de complicité et de se radicaliser, il reste en détention grâce à un appel du PNAT (MàJ. remis en liberté sous bracelet)
+894. Reims. Pronostic vital engagé pour un adolescent blessé par balle par des tirs en plein après-midi
+895. Villeurbanne (69) : deux Algériens en situation irrégulière arrachent le collier d’une femme âgée. Ils écopent d’une OQTF assortie d’une assignation à résidence en attendant leur comparution
+896. En 2025, les refus d’obtempérer routiers sont en nette hausse (+10%), en particulier dans leur forme aggravée (+16%). Les étrangers de nationalité maghrébine y sont très largement surreprésentés
+897. L’association France Terre d’asile, présente au centre de rétention administrative (CRA) d’Oissel (76) pour accompagner les étrangers clandestins, avait décidé, à la suite d’agressions physiques subies par ses salariés, de ne plus assurer ses missions
+898. Montpellier (34) : accusé du viol de six fillettes, un Lodévois n’a toujours pas été jugé douze ans après la première plainte et vit libre
+899. Sihem Souid condamnée : Tracfin ciblait les flux financiers de l’ancienne membre du PS, passée par le ministère Taubira, distinguée par Anticor comme “lanceur d’alerte dans la police” et devenue communicante du Qatar
+900. Limay (78) : une fillette de 5 ans violée dans un parking par un voisin qui était apprécié du voisinage (MàJ : « Elle a perdu sa joie de vivre », la détresse des proches de la victime. L’auteur, Kureysh, un Tchétchène de 62 ans, mis en examen)
 </journal>
 
 </titres>
