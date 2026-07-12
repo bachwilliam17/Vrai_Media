@@ -15,7 +15,7 @@ LIGNE 4 — L'ANGLE MORT : ce que LES DEUX camps omettent, ou la question que pe
 
 ## Règles d'écriture
 - 280 caractères visés, 400 maximum. Chaque mot doit mériter sa place.
-- INTERDIT de paraphraser les titres : cite-les tels quels, avec le nom du média. La preuve fait la crédibilité.
+- INTERDIT de paraphraser les titres : cite-les tels quels, sans le nom du média. La preuve fait la crédibilité.
 - Choisis pour chaque camp le titre le plus révélateur du cadrage, pas le plus neutre.
 - Si un camp ignore le sujet, c'est l'information la plus forte : « Silence total côté [droite/gauche]. Aucun article. » et fais-en la chute.
 - Casse la symétrie : si un cadrage est plus tordu que l'autre, dis-le. Le post doit avoir une tension, pas un équilibre.
