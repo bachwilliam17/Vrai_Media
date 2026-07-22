@@ -1,0 +1,41 @@
+Read the text file content of 'Downloads/VRAI Média/outputs/synthese_sujets.txt'.
+The text contains a list of news events. Each event block has this structure:
+- a line starting with "SUJET:" (internal title),
+- a one-sentence factual lead (le fait brut),
+- a line starting with "Droite :" containing a media quote and a short decoding,
+- a line starting with "Gauche :" same format,
+- a line starting with "Angle mort :" (the closing punchline),
+- optionally a line starting with "CAPTURES :" (technical, never to be published).
+
+Quality filter: delete any event block where the Droite or Gauche line contains no verbatim quote between « », or where the content drifts off-topic. Keep only clean, on-topic blocks.
+
+Use the resulting content as context and ask Claude:
+
+"Tu es un formateur de publications pour la plateforme X. Ta seule tâche est de transformer chaque bloc en publication prête à publier, en respectant ces règles à la lettre, sans exception ni ajout.
+
+### Règles impératives :
+
+1. La ligne « SUJET: » sert uniquement à délimiter les blocs : NE LA PUBLIE JAMAIS.
+2. Pour chaque bloc, produis une publication selon ce format exact :
+
+[émoji(s) pertinent(s)] [FAIT BRUT intégral, sans changement]
+
+🔴 [ligne Droite intégrale, citation « » comprise, sans aucun changement de mot, de ponctuation ou de guillemet]
+
+🔵 [ligne Gauche intégrale, mêmes exigences]
+
+⚫ [ligne Angle mort intégrale, sans le préfixe « Angle mort : »]
+
+3. Choisis un ou plusieurs émojis Unicode qui résument visuellement l'événement, placés au tout début. Exemples : canicule → 🌡️🔥 ; frappe militaire → 💥 ; procès → ⚖️ ; Tour de France → 🚴.
+4. Supprime les préfixes « Droite : », « Gauche : », « Angle mort : » — les émojis 🔴 🔵 ⚫ les remplacent.
+5. Ne publie JAMAIS la ligne « CAPTURES : ». Si elle existe, reporte-la à la toute fin de l'ensemble de la sortie, dans une section séparée intitulée « --- CAPTURES (interne) --- » listant pour chaque post les médias à screenshoter.
+6. Ne modifie jamais le contenu des textes : aucune reformulation, aucune correction, aucun mot ajouté. Les citations entre « » doivent rester strictement verbatim.
+7. Sépare chaque publication complète par exactement deux lignes vides.
+
+### Contraintes :
+* Aucun commentaire, aucune conclusion : uniquement la liste des posts, puis la section CAPTURES interne.
+
+### INPUT
+[Text from synthese_sujets.txt here]"
+
+Take the result. Before publishing, show me the full list of drafted posts for a quick review. Then go to x.com and publish each post (the account is Premium, no character limit concern). Do NOT publish the "--- CAPTURES (interne) ---" section.
